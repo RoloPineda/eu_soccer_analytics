@@ -1,0 +1,512 @@
+name,url,value,club_name,country_league,dob_and_age,birth_place,citizenship,height,postion,agent,national_player,caps/goals,foot,age,current_international,former_international
+Manuel Neuer,/manuel-neuer/profil/spieler/17259,€7.00m,Bayern Munich,GER,"Mar 27, 1986 (37)",Gelsenkirchen,Germany,"1,93 m",Goalkeeper,PRO Profil GmbH,Germany,117 / 0,right,37,,
+Daniel Peretz,/daniel-peretz/profil/spieler/468539,€4.00m,Bayern Munich,GER,"Jul 10, 2000 (23)",Tel Aviv,Israel,"1,90 m",Goalkeeper,,,Jan-00,right,23,Israel,
+Sven Ulreich,/sven-ulreich/profil/spieler/40680,€700k,Bayern Munich,GER,"Aug 3, 1988 (35)",Schorndorf,Germany,"1,92 m",Goalkeeper,,,0 / 0,right,35,,Germany
+Tom Hülsmann,/tom-hulsmann/profil/spieler/639582,€75k,Bayern Munich,GER,"Apr 11, 2004 (19)",Trier,Germany,"2,05 m",Goalkeeper,,,,right,19,,
+Matthijs de Ligt,/matthijs-de-ligt/profil/spieler/326031,€75.00m,Bayern Munich,GER,"Aug 12, 1999 (24)",Leiderdorp,Netherlands,"1,89 m",Centre-Back,Rafaela Pimenta,,42 / 2,right,24,Netherlands,
+Dayot Upamecano,/dayot-upamecano/profil/spieler/344695,€60.00m,Bayern Munich,GER,"Oct 27, 1998 (24)",Évreux,France,"1,86 m",Centre-Back,,,16 / 2,right,24,France,
+Min-jae Kim,/min-jae-kim/profil/spieler/503482,€60.00m,Bayern Munich,GER,"Nov 15, 1996 (26)","Tongyeong, Gyeongnam","Korea, South","1,90 m",Centre-Back,,,49 / 3,right,26,South Korea,
+Tarek Buchmann,/tarek-buchmann/profil/spieler/744729,,Bayern Munich,GER,"Feb 28, 2005 (18)",Augsburg,Germany,"1,88 m",Centre-Back,11WINS,Germany U18,Jan-00,,18,,
+Alphonso Davies,/alphonso-davies/profil/spieler/424204,€70.00m,Bayern Munich,GER,"Nov 2, 2000 (22)",Buduburam,Canada,"1,85 m",Left-Back,ATG Sports,Canada,41 / 14,left,22,,
+Raphaël Guerreiro,/raphael-guerreiro/profil/spieler/170986,€20.00m,Bayern Munich,GER,"Dec 22, 1993 (29)",Le Blanc-Mesnil,Portugal,"1,70 m",Left-Back,,,64 / 4,left,29,Portugal,
+Frans Krätzig,/frans-kratzig/profil/spieler/604320,€150k,Bayern Munich,GER,"Jan 14, 2003 (20)",,Germany,"1,71 m",Left-Back,ROOF Talents,,Jan-00,left,20,Germany U20,
+Noussair Mazraoui,/noussair-mazraoui/profil/spieler/340456,€28.00m,Bayern Munich,GER,"Nov 14, 1997 (25)",Leiderdorp,Morocco,"1,83 m",Right-Back,Rafaela Pimenta,,24 / 2,right,25,Morocco,
+Bouna Sarr,/bouna-sarr/profil/spieler/190685,€2.00m,Bayern Munich,GER,"Jan 31, 1992 (31)",Lyon,Senegal,"1,78 m",Right-Back,,,13 / 0,right,31,,Senegal
+Joshua Kimmich,/joshua-kimmich/profil/spieler/161056,€75.00m,Bayern Munich,GER,"Feb 8, 1995 (28)",Rottweil,Germany,"1,77 m",Defensive Midfield,,,80 / 6,right,28,Germany,
+Aleksandar Pavlovic,/aleksandar-pavlovic/profil/spieler/792380,€200k,Bayern Munich,GER,"May 3, 2004 (19)",München,Germany,"1,88 m",Defensive Midfield,,,,na,19,,
+Leon Goretzka,/leon-goretzka/profil/spieler/153084,€45.00m,Bayern Munich,GER,"Feb 6, 1995 (28)",Bochum,Germany,"1,89 m",Central Midfield,,Germany,53 / 14,right,28,,
+Konrad Laimer,/konrad-laimer/profil/spieler/223967,€28.00m,Bayern Munich,GER,"May 27, 1997 (26)",Salzburg,Austria,"1,80 m",Central Midfield,ROOF,,26 / 2,right,26,Austria,
+Jamal Musiala,/jamal-musiala/profil/spieler/580195,€110.00m,Bayern Munich,GER,"Feb 26, 2003 (20)",Stuttgart,Germany,"1,84 m",Attacking Midfield,11WINS,Germany,23 / 1,right,20,,
+Kingsley Coman,/kingsley-coman/profil/spieler/243714,€65.00m,Bayern Munich,GER,"Jun 13, 1996 (27)",Paris,France,"1,81 m",Left Winger,,,50 / 5,right,27,France,
+Leroy Sané,/leroy-sane/profil/spieler/192565,€65.00m,Bayern Munich,GER,"Jan 11, 1996 (27)",Essen,Germany,"1,83 m",Right Winger,,,54 / 12,left,27,Germany,
+Serge Gnabry,/serge-gnabry/profil/spieler/159471,€55.00m,Bayern Munich,GER,"Jul 14, 1995 (28)",Stuttgart,Germany,"1,76 m",Right Winger,ROOF,,42 / 22,right,28,Germany,
+Thomas Müller,/thomas-muller/profil/spieler/58358,€12.00m,Bayern Munich,GER,"Sep 13, 1989 (33)",Weilheim in ...,Germany,"1,85 m",Second Striker,,,122 / 44,right,33,Germany,
+Harry Kane,/harry-kane/profil/spieler/132098,€90.00m,Bayern Munich,GER,"Jul 28, 1993 (30)",London,England,"1,88 m",Centre-Forward,,,85 / 58,right,30,England,
+Mathys Tel,/mathys-tel/profil/spieler/801734,€20.00m,Bayern Munich,GER,"Apr 27, 2005 (18)",Sarcelles,France,"1,83 m",Centre-Forward,,,0 / 0,right,18,France U19,
+Eric-Maxim Choupo-Moting,/eric-maxim-choupo-moting/profil/spieler/45660,€5.00m,Bayern Munich,GER,"Mar 23, 1989 (34)",Hamburg,Cameroon,"1,91 m",Centre-Forward,ROGON,,73 / 21,right,34,Cameroon,
+Gregor Kobel,/gregor-kobel/profil/spieler/257814,€35.00m,Borussia Dortmund,GER,"Dec 6, 1997 (25)",Zürich,Switzerland,"1,94 m",Goalkeeper,,Switzerland,May-00,right,25,,
+Marcel Lotka,/marcel-lotka/profil/spieler/453737,€1.50m,Borussia Dortmund,GER,"May 25, 2001 (22)",Duisburg,Germany,"1,90 m",Goalkeeper,SEG,,Feb-00,right,22,,Poland U21
+Alexander Meyer,/alexander-meyer/profil/spieler/76158,€1.00m,Borussia Dortmund,GER,"Apr 13, 1991 (32)",Bad Oldesloe,Germany,"1,95 m",Goalkeeper,,,,right,32,,
+Nico Schlotterbeck,/nico-schlotterbeck/profil/spieler/388198,€40.00m,Borussia Dortmund,GER,"Dec 1, 1999 (23)",Waiblingen,Germany,"1,91 m",Centre-Back,,,Nov-00,left,23,Germany,
+Niklas Süle,/niklas-sule/profil/spieler/166601,€35.00m,Borussia Dortmund,GER,"Sep 3, 1995 (28)",Frankfurt am Main,Germany,"1,95 m",Centre-Back,Sports360 GmbH,,46 / 1,right,28,Germany,
+Mats Hummels,/mats-hummels/profil/spieler/39728,€6.00m,Borussia Dortmund,GER,"Dec 16, 1988 (34)",Bergisch Gladbach,Germany,"1,91 m",Centre-Back,,,76 / 5,right,34,,Germany
+Antonios Papadopoulos,/antonios-papadopoulos/profil/spieler/482573,€600k,Borussia Dortmund,GER,"Sep 10, 1999 (24)",Stuttgart,Germany,"1,86 m",Centre-Back,,,,right,24,,
+Ramy Bensebaini,/ramy-bensebaini/profil/spieler/284732,€20.00m,Borussia Dortmund,GER,"Apr 16, 1995 (28)",Constantine,Algeria,"1,87 m",Left-Back,,,54 / 6,left,28,Algeria,
+Julian Ryerson,/julian-ryerson/profil/spieler/370789,€13.00m,Borussia Dortmund,GER,"Nov 17, 1997 (25)",Lyngdal,Norway,"1,83 m",Right-Back,,,19 / 0,right,25,Norway,
+Marius Wolf,/marius-wolf/profil/spieler/193900,€10.00m,Borussia Dortmund,GER,"May 27, 1995 (28)",Coburg,Germany,"1,87 m",Right-Back,ROGON,Germany,May-00,right,28,,
+Thomas Meunier,/thomas-meunier/profil/spieler/100986,€5.00m,Borussia Dortmund,GER,"Sep 12, 1991 (31)",Sainte-Ode,Belgium,"1,91 m",Right-Back,,Belgium,62 / 8,right,31,,
+Mateu Morey,/mateu-morey/profil/spieler/388513,€1.00m,Borussia Dortmund,GER,"Mar 2, 2000 (23)",Palma de Mallorca,Spain,"1,73 m",Right-Back,,,0 / 0,right,23,,Spain U21
+Emre Can,/emre-can/profil/spieler/119296,€14.00m,Borussia Dortmund,GER,"Jan 12, 1994 (29)",Frankfurt am Main,Germany,"1,86 m",Defensive Midfield,ISM Int. Soccer ...,,42 / 1,right,29,Germany,
+Salih Özcan,/salih-ozcan/profil/spieler/244940,€13.00m,Borussia Dortmund,GER,"Jan 11, 1998 (25)",Köln,Turkey,"1,83 m",Defensive Midfield,Dirk Hebel,,Nov-00,right,25,Turkey,
+Abdoulaye Kamara,/abdoulaye-kamara/profil/spieler/718232,€1.00m,Borussia Dortmund,GER,"Nov 6, 2004 (18)",Conakry,France,"1,85 m",Defensive Midfield,,,,right,18,,
+Marcel Sabitzer,/marcel-sabitzer/profil/spieler/106987,€20.00m,Borussia Dortmund,GER,"Mar 17, 1994 (29)",Wels,Austria,"1,77 m",Central Midfield,ROGON,,71 / 14,right,29,Austria,
+Felix Nmecha,/felix-nmecha/profil/spieler/406640,€15.00m,Borussia Dortmund,GER,"Oct 10, 2000 (22)",Hamburg,Germany,"1,90 m",Central Midfield,,,Jan-00,right,22,Germany,
+Ole Pohlmann,/ole-pohlmann/profil/spieler/405690,€400k,Borussia Dortmund,GER,"Apr 5, 2001 (22)",Minden,Germany,"1,83 m",Central Midfield,ROOF,,Apr-00,right,22,,Germany U18
+Julian Brandt,/julian-brandt/profil/spieler/187492,€40.00m,Borussia Dortmund,GER,"May 2, 1996 (27)",Bremen,Germany,"1,85 m",Attacking Midfield,,,43 / 3,right,27,Germany,
+Giovanni Reyna,/giovanni-reyna/profil/spieler/504215,€25.00m,Borussia Dortmund,GER,"Nov 13, 2002 (20)",Durham,United States,"1,85 m",Attacking Midfield,,USA,20 / 4,right,20,,
+Marco Reus,/marco-reus/profil/spieler/35207,€7.00m,Borussia Dortmund,GER,"May 31, 1989 (34)",Dortmund,Germany,"1,80 m",Attacking Midfield,Dirk Hebel,,48 / 15,right,34,,Germany
+Karim Adeyemi,/karim-adeyemi/profil/spieler/496094,€40.00m,Borussia Dortmund,GER,"Jan 18, 2002 (21)",München,Germany,"1,80 m",Left Winger,,Germany,1-Apr,left,21,,
+Jamie Bynoe-Gittens,/jamie-bynoe-gittens/profil/spieler/670882,€14.00m,Borussia Dortmund,GER,"Aug 8, 2004 (19)",London,England,"1,77 m",Left Winger,,,0 / 0,right,19,England U21,
+Donyell Malen,/donyell-malen/profil/spieler/326029,€28.00m,Borussia Dortmund,GER,"Jan 19, 1999 (24)",Wieringen,Netherlands,"1,78 m",Right Winger,Rafaela Pimenta,,22 / 5,right,24,Netherlands,
+Julien Duranville,/julien-duranville/profil/spieler/819215,€8.50m,Borussia Dortmund,GER,"May 5, 2006 (17)",Uccle,Belgium,"1,70 m",Right Winger,,Belgium U19,Feb-00,right,17,,
+Sébastien Haller,/sebastien-haller/profil/spieler/181375,€30.00m,Borussia Dortmund,GER,"Jun 22, 1994 (29)",Ris-Orangis,Cote d'Ivoire,"1,91 m",Centre-Forward,,,17 / 5,right,29,Ivory Coast,
+Youssoufa Moukoko,/youssoufa-moukoko/profil/spieler/467720,€30.00m,Borussia Dortmund,GER,"Nov 20, 2004 (18)",Yaoundé,Germany,"1,79 m",Centre-Forward,,,6-Jul,left,18,Germany U21,
+Niclas Füllkrug,/niclas-fullkrug/profil/spieler/75489,€13.00m,Borussia Dortmund,GER,"Feb 9, 1993 (30)",Hannover,Germany,"1,89 m",Centre-Forward,ROOF,Germany,7-Sep,right,30,,
+Lukas Hradecky,/lukas-hradecky/profil/spieler/48015,€2.50m,Bayer 04 Leverkusen,GER,"Nov 24, 1989 (33)",Bratislava,Finland,"1,92 m",Goalkeeper,,,85 / 0,right,33,Finland,
+Matej Kovar,/matej-kovar/profil/spieler/550829,€1.80m,Bayer 04 Leverkusen,GER,"May 17, 2000 (23)",Uherské Hradiště,Czech Republic,"1,96 m",Goalkeeper,,Czechia U21,Nov-00,right,23,,
+Niklas Lomb,/niklas-lomb/profil/spieler/85543,€250k,Bayer 04 Leverkusen,GER,"Jul 28, 1993 (30)",Köln,Germany,"1,86 m",Goalkeeper,Dirk Hebel,,,right,30,,
+Piero Hincapié,/piero-hincapie/profil/spieler/659813,€35.00m,Bayer 04 Leverkusen,GER,"Jan 9, 2002 (21)",Esmeraldas,Ecuador,"1,84 m",Centre-Back,,Ecuador,27 / 1,left,21,,
+Edmond Tapsoba,/edmond-tapsoba/profil/spieler/564545,€30.00m,Bayer 04 Leverkusen,GER,"Feb 2, 1999 (24)",Ouagadougou,Burkina Faso,"1,92 m",Centre-Back,,,36 / 1,right,24,Burkina Faso,
+Jonathan Tah,/jonathan-tah/profil/spieler/196357,€20.00m,Bayer 04 Leverkusen,GER,"Feb 11, 1996 (27)",Hamburg,Germany,"1,95 m",Centre-Back,,,16 / 0,right,27,Germany,
+Odilon Kossounou,/odilon-kossounou/profil/spieler/644771,€18.00m,Bayer 04 Leverkusen,GER,"Jan 4, 2001 (22)",Abidjan,Cote d'Ivoire,"1,91 m",Centre-Back,Unique Sports Group,,17 / 0,right,22,Ivory Coast,
+Madi Monamay,/madi-monamay/profil/spieler/937113,,Bayer 04 Leverkusen,GER,"Apr 6, 2006 (17)",,Belgium,,Centre-Back,,,0 / 0,right,17,Belgium U18,
+Alejandro Grimaldo,/alejandro-grimaldo/profil/spieler/193082,€25.00m,Bayer 04 Leverkusen,GER,"Sep 20, 1995 (27)",Valencia,Spain,"1,71 m",Left-Back,,,Feb-00,left,27,,Spain U21
+Jeremie Frimpong,/jeremie-frimpong/profil/spieler/484547,€40.00m,Bayer 04 Leverkusen,GER,"Dec 10, 2000 (22)",Amsterdam,Netherlands,"1,71 m",Right-Back,Dirk Hebel,Netherlands,0 / 0,right,22,,
+Josip Stanisic,/josip-stanisic/profil/spieler/483046,€12.00m,Bayer 04 Leverkusen,GER,"Apr 2, 2000 (23)",München,Croatia,"1,87 m",Right-Back,,,Nov-00,na,23,Croatia,
+Arthur,/arthur/profil/spieler/977464,€5.00m,Bayer 04 Leverkusen,GER,"Mar 17, 2003 (20)",Belo Horizonte,Brazil,"1,74 m",Right-Back,,,Jan-00,right,20,Brazil U23,
+Timothy Fosu-Mensah,/timothy-fosu-mensah/profil/spieler/315131,€2.00m,Bayer 04 Leverkusen,GER,"Jan 2, 1998 (25)",Amsterdam,Netherlands,"1,85 m",Right-Back,,,Mar-00,right,25,,Netherlands
+Granit Xhaka,/granit-xhaka/profil/spieler/111455,€20.00m,Bayer 04 Leverkusen,GER,"Sep 27, 1992 (30)",Basel,Switzerland,"1,86 m",Defensive Midfield,,,115 / 13,left,30,Switzerland,
+Noah Mbamba,/noah-mbamba/profil/spieler/743395,€3.00m,Bayer 04 Leverkusen,GER,"Jan 5, 2005 (18)",Elsene,Belgium,"1,87 m",Defensive Midfield,,,Nov-00,right,18,Belgium U19,
+Exequiel Palacios,/exequiel-palacios/profil/spieler/401578,€22.00m,Bayer 04 Leverkusen,GER,"Oct 5, 1998 (24)",Famaillá,Argentina,"1,77 m",Central Midfield,,,26 / 0,right,24,Argentina,
+Robert Andrich,/robert-andrich/profil/spieler/159088,€11.00m,Bayer 04 Leverkusen,GER,"Sep 22, 1994 (28)",Potsdam,Germany,"1,87 m",Central Midfield,,,Feb-00,right,28,,Germany U20
+Nadiem Amiri,/nadiem-amiri/profil/spieler/232454,€6.00m,Bayer 04 Leverkusen,GER,"Oct 27, 1996 (26)",Ludwigshafen am ...,Germany,"1,80 m",Central Midfield,,,May-00,right,26,,Germany
+Gustavo Puerta,/gustavo-puerta/profil/spieler/936981,€1.50m,Bayer 04 Leverkusen,GER,"Jul 23, 2003 (20)",La Víctoria,Colombia,"1,73 m",Central Midfield,,,29 / 5,right,20,Colombia U20,
+Florian Wirtz,/florian-wirtz/profil/spieler/598577,€85.00m,Bayer 04 Leverkusen,GER,"May 3, 2003 (20)",Pulheim,Germany,"1,77 m",Attacking Midfield,,,Sep-00,right,20,Germany,
+Ayman Aourir,/ayman-aourir/profil/spieler/696027,,Bayer 04 Leverkusen,GER,"Oct 6, 2004 (18)",Köln,Germany,"1,72 m",Attacking Midfield,,,Feb-00,na,18,,Morocco U17
+Amine Adli,/amine-adli/profil/spieler/532776,€20.00m,Bayer 04 Leverkusen,GER,"May 10, 2000 (23)",Béziers,Morocco,"1,80 m",Right Winger,,,0 / 0,left,23,Morocco,
+Nathan Tella,/nathan-tella/profil/spieler/340322,€18.00m,Bayer 04 Leverkusen,GER,"Jul 5, 1999 (24)",Stevenage,England,"1,73 m",Right Winger,CAA Stellar,,,right,24,,
+Jonas Hofmann,/jonas-hofmann/profil/spieler/7161,€13.00m,Bayer 04 Leverkusen,GER,"Jul 14, 1992 (31)",Heidelberg,Germany,"1,76 m",Right Winger,,,21 / 4,right,31,Germany,
+Patrik Schick,/patrik-schick/profil/spieler/242086,€25.00m,Bayer 04 Leverkusen,GER,"Jan 24, 1996 (27)",Praha,Czech Republic,"1,91 m",Centre-Forward,,Czechia,35 / 18,left,27,,
+Adam Hlozek,/adam-hlozek/profil/spieler/552057,€18.00m,Bayer 04 Leverkusen,GER,"Jul 25, 2002 (21)",Ivančice,Czech Republic,"1,88 m",Centre-Forward,,,25 / 2,right,21,Czechia,
+Victor Boniface,/victor-boniface/profil/spieler/656681,€12.00m,Bayer 04 Leverkusen,GER,"Dec 23, 2000 (22)",Akure,Nigeria,"1,90 m",Centre-Forward,,,0 / 0,right,22,Nigeria,
+Péter Gulácsi,/peter-gulacsi/profil/spieler/57071,€5.00m,RB Leipzig,GER,"May 6, 1990 (33)",Budapest,Hungary,"1,90 m",Goalkeeper,,,51 / 0,right,33,Hungary,
+Janis Blaswich,/janis-blaswich/profil/spieler/81173,€2.50m,RB Leipzig,GER,"May 2, 1991 (32)",Willich,Germany,"1,93 m",Goalkeeper,PRO Profil GmbH,,,right,32,,
+Leopold Zingerle,/leopold-zingerle/profil/spieler/160971,€400k,RB Leipzig,GER,"Apr 10, 1994 (29)",München,Germany,"1,85 m",Goalkeeper,,,Jan-00,right,29,,Germany U20
+Timo Schlieck,/timo-schlieck/profil/spieler/897425,€200k,RB Leipzig,GER,"Mar 2, 2006 (17)",Oelde,Germany,"1,95 m",Goalkeeper,,Germany U17,Apr-00,right,17,,
+Mohamed Simakan,/mohamed-simakan/profil/spieler/666234,€25.00m,RB Leipzig,GER,"May 3, 2000 (23)",Marseille,France,"1,87 m",Centre-Back,,France U21,Jul-00,right,23,,
+Castello Lukeba,/castello-lukeba/profil/spieler/618472,€25.00m,RB Leipzig,GER,"Dec 17, 2002 (20)",Lyon,France,"1,84 m",Centre-Back,,,Oct-00,left,20,France U21,
+Willi Orbán,/willi-orban/profil/spieler/93740,€10.00m,RB Leipzig,GER,"Nov 3, 1992 (30)",Kaiserslautern,Hungary,"1,86 m",Centre-Back,ROGON,,42 / 6,right,30,Hungary,
+El Chadaille Bitshiabu,/el-chadaille-bitshiabu/profil/spieler/787912,€7.00m,RB Leipzig,GER,"May 16, 2005 (18)",Villeneuve-Saint-Geo...,France,"1,96 m",Centre-Back,Gestifute,France U19,Mar-00,left,18,,
+David Raum,/david-raum/profil/spieler/318204,€14.00m,RB Leipzig,GER,"Apr 22, 1998 (25)",Nürnberg,Germany,"1,80 m",Left-Back,ROOF,Germany,18 / 0,left,25,,
+Christopher Lenz,/christopher-lenz/profil/spieler/159844,€2.50m,RB Leipzig,GER,"Sep 22, 1994 (28)",Berlin,Germany,"1,80 m",Left-Back,ROOF,,Oct-00,left,28,,Germany U19
+Benjamin Henrichs,/benjamin-henrichs/profil/spieler/202591,€15.00m,RB Leipzig,GER,"Feb 23, 1997 (26)",Bocholt,Germany,"1,85 m",Right-Back,CN Sports,,Oct-00,right,26,Germany,
+Lukas Klostermann,/lukas-klostermann/profil/spieler/215599,€12.00m,RB Leipzig,GER,"Jun 3, 1996 (27)",Gevelsberg,Germany,"1,89 m",Right-Back,,Germany,22 / 0,right,27,,
+Xaver Schlager,/xaver-schlager/profil/spieler/223979,€22.00m,RB Leipzig,GER,"Sep 28, 1997 (25)",Linz,Austria,"1,74 m",Central Midfield,ROOF,,35 / 3,left,25,Austria,
+Nicolas Seiwald,/nicolas-seiwald/profil/spieler/404950,€20.00m,RB Leipzig,GER,"May 4, 2001 (22)",Kuchl,Austria,"1,79 m",Central Midfield,Sports360 GmbH,,14 / 0,right,22,Austria,
+Amadou Haidara,/amadou-haidara/profil/spieler/402008,€17.00m,RB Leipzig,GER,"Jan 31, 1998 (25)",Bamako,Mali,"1,75 m",Central Midfield,ROOF,,35 / 2,right,25,Mali,
+Ilaix Moriba,/ilaix-moriba/profil/spieler/617074,€4.00m,RB Leipzig,GER,"Jan 19, 2003 (20)",Conakry,Guinea,"1,85 m",Central Midfield,CAA Stellar,,14 / 1,right,20,Guinea,
+Kevin Kampl,/kevin-kampl/profil/spieler/53418,€3.50m,RB Leipzig,GER,"Oct 9, 1990 (32)",Solingen,Slovenia,"1,78 m",Central Midfield,,,28 / 2,right,32,,Slovenia
+Dani Olmo,/dani-olmo/profil/spieler/293385,€40.00m,RB Leipzig,GER,"May 7, 1998 (25)",Terrassa,Spain,"1,79 m",Attacking Midfield,,,32 / 7,right,25,Spain,
+Christoph Baumgartner,/christoph-baumgartner/profil/spieler/324278,€24.00m,RB Leipzig,GER,"Aug 1, 1999 (24)",Horn,Austria,"1,80 m",Attacking Midfield,,,29 / 10,right,24,Austria,
+Fábio Carvalho,/fabio-carvalho/profil/spieler/559263,€16.00m,RB Leipzig,GER,"Aug 30, 2002 (21)",Torres Vedras,Portugal,"1,70 m",Attacking Midfield,,,2-Apr,right,21,,Portugal U21
+Emil Forsberg,/emil-forsberg/profil/spieler/111078,€7.00m,RB Leipzig,GER,"Oct 23, 1991 (31)",Sundsvall,Sweden,"1,77 m",Attacking Midfield,,,82 / 20,right,31,Sweden,
+Xavi Simons,/xavi-simons/profil/spieler/566931,€40.00m,RB Leipzig,GER,"Apr 21, 2003 (20)",Amsterdam,Netherlands,"1,79 m",Right Winger,,,May-00,right,20,Netherlands,
+Loïs Openda,/lois-openda/profil/spieler/368887,€35.00m,RB Leipzig,GER,"Feb 16, 2000 (23)",Liège,Belgium,"1,77 m",Centre-Forward,,,2-Oct,right,23,Belgium,
+Timo Werner,/timo-werner/profil/spieler/170527,€25.00m,RB Leipzig,GER,"Mar 6, 1996 (27)",Stuttgart,Germany,"1,80 m",Centre-Forward,Sports360 GmbH,Germany,57 / 24,right,27,,
+Benjamin Sesko,/benjamin-sesko/profil/spieler/627442,€24.00m,RB Leipzig,GER,"May 31, 2003 (20)",Radeče,Slovenia,"1,94 m",Centre-Forward,,,22 / 7,right,20,Slovenia,
+Yussuf Poulsen,/yussuf-poulsen/profil/spieler/157635,€7.00m,RB Leipzig,GER,"Jun 15, 1994 (29)",Kopenhagen,Denmark,"1,92 m",Centre-Forward,,,69 / 12,right,29,Denmark,
+Koen Casteels,/koen-casteels/profil/spieler/108880,€8.00m,VfL Wolfsburg,GER,"Jun 25, 1992 (31)",Bonheiden,Belgium,"1,97 m",Goalkeeper,,,Jun-00,left,31,Belgium,
+Pavao Pervan,/pavao-pervan/profil/spieler/51977,€400k,VfL Wolfsburg,GER,"Nov 13, 1987 (35)",Livno,Austria,"1,94 m",Goalkeeper,ROOF,,Jul-00,na,35,,Austria
+Philipp Schulze,/philipp-schulze/profil/spieler/574203,€200k,VfL Wolfsburg,GER,"Jan 29, 2003 (20)",Neustadt am ...,Germany,"1,90 m",Goalkeeper,PRO Profil GmbH,,Jan-00,,20,,Germany U18
+Niklas Klinger,/niklas-klinger/profil/spieler/192268,€100k,VfL Wolfsburg,GER,"Oct 13, 1995 (27)",Wolfsburg,Germany,"1,87 m",Goalkeeper,,,,right,27,,
+Maxence Lacroix,/maxence-lacroix/profil/spieler/434224,€17.00m,VfL Wolfsburg,GER,"Apr 6, 2000 (23)",Villeneuve-Saint-Geo...,France,"1,90 m",Centre-Back,,,Feb-00,right,23,,France U20
+Sebastiaan Bornauw,/sebastiaan-bornauw/profil/spieler/338629,€8.50m,VfL Wolfsburg,GER,"Mar 22, 1999 (24)",Wemmel,Belgium,"1,91 m",Centre-Back,CAA Stellar,Belgium,Apr-00,right,24,,
+Moritz Jenz,/moritz-jenz/profil/spieler/460245,€7.50m,VfL Wolfsburg,GER,"Apr 30, 1999 (24)",Berlin,Germany,"1,90 m",Centre-Back,Sports360 GmbH,,,right,24,,
+Cédric Zesiger,/cedric-zesiger/profil/spieler/382478,€5.50m,VfL Wolfsburg,GER,"Jun 24, 1998 (25)",Meyriez FR,Switzerland,"1,94 m",Centre-Back,,,Feb-00,left,25,Switzerland,
+Felix Lange,/felix-lange/profil/spieler/798773,,VfL Wolfsburg,GER,"Mar 13, 2004 (19)",Braunschweig,Germany,"1,87 m",Centre-Back,,,,right,19,,
+Rogério,/rogerio/profil/spieler/401527,€5.50m,VfL Wolfsburg,GER,"Jan 13, 1998 (25)",Nobres,Brazil,"1,78 m",Left-Back,,,Jan-00,left,25,,Brazil U23
+Nicolas Cozza,/nicolas-cozza/profil/spieler/485965,€3.50m,VfL Wolfsburg,GER,"Jan 8, 1999 (24)",Ganges,France,"1,78 m",Left-Back,,,Jul-00,left,24,,France U21
+Joakim Maehle,/joakim-maehle/profil/spieler/369674,€14.00m,VfL Wolfsburg,GER,"May 20, 1997 (26)",Østervrå,Denmark,"1,85 m",Right-Back,,,37 / 10,right,26,Denmark,
+Ridle Baku,/ridle-baku/profil/spieler/327251,€13.00m,VfL Wolfsburg,GER,"Apr 8, 1998 (25)",Mainz,Germany,"1,76 m",Right-Back,Sports360 GmbH,,1-Apr,right,25,,Germany
+Kilian Fischer,/kilian-fischer/profil/spieler/435796,€2.00m,VfL Wolfsburg,GER,"Oct 12, 2000 (22)",Miltenberg,Germany,"1,82 m",Right-Back,,Germany U21,Jul-00,na,22,,
+Lovro Majer,/lovro-majer/profil/spieler/387106,€20.00m,VfL Wolfsburg,GER,"Jan 17, 1998 (25)",Zagreb,Croatia,"1,78 m",Central Midfield,,,21 / 4,left,25,Croatia,
+Mattias Svanberg,/mattias-svanberg/profil/spieler/342405,€18.00m,VfL Wolfsburg,GER,"Jan 5, 1999 (24)",Malmö,Sweden,"1,85 m",Central Midfield,,,28 / 2,right,24,Sweden,
+Maximilian Arnold,/maximilian-arnold/profil/spieler/117674,€14.00m,VfL Wolfsburg,GER,"May 27, 1994 (29)",Riesa,Germany,"1,84 m",Central Midfield,Karl M. Herzog ...,Germany,Mar-00,left,29,,
+Aster Vranckx,/aster-vranckx/profil/spieler/503881,€8.50m,VfL Wolfsburg,GER,"Oct 4, 2002 (20)",Erps-Kwerps,Belgium,"1,83 m",Central Midfield,,,Feb-00,right,20,Belgium,
+Yannick Gerhardt,/yannick-gerhardt/profil/spieler/119277,€6.00m,VfL Wolfsburg,GER,"Mar 13, 1994 (29)",Würselen,Germany,"1,84 m",Central Midfield,,,Jan-00,left,29,,Germany
+Kevin Paredes,/kevin-paredes/profil/spieler/711517,€5.00m,VfL Wolfsburg,GER,"May 7, 2003 (20)","South Riding, ...",United States,"1,70 m",Left Midfield,,,0 / 0,left,20,USA,
+Jakub Kaminski,/jakub-kaminski/profil/spieler/407098,€12.00m,VfL Wolfsburg,GER,"Jun 5, 2002 (21)",Ruda Śląska,Poland,"1,79 m",Left Winger,,,1-Nov,right,21,Poland,
+Ulysses Llanez,/ulysses-llanez/profil/spieler/469858,€200k,VfL Wolfsburg,GER,"Apr 2, 2001 (22)","Lynwood, California",United States,"1,70 m",Left Winger,,,1-Mar,right,22,,USA
+Patrick Wimmer,/patrick-wimmer/profil/spieler/533295,€18.00m,VfL Wolfsburg,GER,"May 30, 2001 (22)",Tulln,Austria,"1,82 m",Right Winger,,,May-00,right,22,Austria,
+Vaclav Cerny,/vaclav-cerny/profil/spieler/242063,€8.00m,VfL Wolfsburg,GER,"Oct 17, 1997 (25)",Příbram,Czech Republic,"1,82 m",Right Winger,,,13 / 5,left,25,Czechia,
+Jonas Wind,/jonas-wind/profil/spieler/391004,€14.00m,VfL Wolfsburg,GER,"Feb 7, 1999 (24)",Hvidovre,Denmark,"1,90 m",Centre-Forward,,,18 / 6,right,24,Denmark,
+Lukas Nmecha,/lukas-nmecha/profil/spieler/314288,€12.00m,VfL Wolfsburg,GER,"Dec 14, 1998 (24)",Hamburg,Germany,"1,85 m",Centre-Forward,,Germany,Jul-00,right,24,,
+Amin Sarr,/amin-sarr/profil/spieler/748382,€8.00m,VfL Wolfsburg,GER,"Mar 11, 2001 (22)",Malmö,Sweden,"1,88 m",Centre-Forward,,,3-Oct,right,22,,Sweden U21
+Tiago Tomás,/tiago-tomas/profil/spieler/616344,€7.00m,VfL Wolfsburg,GER,"Jun 16, 2002 (21)",Cascais,Portugal,"1,80 m",Centre-Forward,Proeleven S.A.,,2-Aug,right,21,Portugal U21,
+Dzenan Pejcinovic,/dzenan-pejcinovic/profil/spieler/819636,€1.00m,VfL Wolfsburg,GER,"Feb 15, 2005 (18)",München,Germany,"1,88 m",Centre-Forward,Karl M. Herzog ...,,0 / 0,left,18,Germany U19,
+Frederik Rönnow,/frederik-ronnow/profil/spieler/107775,€5.50m,1.FC Union Berlin,GER,"Aug 4, 1992 (31)",Horsens,Denmark,"1,88 m",Goalkeeper,,,Aug-00,right,31,Denmark,
+Alexander Schwolow,/alexander-schwolow/profil/spieler/93763,€900k,1.FC Union Berlin,GER,"Jun 2, 1992 (31)",Wiesbaden,Germany,"1,90 m",Goalkeeper,,,Jul-00,right,31,,Germany U20
+Jakob Busk,/jakob-busk/profil/spieler/203411,€250k,1.FC Union Berlin,GER,"Sep 12, 1993 (29)",Kopenhagen,Denmark,"1,89 m",Goalkeeper,,,17 / 0,right,29,,Denmark U21
+Yannic Stein,/yannic-stein/profil/spieler/698840,€200k,1.FC Union Berlin,GER,"Sep 17, 2004 (18)",Berlin,Germany,"1,90 m",Goalkeeper,,Germany U19,Jan-00,,18,,
+Danilho Doekhi,/danilho-doekhi/profil/spieler/387047,€17.00m,1.FC Union Berlin,GER,"Jun 30, 1998 (25)",Rotterdam,Netherlands,"1,90 m",Centre-Back,,,May-00,right,25,,Netherlands U21
+Diogo Leite,/diogo-leite/profil/spieler/357156,€15.00m,1.FC Union Berlin,GER,"Jan 23, 1999 (24)",Porto,Portugal,"1,90 m",Centre-Back,,Portugal,0 / 0,left,24,,
+Paul Jaeckel,/paul-jaeckel/profil/spieler/284248,€5.00m,1.FC Union Berlin,GER,"Jul 22, 1998 (25)",Eisenhüttenstadt,Germany,"1,86 m",Centre-Back,Karl M. Herzog ...,,Feb-00,right,25,,Germany U21
+Robin Knoche,/robin-knoche/profil/spieler/94201,€5.00m,1.FC Union Berlin,GER,"May 22, 1992 (31)",Braunschweig,Germany,"1,89 m",Centre-Back,Sports360 GmbH,,0 / 0,right,31,,Germany
+Leonardo Bonucci,/leonardo-bonucci/profil/spieler/39983,€1.50m,1.FC Union Berlin,GER,"May 1, 1987 (36)",Viterbo,Italy,"1,90 m",Centre-Back,,Italy,121 / 8,right,36,,
+Jérôme Roussillon,/jerome-roussillon/profil/spieler/127076,€3.00m,1.FC Union Berlin,GER,"Jan 6, 1993 (30)",Sarcelles,Guadeloupe,"1,72 m",Left-Back,,,Feb-00,left,30,Guadeloupe,
+Josip Juranovic,/josip-juranovic/profil/spieler/362977,€12.00m,1.FC Union Berlin,GER,"Aug 16, 1995 (28)",Zagreb,Croatia,"1,73 m",Right-Back,,,32 / 0,right,28,Croatia,
+Christopher Trimmel,/christopher-trimmel/profil/spieler/75921,€800k,1.FC Union Berlin,GER,"Feb 24, 1987 (36)",Oberpullendorf,Austria,"1,89 m",Right-Back,ROOF,Austria,25 / 1,right,36,,
+Rani Khedira,/rani-khedira/profil/spieler/124410,€10.00m,1.FC Union Berlin,GER,"Jan 27, 1994 (29)",Stuttgart,Germany,"1,89 m",Defensive Midfield,,,0 / 0,right,29,,Germany U21
+Lucas Tousart,/lucas-tousart/profil/spieler/353948,€9.00m,1.FC Union Berlin,GER,"Apr 29, 1997 (26)",Arras,France,"1,84 m",Defensive Midfield,,,Jan-00,right,26,,France U23
+Alex Kral,/alex-kral/profil/spieler/337333,€7.00m,1.FC Union Berlin,GER,"May 19, 1998 (25)",Košice,Czech Republic,"1,86 m",Defensive Midfield,,,37 / 2,right,25,Czechia,
+Aljoscha Kemlein,/aljoscha-kemlein/profil/spieler/692737,€250k,1.FC Union Berlin,GER,"Aug 2, 2004 (19)",Berlin,Germany,"1,85 m",Defensive Midfield,,,Jan-00,,19,Germany U20,
+Janik Haberer,/janik-haberer/profil/spieler/177779,€7.00m,1.FC Union Berlin,GER,"Apr 2, 1994 (29)",Wangen im Allgäu,Germany,"1,86 m",Central Midfield,Unique Sports Group,,1-Sep,right,29,,Germany U21
+Aïssa Laïdouni,/aissa-laidouni/profil/spieler/233782,€7.00m,1.FC Union Berlin,GER,"Dec 13, 1996 (26)",Montfermeil,Tunisia,"1,84 m",Central Midfield,,,33 / 1,right,26,Tunisia,
+András Schäfer,/andras-schafer/profil/spieler/454863,€5.00m,1.FC Union Berlin,GER,"Apr 13, 1999 (24)",Szombathely,Hungary,"1,78 m",Central Midfield,,Hungary,22 / 3,right,24,,
+Laurenz Dehl,/laurenz-dehl/profil/spieler/451403,€200k,1.FC Union Berlin,GER,"Dec 12, 2001 (21)",Berlin,Germany,"1,80 m",Right Midfield,,,,right,21,,
+Robin Gosens,/robin-gosens/profil/spieler/273132,€15.00m,1.FC Union Berlin,GER,"Jul 5, 1994 (29)",Emmerich,Germany,"1,83 m",Left Midfield,,,17 / 2,left,29,Germany,
+Brenden Aaronson,/brenden-aaronson/profil/spieler/393323,€25.00m,1.FC Union Berlin,GER,"Oct 22, 2000 (22)","Medford, New Jersey",United States,"1,77 m",Attacking Midfield,,,33 / 7,right,22,USA,
+Sheraldo Becker,/sheraldo-becker/profil/spieler/188888,€17.00m,1.FC Union Berlin,GER,"Feb 9, 1995 (28)",Amsterdam,Suriname,"1,80 m",Second Striker,Sports360 GmbH,Suriname,2-Jul,right,28,,
+David Datro Fofana,/david-datro-fofana/profil/spieler/787232,€10.00m,1.FC Union Berlin,GER,"Dec 22, 2002 (20)",Ouragahio,Cote d'Ivoire,"1,80 m",Centre-Forward,,,0 / 0,right,20,Ivory Coast U23,
+Kevin Volland,/kevin-volland/profil/spieler/82009,€8.00m,1.FC Union Berlin,GER,"Jul 30, 1992 (31)",Marktoberdorf,Germany,"1,79 m",Centre-Forward,Unique Sports Group,,15 / 1,left,31,,Germany
+Mikkel Kaufmann,/mikkel-kaufmann/profil/spieler/545332,€2.70m,1.FC Union Berlin,GER,"Jan 3, 2001 (22)",Hjørring,Denmark,"1,89 m",Centre-Forward,,,Feb-00,right,22,,Denmark U21
+Kevin Behrens,/kevin-behrens/profil/spieler/117432,€2.00m,1.FC Union Berlin,GER,"Feb 3, 1991 (32)",Bremen,Germany,"1,85 m",Centre-Forward,,,,na,32,,
+Benedict Hollerbach,/benedict-hollerbach/profil/spieler/453870,€1.20m,1.FC Union Berlin,GER,"May 17, 2001 (22)",Starnberg,Germany,"1,81 m",Centre-Forward,PRO Profil GmbH,,1-Feb,right,22,,Germany U18
+Jonas Omlin,/jonas-omlin/profil/spieler/247915,€9.00m,Borussia Mönchengladbach,GER,"Jan 10, 1994 (29)",Sarnen,Switzerland,"1,90 m",Goalkeeper,,Switzerland,Apr-00,right,29,,
+Jan Olschowsky,/jan-olschowsky/profil/spieler/455922,€800k,Borussia Mönchengladbach,GER,"Nov 18, 2001 (21)",Neuss,Germany,"1,84 m",Goalkeeper,B360 Sports,,Jan-00,right,21,,Germany U20
+Tobias Sippel,/tobias-sippel/profil/spieler/31653,€400k,Borussia Mönchengladbach,GER,"Mar 22, 1988 (35)",Bad Dürkheim,Germany,"1,83 m",Goalkeeper,,,0 / 0,right,35,,Germany
+Moritz Nicolas,/moritz-nicolas/profil/spieler/284270,€350k,Borussia Mönchengladbach,GER,"Oct 21, 1997 (25)",Gladbeck,Germany,"1,93 m",Goalkeeper,ROOF,,Jan-00,right,25,,Germany U21
+Nico Elvedi,/nico-elvedi/profil/spieler/192635,€18.00m,Borussia Mönchengladbach,GER,"Sep 30, 1996 (26)",Zürich,Switzerland,"1,89 m",Centre-Back,,,47 / 1,right,26,Switzerland,
+Maximilian Wöber,/maximilian-wober/profil/spieler/263361,€14.00m,Borussia Mönchengladbach,GER,"Feb 4, 1998 (25)",Wien,Austria,"1,88 m",Centre-Back,,,16 / 0,left,25,Austria,
+Ko Itakura,/ko-itakura/profil/spieler/355816,€12.00m,Borussia Mönchengladbach,GER,"Jan 27, 1997 (26)","Yokohama, Kanagawa",Japan,"1,88 m",Centre-Back,,,21 / 1,right,26,Japan,
+Marvin Friedrich,/marvin-friedrich/profil/spieler/196231,€4.00m,Borussia Mönchengladbach,GER,"Dec 13, 1995 (27)",Kassel,Germany,"1,93 m",Centre-Back,ROOF,,Apr-00,right,27,,Germany U20
+Fabio Chiarodia,/fabio-chiarodia/profil/spieler/724104,€1.00m,Borussia Mönchengladbach,GER,"Jun 5, 2005 (18)",Oldenburg,Italy,"1,86 m",Centre-Back,Sports360 GmbH,,Aug-00,left,18,Italy U19,
+Tony Jantschke,/tony-jantschke/profil/spieler/47587,€600k,Borussia Mönchengladbach,GER,"Apr 7, 1990 (33)",Hoyerswerda,Germany,"1,77 m",Centre-Back,,,18 / 0,right,33,,Germany U21
+Mamadou Doucouré,/mamadou-doucoure/profil/spieler/340480,€100k,Borussia Mönchengladbach,GER,"May 21, 1998 (25)",Dakar,France,"1,83 m",Centre-Back,,,1-Nov,left,25,,France U18
+Luca Netz,/luca-netz/profil/spieler/524285,€6.50m,Borussia Mönchengladbach,GER,"May 15, 2003 (20)",Berlin,Germany,"1,84 m",Left-Back,11WINS,Germany U21,Nov-00,left,20,,
+Lukas Ullrich,/lukas-ullrich/profil/spieler/787151,€750k,Borussia Mönchengladbach,GER,"Mar 16, 2004 (19)",Berlin,Germany,"1,80 m",Left-Back,SEG,,Jan-00,left,19,Germany U20,
+Joe Scally,/joe-scally/profil/spieler/504153,€12.00m,Borussia Mönchengladbach,GER,"Dec 31, 2002 (20)","Lake Grove, New York",United States,"1,84 m",Right-Back,,,Jun-00,right,20,USA,
+Stefan Lainer,/stefan-lainer/profil/spieler/85791,€3.00m,Borussia Mönchengladbach,GER,"Aug 27, 1992 (31)",Salzburg,Austria,"1,75 m",Right-Back,ROOF,Austria,38 / 2,right,31,,
+Simon Walde,/simon-walde/profil/spieler/912455,€500k,Borussia Mönchengladbach,GER,"Jan 4, 2005 (18)",Düsseldorf,Germany,"1,85 m",Right-Back,,,Jan-00,right,18,Germany U19,
+Julian Weigl,/julian-weigl/profil/spieler/196792,€10.00m,Borussia Mönchengladbach,GER,"Sep 8, 1995 (28)",Bad Aibling,Germany,"1,86 m",Defensive Midfield,Sports360 GmbH,,Jun-00,right,28,,Germany
+Christoph Kramer,/christoph-kramer/profil/spieler/82097,€2.50m,Borussia Mönchengladbach,GER,"Feb 19, 1991 (32)",Solingen,Germany,"1,91 m",Defensive Midfield,ROOF,,Dec-00,right,32,,Germany
+Manu Koné,/manu-kone/profil/spieler/624690,€40.00m,Borussia Mönchengladbach,GER,"May 17, 2001 (22)",Colombes,France,"1,85 m",Central Midfield,Classico,France U21,Nov-00,right,22,,
+Florian Neuhaus,/florian-neuhaus/profil/spieler/278332,€12.00m,Borussia Mönchengladbach,GER,"Mar 16, 1997 (26)",Landsberg am Lech,Germany,"1,85 m",Central Midfield,CN Sports,,2-Oct,right,26,,Germany
+Rocco Reitz,/rocco-reitz/profil/spieler/467434,€800k,Borussia Mönchengladbach,GER,"May 29, 2002 (21)",Duisburg,Germany,"1,76 m",Central Midfield,Sports360 GmbH,,Jan-00,right,21,,Germany U16
+Hannes Wolf,/hannes-wolf/profil/spieler/321070,€3.00m,Borussia Mönchengladbach,GER,"Apr 16, 1999 (24)",Graz,Austria,"1,79 m",Left Winger,,,0 / 0,left,24,,Austria
+Robin Hack,/robin-hack/profil/spieler/284010,€3.00m,Borussia Mönchengladbach,GER,"Aug 27, 1998 (25)",Pforzheim,Germany,"1,78 m",Left Winger,CN Sports,,3-May,right,25,,Germany U21
+Yvandro Borges Sanches,/yvandro-borges-sanches/profil/spieler/586659,€1.50m,Borussia Mönchengladbach,GER,"May 24, 2004 (19)",Luxemburg,Luxembourg,"1,75 m",Left Winger,,,22 / 3,right,19,Luxembourg,
+Franck Honorat,/franck-honorat/profil/spieler/229006,€10.00m,Borussia Mönchengladbach,GER,"Aug 11, 1996 (27)",Toulon,France,"1,80 m",Right Winger,,,Mar-00,right,27,,France U19
+Nathan Ngoumou,/nathan-ngoumou/profil/spieler/629588,€5.00m,Borussia Mönchengladbach,GER,"Mar 14, 2000 (23)",Toulouse,France,"1,85 m",Right Winger,,France U21,Sep-00,right,23,,
+Patrick Herrmann,/patrick-herrmann/profil/spieler/32711,€1.50m,Borussia Mönchengladbach,GER,"Feb 12, 1991 (32)",Uchtelfangen,Germany,"1,79 m",Right Winger,PRO Profil GmbH,,Feb-00,right,32,,Germany
+Alassane Plea,/alassane-plea/profil/spieler/167329,€8.00m,Borussia Mönchengladbach,GER,"Mar 10, 1993 (30)",Lille,France,"1,81 m",Centre-Forward,,,Jan-00,right,30,,France
+Jordan,/jordan/profil/spieler/355369,€7.00m,Borussia Mönchengladbach,GER,"Apr 26, 1996 (27)","Washington, D. C.",United States,"1,91 m",Centre-Forward,Gestifute,,1-Sep,right,27,,USA
+Tomas Cvancara,/tomas-cvancara/profil/spieler/544148,€4.00m,Borussia Mönchengladbach,GER,"Aug 13, 2000 (23)",Neratovice,Czech Republic,"1,90 m",Centre-Forward,,,1-Mar,right,23,Czechia,
+Grant-Leon Ranos,/grant-leon-ranos/profil/spieler/574201,€1.00m,Borussia Mönchengladbach,GER,"Jul 20, 2003 (20)",Gehrden,Armenia,"1,80 m",Centre-Forward,11WINS,,4-Apr,right,20,Armenia,
+Kevin Trapp,/kevin-trapp/profil/spieler/45672,€8.50m,Eintracht Frankfurt,GER,"Jul 8, 1990 (33)",Merzig,Germany,"1,89 m",Goalkeeper,Sports360 GmbH,,Jul-00,right,33,Germany,
+Kauã Santos,/kaua-santos/profil/spieler/997861,€400k,Eintracht Frankfurt,GER,"Apr 11, 2003 (20)",Vassouras,Brazil,"1,96 m",Goalkeeper,,,Jan-00,right,20,Brazil U20,
+Jens Grahl,/jens-grahl/profil/spieler/40034,€200k,Eintracht Frankfurt,GER,"Sep 22, 1988 (34)",Stuttgart,Germany,"1,92 m",Goalkeeper,,,,right,34,,
+Simon Simoni,/simon-simoni/profil/spieler/726120,€200k,Eintracht Frankfurt,GER,"Jul 14, 2004 (19)",Lezhë,Albania,"1,94 m",Goalkeeper,,,Aug-00,right,19,Albania U21,
+Robin Koch,/robin-koch/profil/spieler/328784,€18.00m,Eintracht Frankfurt,GER,"Jul 17, 1996 (27)",Kaiserslautern,Germany,"1,91 m",Centre-Back,11WINS,,Aug-00,right,27,,Germany
+Tuta,/tuta/profil/spieler/546213,€15.00m,Eintracht Frankfurt,GER,"Jul 4, 1999 (24)",São Paulo,Brazil,"1,85 m",Centre-Back,,,,right,24,,
+Willian Pacho,/willian-pacho/profil/spieler/661171,€11.00m,Eintracht Frankfurt,GER,"Oct 16, 2001 (21)",Quinindé,Ecuador,"1,87 m",Centre-Back,,,2-Apr,left,21,Ecuador,
+Hrvoje Smolcic,/hrvoje-smolcic/profil/spieler/571299,€4.00m,Eintracht Frankfurt,GER,"Aug 17, 2000 (23)",Gospić,Croatia,"1,85 m",Centre-Back,,Croatia U21,Jun-00,left,23,,
+Makoto Hasebe,/makoto-hasebe/profil/spieler/39259,€800k,Eintracht Frankfurt,GER,"Jan 18, 1984 (39)","Fujieda, Shizuoka",Japan,"1,80 m",Centre-Back,PRO Profil GmbH,,114 / 2,right,39,,Japan
+Nnamdi Collins,/nnamdi-collins/profil/spieler/684315,€750k,Eintracht Frankfurt,GER,"Jan 10, 2004 (19)",Düsseldorf,Germany,"1,91 m",Centre-Back,11WINS,,0 / 0,right,19,Germany U20,
+Dario Gebuhr,/dario-gebuhr/profil/spieler/666168,€400k,Eintracht Frankfurt,GER,"May 6, 2003 (20)",Wiesbaden,Germany,"1,88 m",Centre-Back,,,,na,20,,
+Davis Bautista,/davis-bautista/profil/spieler/993870,€250k,Eintracht Frankfurt,GER,"Feb 16, 2005 (18)",Quito,Ecuador,"1,84 m",Centre-Back,,Ecuador U20,Nov-00,left,18,,
+Niels Nkounkou,/niels-nkounkou/profil/spieler/591193,€5.00m,Eintracht Frankfurt,GER,"Nov 1, 2000 (22)",Pontoise,France,"1,80 m",Left-Back,,France U21,Jun-00,left,22,,
+Philipp Max,/philipp-max/profil/spieler/111275,€3.00m,Eintracht Frankfurt,GER,"Sep 30, 1993 (29)",Viersen,Germany,"1,77 m",Left-Back,Sports360 GmbH,,Mar-00,left,29,,Germany
+Aurélio Buta,/aurelio-buta/profil/spieler/258039,€8.00m,Eintracht Frankfurt,GER,"Feb 10, 1997 (26)",Miconge,Portugal,"1,72 m",Right-Back,Proeleven S.A.,,May-00,right,26,,Portugal U20
+Timothy Chandler,/timothy-chandler/profil/spieler/49723,€700k,Eintracht Frankfurt,GER,"Mar 29, 1990 (33)",Frankfurt am Main,United States,"1,86 m",Right-Back,Sports eXcellence ...,,29 / 1,right,33,,USA
+Ellyes Skhiri,/ellyes-skhiri/profil/spieler/290587,€13.00m,Eintracht Frankfurt,GER,"May 10, 1995 (28)",Lunel,Tunisia,"1,85 m",Defensive Midfield,CAA Stellar,,55 / 3,right,28,Tunisia,
+Kristijan Jakic,/kristijan-jakic/profil/spieler/374954,€7.00m,Eintracht Frankfurt,GER,"May 14, 1997 (26)",Split,Croatia,"1,81 m",Defensive Midfield,,Croatia,May-00,right,26,,
+Junior Dina Ebimbe,/junior-dina-ebimbe/profil/spieler/536482,€10.00m,Eintracht Frankfurt,GER,"Nov 21, 2000 (22)",Stains,France,"1,84 m",Central Midfield,Sports360 GmbH,,Jan-00,right,22,,France U21
+Hugo Larsson,/hugo-larsson/profil/spieler/931838,€9.00m,Eintracht Frankfurt,GER,"Jun 27, 2004 (19)",Svarte,Sweden,"1,87 m",Central Midfield,,,1-Feb,right,19,Sweden U21,
+Sebastian Rode,/sebastian-rode/profil/spieler/44466,€2.00m,Eintracht Frankfurt,GER,"Oct 11, 1990 (32)",Seeheim-Jugenheim,Germany,"1,79 m",Central Midfield,PRO Profil GmbH,,Jun-00,right,32,,Germany U21
+Marcel Wenig,/marcel-wenig/profil/spieler/654872,€800k,Eintracht Frankfurt,GER,"May 4, 2004 (19)",Nürnberg,Germany,"1,88 m",Central Midfield,,,Mar-00,right,19,,Germany U19
+Sidney Raebiger,/sidney-raebiger/profil/spieler/717345,€750k,Eintracht Frankfurt,GER,"Apr 17, 2005 (18)",Freiberg,Germany,"1,76 m",Central Midfield,CN Sports,Germany U18,2-Sep,right,18,,
+Mehdi Loune,/mehdi-loune/profil/spieler/519869,€300k,Eintracht Frankfurt,GER,"May 14, 2004 (19)",Hanau,Germany,"1,72 m",Central Midfield,Dirk Hebel,,Jan-00,,19,,Morocco U20
+Harpreet Ghotra,/harpreet-ghotra/profil/spieler/486456,,Eintracht Frankfurt,GER,"Jan 17, 2003 (20)",Frankfurt am Main,Germany,"1,80 m",Central Midfield,,,,right,20,,
+Ansgar Knauff,/ansgar-knauff/profil/spieler/429874,€8.00m,Eintracht Frankfurt,GER,"Jan 10, 2002 (21)",Göttingen,Germany,"1,80 m",Right Midfield,,,1-Sep,right,21,Germany U21,
+Mario Götze,/mario-gotze/profil/spieler/74842,€12.00m,Eintracht Frankfurt,GER,"Jun 3, 1992 (31)",Memmingen,Germany,"1,76 m",Attacking Midfield,Sports360 GmbH,Germany,66 / 17,right,31,,
+Paxten Aaronson,/paxten-aaronson/profil/spieler/795738,€4.50m,Eintracht Frankfurt,GER,"Aug 26, 2003 (20)","Medford, New Jersey",United States,"1,75 m",Attacking Midfield,,USA,Jan-00,right,20,,
+Farès Chaïbi,/fares-chaibi/profil/spieler/855015,€10.00m,Eintracht Frankfurt,GER,"Nov 28, 2002 (20)",Lyon,Algeria,"1,83 m",Left Winger,,,Mar-00,right,20,Algeria,
+Jens Petter Hauge,/jens-petter-hauge/profil/spieler/422355,€2.50m,Eintracht Frankfurt,GER,"Oct 12, 1999 (23)",Bodø,Norway,"1,84 m",Left Winger,,,Oct-00,right,23,,Norway
+Omar Marmoush,/omar-marmoush/profil/spieler/445939,€6.00m,Eintracht Frankfurt,GER,"Feb 7, 1999 (24)",Kairo,Egypt,"1,83 m",Centre-Forward,CAA Stellar,,18 / 4,right,24,Egypt,
+Jessic Ngankam,/jessic-ngankam/profil/spieler/448177,€5.00m,Eintracht Frankfurt,GER,"Jul 20, 2000 (23)",Berlin,Germany,"1,84 m",Centre-Forward,Sports360 GmbH,Germany U21,1-May,right,23,,
+Lucas Alario,/lucas-alario/profil/spieler/193782,€2.50m,Eintracht Frankfurt,GER,"Oct 8, 1992 (30)","Tostado, Santa Fe",Argentina,"1,85 m",Centre-Forward,,,3-Sep,right,30,,Argentina
+Nacho,/nacho/profil/spieler/867357,€500k,Eintracht Frankfurt,GER,"Oct 5, 2004 (18)",Montaverner,Spain,"1,92 m",Centre-Forward,,Spain U19,Jan-00,right,18,,
+Noel Futkeu,/noel-futkeu/profil/spieler/675535,,Eintracht Frankfurt,GER,"Dec 6, 2002 (20)",Essen,Germany,"1,83 m",Centre-Forward,,,,right,20,,
+Noah Atubolu,/noah-atubolu/profil/spieler/526845,€3.50m,SC Freiburg,GER,"May 25, 2002 (21)",Freiburg im Breisgau,Germany,"1,90 m",Goalkeeper,Unique Sports Group,,Oct-00,right,21,Germany U21,
+Florian Müller,/florian-muller/profil/spieler/284769,€1.50m,SC Freiburg,GER,"Nov 13, 1997 (25)",Saarlouis,Germany,"1,90 m",Goalkeeper,PRO Profil GmbH,,Feb-00,left,25,,Germany U21
+Benjamin Uphoff,/benjamin-uphoff/profil/spieler/120296,€500k,SC Freiburg,GER,"Aug 8, 1993 (30)",Burghausen,Germany,"1,92 m",Goalkeeper,Karl M. Herzog ...,,,right,30,,
+Philipp Lienhart,/philipp-lienhart/profil/spieler/225657,€20.00m,SC Freiburg,GER,"Jul 11, 1996 (27)",Lilienfeld,Austria,"1,89 m",Centre-Back,,,13 / 0,right,27,Austria,
+Matthias Ginter,/matthias-ginter/profil/spieler/124502,€18.00m,SC Freiburg,GER,"Jan 19, 1994 (29)",Freiburg im Breisgau,Germany,"1,89 m",Centre-Back,Unique Sports Group,Germany,51 / 2,right,29,,
+Kenneth Schmidt,/kenneth-schmidt/profil/spieler/527276,€3.00m,SC Freiburg,GER,"Jun 3, 2002 (21)",Freiburg im Breisgau,Germany,"1,87 m",Centre-Back,Unique Sports Group,,Feb-00,left,21,Germany U21,
+Manuel Gulde,/manuel-gulde/profil/spieler/45683,€1.50m,SC Freiburg,GER,"Feb 12, 1991 (32)",Mannheim,Germany,"1,84 m",Centre-Back,Unique Sports Group,,Jan-00,right,32,,Germany U20
+Max Rosenfelder,/max-rosenfelder/profil/spieler/599419,€500k,SC Freiburg,GER,"Feb 10, 2003 (20)",Freiburg im Breisgau,Germany,"1,86 m",Centre-Back,Unique Sports Group,,0 / 0,right,20,,Germany U20
+Christian Günter,/christian-gunter/profil/spieler/93707,€7.50m,SC Freiburg,GER,"Feb 28, 1993 (30)",Villingen-Schwenning...,Germany,"1,84 m",Left-Back,Unique Sports Group,Germany,Aug-00,left,30,,
+Jordy Makengo,/jordy-makengo/profil/spieler/815078,€350k,SC Freiburg,GER,"Aug 3, 2001 (22)",Saint-Denis,France,"1,91 m",Left-Back,,,,left,22,,
+Kiliann Sildillia,/kiliann-sildillia/profil/spieler/548348,€12.00m,SC Freiburg,GER,"May 16, 2002 (21)",Montigny-lès-Metz,France,"1,86 m",Right-Back,ROGON,,Apr-00,right,21,,France U20
+Lukas Kübler,/lukas-kubler/profil/spieler/93604,€2.50m,SC Freiburg,GER,"Aug 30, 1992 (31)",Bonn,Germany,"1,82 m",Right-Back,ROOF,,0 / 0,right,31,,Germany U20
+Yannik Keitel,/yannik-keitel/profil/spieler/342039,€4.00m,SC Freiburg,GER,"Feb 15, 2000 (23)",Breisach am Rhein,Germany,"1,86 m",Defensive Midfield,Unique Sports Group,Germany U21,15 / 0,na,23,,
+Nicolas Höfler,/nicolas-hofler/profil/spieler/55099,€2.50m,SC Freiburg,GER,"Mar 9, 1990 (33)",Überlingen,Germany,"1,81 m",Defensive Midfield,,,Feb-00,right,33,,Germany U18
+Maximilian Eggestein,/maximilian-eggestein/profil/spieler/190284,€10.00m,SC Freiburg,GER,"Dec 8, 1996 (26)",Hannover,Germany,"1,81 m",Central Midfield,ROOF,,0 / 0,right,26,,Germany
+Merlin Röhl,/merlin-rohl/profil/spieler/608832,€2.00m,SC Freiburg,GER,"Jul 5, 2002 (21)",Berlin,Germany,"1,92 m",Central Midfield,,,Jan-00,na,21,Germany U21,
+Daniel-Kofi Kyereh,/daniel-kofi-kyereh/profil/spieler/272587,€8.00m,SC Freiburg,GER,"Mar 8, 1996 (27)",Accra,Ghana,"1,79 m",Attacking Midfield,Alfaria sports GmbH,Ghana,18 / 0,right,27,,
+Vincenzo Grifo,/vincenzo-grifo/profil/spieler/185077,€12.00m,SC Freiburg,GER,"Apr 7, 1993 (30)",Pforzheim,Italy,"1,80 m",Left Winger,ROOF,Italy,4-Sep,right,30,,
+Noah Weißhaupt,/noah-weisshaupt/profil/spieler/392163,€4.00m,SC Freiburg,GER,"Sep 20, 2001 (21)",Rostock,Germany,"1,81 m",Left Winger,Unique Sports Group,Germany U21,Jun-00,right,21,,
+Ritsu Doan,/ritsu-doan/profil/spieler/358504,€18.00m,SC Freiburg,GER,"Jun 16, 1998 (25)","Amagasaki, Hyogo",Japan,"1,72 m",Right Winger,CAA Stellar,,38 / 6,left,25,Japan,
+Roland Sallai,/roland-sallai/profil/spieler/332798,€10.00m,SC Freiburg,GER,"May 22, 1997 (26)",Budapest,Hungary,"1,83 m",Right Winger,,,44 / 11,na,26,Hungary,
+Maximilian Philipp,/maximilian-philipp/profil/spieler/143891,€2.00m,SC Freiburg,GER,"Mar 1, 1994 (29)",Berlin,Germany,"1,83 m",Second Striker,Unique Sports Group,,Oct-00,right,29,,Germany U21
+Junior Adamu,/junior-adamu/profil/spieler/452477,€8.00m,SC Freiburg,GER,"Jun 6, 2001 (22)",Kano,Austria,"1,83 m",Centre-Forward,CAA Stellar,Austria,Jun-00,right,22,,
+Michael Gregoritsch,/michael-gregoritsch/profil/spieler/120205,€8.00m,SC Freiburg,GER,"Apr 18, 1994 (29)",Graz,Austria,"1,93 m",Centre-Forward,ROGON,,47 / 10,left,29,Austria,
+Lucas Höler,/lucas-holer/profil/spieler/248999,€5.00m,SC Freiburg,GER,"Jul 10, 1994 (29)",Achim,Germany,"1,84 m",Centre-Forward,Unique Sports Group,,,right,29,,
+Oliver Baumann,/oliver-baumann/profil/spieler/55089,€4.00m,TSG 1899 Hoffenheim,GER,"Jun 2, 1990 (33)",Breisach am Rhein,Germany,"1,87 m",Goalkeeper,CN Sports,,0 / 0,right,33,Germany,
+Luca Philipp,/luca-philipp/profil/spieler/432671,€300k,TSG 1899 Hoffenheim,GER,"Nov 28, 2000 (22)",Stuttgart,Germany,"1,92 m",Goalkeeper,,,Apr-00,,22,,Germany U21
+Nahuel Noll,/nahuel-noll/profil/spieler/600942,€250k,TSG 1899 Hoffenheim,GER,"Mar 17, 2003 (20)",München,Germany,"1,91 m",Goalkeeper,VIDA 11,,Apr-00,na,20,Germany U20,
+Attila Szalai,/attila-szalai/profil/spieler/263380,€14.00m,TSG 1899 Hoffenheim,GER,"Jan 20, 1998 (25)",Budapest,Hungary,"1,92 m",Centre-Back,ROGON,,37 / 1,left,25,Hungary,
+Ozan Kabak,/ozan-kabak/profil/spieler/361260,€10.00m,TSG 1899 Hoffenheim,GER,"Mar 25, 2000 (23)",Ankara,Turkey,"1,87 m",Centre-Back,F-F SPORT,,22 / 1,right,23,Turkey,
+Stanley Nsoki,/stanley-nsoki/profil/spieler/371141,€5.50m,TSG 1899 Hoffenheim,GER,"Apr 9, 1999 (24)",Poissy,France,"1,84 m",Centre-Back,ROGON,,Jan-00,left,24,,France U21
+Kevin Akpoguma,/kevin-akpoguma/profil/spieler/160241,€3.50m,TSG 1899 Hoffenheim,GER,"Apr 19, 1995 (28)",Neustadt an der ...,Nigeria,"1,92 m",Centre-Back,Unique Sports Group,Nigeria,Aug-00,right,28,,
+Kevin Vogt,/kevin-vogt/profil/spieler/84435,€2.50m,TSG 1899 Hoffenheim,GER,"Sep 23, 1991 (31)",Witten,Germany,"1,94 m",Centre-Back,ROOF,,Aug-00,right,31,,Germany U21
+John Anthony Brooks,/john-anthony-brooks/profil/spieler/124732,€2.00m,TSG 1899 Hoffenheim,GER,"Jan 28, 1993 (30)",Berlin,United States,"1,94 m",Centre-Back,ROGON,,45 / 3,left,30,,USA
+Kasim Adams,/kasim-adams/profil/spieler/263801,€700k,TSG 1899 Hoffenheim,GER,"Jun 22, 1995 (28)",Accra,Ghana,"1,90 m",Centre-Back,,Ghana,14 / 2,right,28,,
+Joshua Quarshie,/joshua-quarshie/profil/spieler/790918,€250k,TSG 1899 Hoffenheim,GER,"Jul 26, 2004 (19)",Duisburg,Germany,"1,96 m",Centre-Back,Unique Sports Group,,Jan-00,right,19,Germany U20,
+Marco John,/marco-john/profil/spieler/450234,€2.00m,TSG 1899 Hoffenheim,GER,"Apr 2, 2002 (21)",Bad Friedrichshall,Germany,"1,84 m",Left-Back,,,Jan-00,left,21,Germany U21,
+Pavel Kaderabek,/pavel-kaderabek/profil/spieler/143798,€3.00m,TSG 1899 Hoffenheim,GER,"Apr 25, 1992 (31)",Praha,Czech Republic,"1,82 m",Right-Back,,,48 / 3,right,31,,Czechia
+Diadié Samassékou,/diadie-samassekou/profil/spieler/315604,€7.00m,TSG 1899 Hoffenheim,GER,"Jan 11, 1996 (27)",Bamako,Mali,"1,77 m",Defensive Midfield,Classico,,33 / 1,right,27,Mali,
+Florian Grillitsch,/florian-grillitsch/profil/spieler/195736,€6.50m,TSG 1899 Hoffenheim,GER,"Aug 7, 1995 (28)",Neunkirchen,Austria,"1,87 m",Defensive Midfield,,,36 / 1,right,28,Austria,
+Anton Stach,/anton-stach/profil/spieler/344069,€15.00m,TSG 1899 Hoffenheim,GER,"Nov 15, 1998 (24)",Buchholz in der ...,Germany,"1,94 m",Central Midfield,ROOF,,Feb-00,na,24,,Germany
+Dennis Geiger,/dennis-geiger/profil/spieler/251309,€8.00m,TSG 1899 Hoffenheim,GER,"Jun 10, 1998 (25)",Mosbach,Germany,"1,73 m",Central Midfield,,,May-00,right,25,,Germany U21
+Grischa Prömel,/grischa-promel/profil/spieler/234029,€7.00m,TSG 1899 Hoffenheim,GER,"Jan 9, 1995 (28)",Stuttgart,Germany,"1,84 m",Central Midfield,Unique Sports Group,,1-Mar,right,28,,Germany U21
+Finn Ole Becker,/finn-ole-becker/profil/spieler/334999,€2.50m,TSG 1899 Hoffenheim,GER,"Jun 8, 2000 (23)",Elmshorn,Germany,"1,77 m",Central Midfield,Sports360 GmbH,Germany U21,Apr-00,left,23,,
+Umut Tohumcu,/umut-tohumcu/profil/spieler/569031,€1.50m,TSG 1899 Hoffenheim,GER,"Aug 11, 2004 (19)",Offenburg,Germany,"1,75 m",Central Midfield,ROGON,Germany U19,1-Aug,na,19,,
+Tom Bischof,/tom-bischof/profil/spieler/822959,€3.50m,TSG 1899 Hoffenheim,GER,"Jun 28, 2005 (18)",Aschaffenburg,Germany,"1,76 m",Attacking Midfield,CAA Stellar,,0 / 0,left,18,Germany U19,
+Julian Justvan,/julian-justvan/profil/spieler/324861,€1.50m,TSG 1899 Hoffenheim,GER,"Apr 2, 1998 (25)",Landshut,Germany,"1,77 m",Attacking Midfield,Karl M. Herzog ...,,1-Jul,left,25,,Germany U18
+Marius Bülter,/marius-bulter/profil/spieler/116088,€3.00m,TSG 1899 Hoffenheim,GER,"Mar 29, 1993 (30)",Ibbenbüren,Germany,"1,88 m",Left Winger,,,,right,30,,
+Bambasé Conté,/bambase-conte/profil/spieler/574193,€200k,TSG 1899 Hoffenheim,GER,"Jul 7, 2003 (20)",Saarbrücken,Germany,"1,80 m",Left Winger,ROGON,Germany U20,Feb-00,,20,,
+Robert Skov,/robert-skov/profil/spieler/270393,€6.50m,TSG 1899 Hoffenheim,GER,"May 20, 1996 (27)",Marbella,Denmark,"1,85 m",Right Winger,Elite Sports ...,Denmark,5-Dec,left,27,,
+Mergim Berisha,/mergim-berisha/profil/spieler/307924,€12.00m,TSG 1899 Hoffenheim,GER,"May 11, 1998 (25)",Berchtesgaden,Germany,"1,88 m",Centre-Forward,ROGON,Germany,Feb-00,right,25,,
+Wout Weghorst,/wout-weghorst/profil/spieler/228645,€12.00m,TSG 1899 Hoffenheim,GER,"Aug 7, 1992 (31)",Borne,Netherlands,"1,97 m",Centre-Forward,One II Agency,,23 / 6,right,31,Netherlands,
+Andrej Kramaric,/andrej-kramaric/profil/spieler/46580,€8.00m,TSG 1899 Hoffenheim,GER,"Jun 19, 1991 (32)",Zagreb,Croatia,"1,77 m",Centre-Forward,,,86 / 25,right,32,Croatia,
+Ihlas Bebou,/ihlas-bebou/profil/spieler/237164,€7.00m,TSG 1899 Hoffenheim,GER,"Apr 23, 1994 (29)",Aledjo Kadara,Togo,"1,85 m",Centre-Forward,,,0 / 0,right,29,Togo,
+Maximilian Beier,/maximilian-beier/profil/spieler/578392,€2.00m,TSG 1899 Hoffenheim,GER,"Oct 17, 2002 (20)",Brandenburg an der ...,Germany,"1,85 m",Centre-Forward,Eurosportsmanagement...,,1-Jan,right,20,Germany U21,
+Finn Dahmen,/finn-dahmen/profil/spieler/251299,€2.50m,FC Augsburg,GER,"Mar 27, 1998 (25)",Wiesbaden,Germany,"1,86 m",Goalkeeper,CN Sports,,Aug-00,right,25,,Germany U21
+Tomas Koubek,/tomas-koubek/profil/spieler/146714,€1.00m,FC Augsburg,GER,"Aug 26, 1992 (31)",Hradec Králové,Czech Republic,"1,97 m",Goalkeeper,,,Dec-00,right,31,Czechia,
+Marcel Lubik,/marcel-lubik/profil/spieler/656250,€250k,FC Augsburg,GER,"May 19, 2004 (19)",,Poland,"1,90 m",Goalkeeper,,,,left,19,,
+Felix Uduokhai,/felix-uduokhai/profil/spieler/278343,€8.50m,FC Augsburg,GER,"Sep 9, 1997 (26)",Annaberg-Buchholz,Germany,"1,92 m",Centre-Back,CN Sports,,0 / 0,left,26,,Germany
+Japhet Tanganga,/japhet-tanganga/profil/spieler/346478,€7.00m,FC Augsburg,GER,"Mar 31, 1999 (24)",London,England,"1,84 m",Centre-Back,,,Feb-00,right,24,,England U21
+Reece Oxford,/reece-oxford/profil/spieler/314295,€5.50m,FC Augsburg,GER,"Dec 16, 1998 (24)",London,England,"1,90 m",Centre-Back,,,May-00,right,24,,England U20
+Maximilian Bauer,/maximilian-bauer/profil/spieler/388363,€3.50m,FC Augsburg,GER,"Feb 9, 2000 (23)",Vilshofen,Germany,"1,89 m",Centre-Back,,Germany U21,Jul-00,right,23,,
+Patric Pfeiffer,/patric-pfeiffer/profil/spieler/391742,€3.00m,FC Augsburg,GER,"Aug 20, 1999 (24)",Hamburg,Ghana,"1,96 m",Centre-Back,,,0 / 0,right,24,,Ghana
+Jeffrey Gouweleeuw,/jeffrey-gouweleeuw/profil/spieler/106405,€3.00m,FC Augsburg,GER,"Jul 10, 1991 (32)",Heemskerk,Netherlands,"1,87 m",Centre-Back,SEG,,Feb-00,right,32,,Netherlands U21
+Frederik Winther,/frederik-winther/profil/spieler/569349,€1.00m,FC Augsburg,GER,"Jan 4, 2001 (22)",Gentofte,Denmark,"1,90 m",Centre-Back,,,Jul-00,left,22,,Denmark U21
+Iago,/iago/profil/spieler/520468,€5.50m,FC Augsburg,GER,"Mar 23, 1997 (26)",Monte Azul Paulista,Brazil,"1,81 m",Left-Back,,,Jun-00,left,26,,Brazil U23
+Mads Pedersen,/mads-pedersen/profil/spieler/288429,€3.50m,FC Augsburg,GER,"Sep 1, 1996 (27)",Hørsholm,Denmark,"1,74 m",Left-Back,,,0 / 0,left,27,,Denmark
+David Colina,/david-colina/profil/spieler/371000,€1.50m,FC Augsburg,GER,"Jul 19, 2000 (23)",Zagreb,Croatia,"1,74 m",Left-Back,,Croatia U21,19 / 0,left,23,,
+Aaron Zehnter,/aaron-zehnter/profil/spieler/730484,€300k,FC Augsburg,GER,"Oct 31, 2004 (18)",Sonderhofen,Germany,"1,80 m",Left-Back,Karl M. Herzog ...,Germany U19,May-00,left,18,,
+Robert Gumny,/robert-gumny/profil/spieler/353826,€3.50m,FC Augsburg,GER,"Jun 4, 1998 (25)",Poznań,Poland,"1,82 m",Right-Back,,Poland,Jun-00,right,25,,
+Kevin Mbabu,/kevin-mbabu/profil/spieler/183321,€3.50m,FC Augsburg,GER,"Apr 19, 1995 (28)",Chêne-Bougeries,Switzerland,"1,84 m",Right-Back,Soccer Mondial AG,Switzerland,22 / 0,right,28,,
+Raphael Framberger,/raphael-framberger/profil/spieler/146163,€800k,FC Augsburg,GER,"Sep 6, 1995 (28)",Augsburg,Germany,"1,79 m",Right-Back,,,Jan-00,right,28,,Germany U17
+Niklas Dorsch,/niklas-dorsch/profil/spieler/251302,€7.00m,FC Augsburg,GER,"Jan 15, 1998 (25)",Lichtenfels,Germany,"1,78 m",Defensive Midfield,CN Sports,,13 / 1,right,25,,Germany U21
+Tim Breithaupt,/tim-breithaupt/profil/spieler/569457,€3.50m,FC Augsburg,GER,"Feb 7, 2002 (21)",Offenburg,Germany,"1,92 m",Defensive Midfield,,,Jan-00,right,21,Germany U21,
+Arne Engels,/arne-engels/profil/spieler/565435,€7.50m,FC Augsburg,GER,"Sep 8, 2003 (20)",,Belgium,"1,85 m",Central Midfield,,,Mar-00,right,20,Belgium U21,
+Arne Maier,/arne-maier/profil/spieler/296397,€6.50m,FC Augsburg,GER,"Jan 8, 1999 (24)",Ludwigsfelde,Germany,"1,86 m",Central Midfield,11WINS,,18 / 1,right,24,,Germany U21
+Elvis Rexhbecaj,/elvis-rexhbecaj/profil/spieler/280575,€3.50m,FC Augsburg,GER,"Nov 1, 1997 (25)","Gjonaj, Prizren",Germany,"1,82 m",Central Midfield,,,,left,25,,
+Masaya Okugawa,/masaya-okugawa/profil/spieler/307052,€2.50m,FC Augsburg,GER,"Apr 14, 1996 (27)","Koka, Shiga",Japan,"1,77 m",Attacking Midfield,,,1-May,na,27,,Japan U18
+Fredrik Jensen,/fredrik-jensen/profil/spieler/249157,€2.50m,FC Augsburg,GER,"Sep 9, 1997 (26)",Porvoo,Finland,"1,83 m",Attacking Midfield,,Finland,26 / 7,right,26,,
+Mert Kömür,/mert-komur/profil/spieler/777005,,FC Augsburg,GER,"Jul 17, 2005 (18)",Dachau,Germany,"1,83 m",Attacking Midfield,,,0 / 0,na,18,Germany U19,
+Nathanaël Mbuku,/nathanael-mbuku/profil/spieler/557614,€3.00m,FC Augsburg,GER,"Mar 16, 2002 (21)",Villeneuve-Saint-Geo...,France,"1,70 m",Left Winger,,,1-Jan,left,21,,France U23
+Rubén Vargas,/ruben-vargas/profil/spieler/345886,€6.50m,FC Augsburg,GER,"Aug 5, 1998 (25)",Adligenswil,Switzerland,"1,79 m",Right Winger,,,35 / 5,right,25,Switzerland,
+Ermedin Demirovic,/ermedin-demirovic/profil/spieler/335457,€12.00m,FC Augsburg,GER,"Mar 25, 1998 (25)",Hamburg,Bosnia-Herzegovina,"1,85 m",Centre-Forward,PRO Profil GmbH,,18 / 1,right,25,Bosnia,
+Dion Beljo,/dion-beljo/profil/spieler/618350,€6.50m,FC Augsburg,GER,"Mar 1, 2002 (21)",Zagreb,Croatia,"1,95 m",Centre-Forward,ROOF,,2-Dec,left,21,Croatia U21,
+Phillip Tietz,/phillip-tietz/profil/spieler/288340,€2.70m,FC Augsburg,GER,"Jul 9, 1997 (26)",Braunschweig,Germany,"1,90 m",Centre-Forward,,,Feb-00,right,26,,Germany U20
+Irvin Cardona,/irvin-cardona/profil/spieler/342226,€2.50m,FC Augsburg,GER,"Aug 8, 1997 (26)",Nîmes,France,"1,85 m",Centre-Forward,,,1-May,right,26,,France U20
+Sven Michel,/sven-michel/profil/spieler/186988,€900k,FC Augsburg,GER,"Jul 15, 1990 (33)",Freudenberg,Germany,"1,77 m",Centre-Forward,Karl M. Herzog ...,,,left,33,,
+Alexander Nübel,/alexander-nubel/profil/spieler/195778,€8.00m,VfB Stuttgart,GER,"Sep 30, 1996 (26)",Paderborn,Germany,"1,93 m",Goalkeeper,,,17 / 0,right,26,,Germany U21
+Fabian Bredlow,/fabian-bredlow/profil/spieler/187624,€1.50m,VfB Stuttgart,GER,"Mar 2, 1995 (28)",Berlin,Germany,"1,90 m",Goalkeeper,SEG,,May-00,na,28,,Germany U20
+Dennis Seimen,/dennis-seimen/profil/spieler/800946,€200k,VfB Stuttgart,GER,"Dec 1, 2005 (17)",Heilbronn,Germany,"1,92 m",Goalkeeper,Is known - player U18,,0 / 0,na,17,Germany U19,
+Florian Schock,/florian-schock/profil/spieler/470816,€200k,VfB Stuttgart,GER,"May 22, 2001 (22)",Ostfildern,Germany,"2,00 m",Goalkeeper,,,,right,22,,
+Hiroki Ito,/hiroki-ito/profil/spieler/353892,€10.00m,VfB Stuttgart,GER,"May 12, 1999 (24)","Hamamatsu, Shizuoka",Japan,"1,88 m",Centre-Back,,,1-Nov,left,24,Japan,
+Anthony Rouault,/anthony-rouault/profil/spieler/690799,€10.00m,VfB Stuttgart,GER,"May 29, 2001 (22)",Villeneuve-sur-Lot,France,"1,86 m",Centre-Back,,,,right,22,,
+Waldemar Anton,/waldemar-anton/profil/spieler/193004,€4.50m,VfB Stuttgart,GER,"Jul 20, 1996 (27)",Almalyk,Germany,"1,89 m",Centre-Back,,,Nov-00,right,27,,Germany U21
+Leonidas Stergiou,/leonidas-stergiou/profil/spieler/507345,€3.00m,VfB Stuttgart,GER,"Mar 3, 2002 (21)",Wattwil,Switzerland,"1,81 m",Centre-Back,Soccer Mondial AG,,18 / 1,right,21,Switzerland U21,
+Dan-Axel Zagadou,/dan-axel-zagadou/profil/spieler/344598,€2.50m,VfB Stuttgart,GER,"Jun 3, 1999 (24)",Créteil,France,"1,96 m",Centre-Back,,,2-Jun,left,24,,France U21
+Maximilian Mittelstädt,/maximilian-mittelstadt/profil/spieler/282660,€2.00m,VfB Stuttgart,GER,"Mar 18, 1997 (26)",Berlin,Germany,"1,80 m",Left-Back,Sports360 GmbH,,1-May,left,26,,Germany U21
+Josha Vagnoman,/josha-vagnoman/profil/spieler/448258,€8.00m,VfB Stuttgart,GER,"Dec 11, 2000 (22)",Hamburg,Germany,"1,90 m",Right-Back,,Germany,Jan-00,right,22,,
+Pascal Stenzel,/pascal-stenzel/profil/spieler/195246,€1.50m,VfB Stuttgart,GER,"Mar 20, 1996 (27)",Bünde,Germany,"1,83 m",Right-Back,Unique Sports Group,,Aug-00,right,27,,Germany U21
+Angelo Stiller,/angelo-stiller/profil/spieler/443710,€5.00m,VfB Stuttgart,GER,"Apr 4, 2001 (22)",München,Germany,"1,83 m",Defensive Midfield,,Germany U21,17 / 2,left,22,,
+Atakan Karazor,/atakan-karazor/profil/spieler/232320,€4.00m,VfB Stuttgart,GER,"Oct 13, 1996 (26)",Essen,Germany,"1,91 m",Defensive Midfield,,,,right,26,,
+Enzo Millot,/enzo-millot/profil/spieler/569366,€7.00m,VfB Stuttgart,GER,"Jul 17, 2002 (21)",Lucé,France,"1,74 m",Central Midfield,,,0 / 0,left,21,,France U19
+Nikolas Nartey,/nikolas-nartey/profil/spieler/400546,€1.50m,VfB Stuttgart,GER,"Feb 22, 2000 (23)","Bagsværd, ...",Denmark,"1,85 m",Central Midfield,,,16 / 2,left,23,,Denmark U21
+Roberto Massimo,/roberto-massimo/profil/spieler/431561,€1.00m,VfB Stuttgart,GER,"Oct 12, 2000 (22)",Accra,Germany,"1,83 m",Right Midfield,ROGON,,Apr-00,right,22,,Germany U21
+Woo-yeong Jeong,/woo-yeong-jeong/profil/spieler/297583,€3.50m,VfB Stuttgart,GER,"Sep 20, 1999 (23)",Ulsan,"Korea, South","1,79 m",Attacking Midfield,,South Korea,2-Oct,right,23,,
+Lilian Egloff,/lilian-egloff/profil/spieler/472243,€1.50m,VfB Stuttgart,GER,"Aug 20, 2002 (21)",Heilbronn,Germany,"1,82 m",Attacking Midfield,VIDA 11,,0 / 0,right,21,,Germany U19
+Genki Haraguchi,/genki-haraguchi/profil/spieler/79377,€1.00m,VfB Stuttgart,GER,"May 9, 1991 (32)","Kumagaya, Saitama",Japan,"1,78 m",Attacking Midfield,PRO Profil GmbH,Japan,74 / 11,right,32,,
+Laurin Ulrich,/laurin-ulrich/profil/spieler/717465,€500k,VfB Stuttgart,GER,"Jan 31, 2005 (18)",Heidenheim an der ...,Germany,"1,80 m",Attacking Midfield,,Germany U18,1-Mar,right,18,,
+Chris Führich,/chris-fuhrich/profil/spieler/272278,€4.00m,VfB Stuttgart,GER,"Jan 9, 1998 (25)",Castrop-Rauxel,Germany,"1,81 m",Left Winger,KL Sportsbase,,,right,25,,
+Silas,/silas/profil/spieler/612826,€8.00m,VfB Stuttgart,GER,"Oct 6, 1998 (24)",Kinshasa,DR Congo,"1,89 m",Right Winger,,,Jan-00,right,24,DR Congo,
+Jamie Leweling,/jamie-leweling/profil/spieler/518505,€3.00m,VfB Stuttgart,GER,"Feb 26, 2001 (22)",Nürnberg,Germany,"1,85 m",Right Winger,Sports eXcellence ...,Germany U21,1-Oct,na,22,,
+Serhou Guirassy,/serhou-guirassy/profil/spieler/270541,€14.00m,VfB Stuttgart,GER,"Mar 12, 1996 (27)",Arles,Guinea,"1,87 m",Centre-Forward,,,2-Jul,right,27,Guinea,
+Deniz Undav,/deniz-undav/profil/spieler/339314,€10.00m,VfB Stuttgart,GER,"Jul 19, 1996 (27)",Achim,Germany,"1,79 m",Centre-Forward,,,,right,27,,
+Thomas Kastanaras,/thomas-kastanaras/profil/spieler/675565,€700k,VfB Stuttgart,GER,"Jan 9, 2003 (20)",Stuttgart,Germany,"1,86 m",Centre-Forward,Unique Sports Group,Germany U20,Feb-00,,20,,
+Jovan Milosevic,/jovan-milosevic/profil/spieler/943795,€500k,VfB Stuttgart,GER,"Jul 31, 2005 (18)",Čačak,Serbia,"1,92 m",Centre-Forward,,,May-00,right,18,Serbia U19,
+Robin Zentner,/robin-zentner/profil/spieler/160963,€5.00m,1.FSV Mainz 05,GER,"Oct 28, 1994 (28)",Rüdesheim am Rhein,Germany,"1,95 m",Goalkeeper,,,Jan-00,right,28,,Germany U17
+Daniel Batz,/daniel-batz/profil/spieler/90317,€350k,1.FSV Mainz 05,GER,"Jan 12, 1991 (32)",Erlangen,Germany,"1,91 m",Goalkeeper,,,0 / 0,na,32,,Germany U19
+Lasse Rieß,/lasse-riess/profil/spieler/490609,€200k,1.FSV Mainz 05,GER,"Jul 27, 2001 (22)",Nieder-Olm,Germany,"1,91 m",Goalkeeper,ROOF Talents,,,right,22,,
+Andreas Hanche-Olsen,/andreas-hanche-olsen/profil/spieler/370683,€7.50m,1.FSV Mainz 05,GER,"Jan 17, 1997 (26)",Bodø,Norway,"1,85 m",Centre-Back,,Norway,14 / 0,right,26,,
+Edimilson Fernandes,/edimilson-fernandes/profil/spieler/247555,€5.50m,1.FSV Mainz 05,GER,"Apr 15, 1996 (27)",Sion,Switzerland,"1,90 m",Centre-Back,,,28 / 2,right,27,Switzerland,
+Sepp van den Berg,/sepp-van-den-berg/profil/spieler/541231,€5.00m,1.FSV Mainz 05,GER,"Dec 20, 2001 (21)",Zwolle,Netherlands,"1,92 m",Centre-Back,Key United,Netherlands U21,1-Aug,right,21,,
+Maxim Leitsch,/maxim-leitsch/profil/spieler/334207,€2.00m,1.FSV Mainz 05,GER,"May 18, 1998 (25)",Essen,Germany,"1,89 m",Centre-Back,Sports360 GmbH,,Mar-00,left,25,,Germany U21
+Stefan Bell,/stefan-bell/profil/spieler/82350,€2.00m,1.FSV Mainz 05,GER,"Aug 24, 1991 (32)",Andernach,Germany,"1,92 m",Centre-Back,,,1-May,right,32,,Germany U21
+Philipp Schulz,/philipp-schulz/profil/spieler/796212,€300k,1.FSV Mainz 05,GER,"May 25, 2005 (18)",,Germany,"1,88 m",Centre-Back,,Germany U18,Jun-00,right,18,,
+Anthony Caci,/anthony-caci/profil/spieler/453016,€8.50m,1.FSV Mainz 05,GER,"Jul 1, 1997 (26)",Forbach,France,"1,84 m",Left-Back,,,Jan-00,right,26,,France U23
+Silvan Widmer,/silvan-widmer/profil/spieler/168989,€3.50m,1.FSV Mainz 05,GER,"Mar 5, 1993 (30)",Aarau,Switzerland,"1,83 m",Right-Back,,Switzerland,39 / 3,right,30,,
+Phillipp Mwene,/phillipp-mwene/profil/spieler/127573,€3.00m,1.FSV Mainz 05,GER,"Jan 29, 1994 (29)",Wien,Austria,"1,70 m",Right-Back,Unique Sports Group,,Jul-00,right,29,Austria,
+Danny da Costa,/danny-da-costa/profil/spieler/85906,€1.80m,1.FSV Mainz 05,GER,"Jul 13, 1993 (30)",Neuss,Germany,"1,87 m",Right-Back,Sports360 GmbH,,May-00,right,30,,Germany U21
+Dominik Kohr,/dominik-kohr/profil/spieler/118847,€3.50m,1.FSV Mainz 05,GER,"Jan 31, 1994 (29)",Trier,Germany,"1,83 m",Defensive Midfield,Sports360 GmbH,,Apr-00,right,29,,Germany U21
+Leandro Barreiro,/leandro-barreiro/profil/spieler/357233,€14.00m,1.FSV Mainz 05,GER,"Jan 3, 2000 (23)",Erpeldingen,Luxembourg,"1,74 m",Central Midfield,CAA Stellar,,48 / 2,right,23,Luxembourg,
+Tom Krauß,/tom-krauss/profil/spieler/405687,€7.00m,1.FSV Mainz 05,GER,"Jun 22, 2001 (22)",Leipzig,Germany,"1,82 m",Central Midfield,ROOF,Germany U21,14 / 3,right,22,,
+Aymen Barkok,/aymen-barkok/profil/spieler/315332,€2.00m,1.FSV Mainz 05,GER,"May 21, 1998 (25)",Frankfurt am Main,Morocco,"1,89 m",Central Midfield,Sports eXcellence ...,,18 / 1,right,25,,Morocco
+Merveille Papela,/merveille-papela/profil/spieler/405689,€1.00m,1.FSV Mainz 05,GER,"Jan 18, 2001 (22)",Mainz,Germany,"1,74 m",Central Midfield,PRO Profil GmbH,,Feb-00,right,22,,Germany U20
+Jae-sung Lee,/jae-sung-lee/profil/spieler/314398,€4.00m,1.FSV Mainz 05,GER,"Aug 10, 1992 (31)",Ulsan,"Korea, South","1,80 m",Attacking Midfield,Unique Sports Group,,71 / 9,left,31,South Korea,
+Marco Richter,/marco-richter/profil/spieler/279009,€5.00m,1.FSV Mainz 05,GER,"Nov 24, 1997 (25)",Friedberg,Germany,"1,76 m",Right Winger,Sports360 GmbH,,3-Aug,right,25,,Germany U21
+Brajan Gruda,/brajan-gruda/profil/spieler/700106,€500k,1.FSV Mainz 05,GER,"May 31, 2004 (19)",Speyer,Germany,"1,78 m",Right Winger,,,Jan-00,left,19,Germany U21,
+Jonathan Burkardt,/jonathan-burkardt/profil/spieler/333647,€10.00m,1.FSV Mainz 05,GER,"Jul 11, 2000 (23)",Darmstadt,Germany,"1,83 m",Centre-Forward,PRO Profil GmbH,,20 / 10,right,23,,Germany U21
+Ludovic Ajorque,/ludovic-ajorque/profil/spieler/283994,€9.00m,1.FSV Mainz 05,GER,"Feb 25, 1994 (29)",Saint-Denis,France,"1,96 m",Centre-Forward,,,,left,29,,
+Nelson Weiper,/nelson-weiper/profil/spieler/796213,€5.00m,1.FSV Mainz 05,GER,"Mar 17, 2005 (18)",Mainz,Germany,"1,92 m",Centre-Forward,,,Mar-00,right,18,Germany U21,
+Karim Onisiwo,/karim-onisiwo/profil/spieler/119234,€3.50m,1.FSV Mainz 05,GER,"Mar 17, 1992 (31)",Wien,Austria,"1,88 m",Centre-Forward,ROOF,,22 / 1,right,31,Austria,
+Marvin Schwäbe,/marvin-schwabe/profil/spieler/160929,€7.00m,1.FC Köln,GER,"Apr 25, 1995 (28)",Dieburg,Germany,"1,90 m",Goalkeeper,CN Sports,,Apr-00,right,28,,Germany U21
+Philipp Pentke,/philipp-pentke/profil/spieler/8246,€300k,1.FC Köln,GER,"May 1, 1985 (38)",Freiberg,Germany,"1,91 m",Goalkeeper,,,,right,38,,
+Jonas Nickisch,/jonas-nickisch/profil/spieler/665971,€200k,1.FC Köln,GER,"May 21, 2004 (19)",Dresden,Germany,"1,90 m",Goalkeeper,,Germany U19,Jan-00,na,19,,
+Matthias Köbbing,/matthias-kobbing/profil/spieler/227089,€100k,1.FC Köln,GER,"May 28, 1997 (26)",Koblenz,Germany,"1,96 m",Goalkeeper,,,Mar-00,na,26,,Germany U15
+Timo Hübers,/timo-hubers/profil/spieler/236981,€8.50m,1.FC Köln,GER,"Jul 20, 1996 (27)",Hildesheim,Germany,"1,90 m",Centre-Back,,,0 / 0,right,27,,Germany U18
+Jeff Chabot,/jeff-chabot/profil/spieler/303219,€5.50m,1.FC Köln,GER,"Feb 12, 1998 (25)",Hanau,Germany,"1,95 m",Centre-Back,PRO Profil GmbH,,Apr-00,left,25,,Germany U21
+Luca Kilian,/luca-kilian/profil/spieler/384553,€3.50m,1.FC Köln,GER,"Sep 1, 1999 (24)",Witten,Germany,"1,92 m",Centre-Back,,,1-Jul,right,24,,Germany U21
+Dominique Heintz,/dominique-heintz/profil/spieler/110036,€1.20m,1.FC Köln,GER,"Aug 15, 1993 (30)",Neustadt an der ...,Germany,"1,88 m",Centre-Back,Sports360 GmbH,,1-Jun,left,30,,Germany U21
+Elias Bakatukanda,/elias-bakatukanda/profil/spieler/795762,€250k,1.FC Köln,GER,"Apr 13, 2004 (19)",Köln,Germany,"1,93 m",Centre-Back,,,0 / 0,na,19,Germany U20,
+Leart Paqarada,/leart-paqarada/profil/spieler/107219,€2.00m,1.FC Köln,GER,"Oct 8, 1994 (28)",Aachen,Kosovo,"1,84 m",Left-Back,,,25 / 1,left,28,Kosovo,
+Noah Katterbach,/noah-katterbach/profil/spieler/469949,€1.00m,1.FC Köln,GER,"Apr 13, 2001 (22)",Simmerath,Germany,"1,80 m",Left-Back,ROGON,Germany U21,1-Dec,left,22,,
+Max Finkgräfe,/max-finkgrafe/profil/spieler/810649,€300k,1.FC Köln,GER,"Mar 27, 2004 (19)",Mönchengladbach,Germany,"1,83 m",Left-Back,Unique Sports Group,,,left,19,,
+Benno Schmitz,/benno-schmitz/profil/spieler/160968,€3.00m,1.FC Köln,GER,"Nov 17, 1994 (28)",München,Germany,"1,82 m",Right-Back,,,Nov-00,right,28,,Germany U20
+Rasmus Carstensen,/rasmus-carstensen/profil/spieler/542697,€1.50m,1.FC Köln,GER,"Nov 10, 2000 (22)",Virklund,Denmark,"1,83 m",Right-Back,,Denmark U21,17 / 0,right,22,,
+Dejan Ljubicic,/dejan-ljubicic/profil/spieler/287188,€10.00m,1.FC Köln,GER,"Oct 8, 1997 (25)",Wien,Austria,"1,87 m",Defensive Midfield,,,1-Aug,right,25,Austria,
+Eric Martel,/eric-martel/profil/spieler/597000,€9.00m,1.FC Köln,GER,"Apr 29, 2002 (21)",Straubing,Germany,"1,88 m",Defensive Midfield,,,Nov-00,right,21,Germany U21,
+Jacob Christensen,/jacob-christensen/profil/spieler/515017,€2.50m,1.FC Köln,GER,"Jun 25, 2001 (22)",Copenhagen,Denmark,"1,80 m",Defensive Midfield,,,Jan-00,right,22,,Denmark U21
+Denis Huseinbasic,/denis-huseinbasic/profil/spieler/678479,€5.00m,1.FC Köln,GER,"Jul 3, 2001 (22)",Erbach (Odenwald),Germany,"1,84 m",Central Midfield,,Germany U21,2-May,right,22,,
+Mathias Olesen,/mathias-olesen/profil/spieler/490581,€1.20m,1.FC Köln,GER,"Mar 21, 2001 (22)",Kopenhagen,Luxembourg,"1,88 m",Central Midfield,,,13 / 0,na,22,Luxembourg,
+Florian Kainz,/florian-kainz/profil/spieler/106270,€5.00m,1.FC Köln,GER,"Oct 24, 1992 (30)",Graz,Austria,"1,76 m",Left Winger,,,24 / 1,na,30,Austria,
+Faride Alidou,/faride-alidou/profil/spieler/456492,€2.50m,1.FC Köln,GER,"Jul 18, 2001 (22)",Hamburg,Germany,"1,86 m",Left Winger,,Germany U21,Oct-00,right,22,,
+Jan Thielmann,/jan-thielmann/profil/spieler/472249,€6.50m,1.FC Köln,GER,"May 26, 2002 (21)",Föhren,Germany,"1,78 m",Right Winger,,Germany U21,1-Jul,right,21,,
+Linton Maina,/linton-maina/profil/spieler/335103,€6.00m,1.FC Köln,GER,"Jun 23, 1999 (24)",Berlin,Germany,"1,80 m",Right Winger,ROOF,,0 / 0,right,24,,Germany U21
+Dimitrios Limnios,/dimitrios-limnios/profil/spieler/324344,€2.00m,1.FC Köln,GER,"May 27, 1998 (25)",Volos,Greece,"1,78 m",Right Winger,,,25 / 3,right,25,Greece,
+Steffen Tigges,/steffen-tigges/profil/spieler/296879,€3.50m,1.FC Köln,GER,"Jul 31, 1998 (25)",Osnabrück,Germany,"1,94 m",Centre-Forward,,,Apr-00,left,25,,Germany U20
+Luca Waldschmidt,/luca-waldschmidt/profil/spieler/196095,€3.00m,1.FC Köln,GER,"May 19, 1996 (27)",Siegen,Germany,"1,81 m",Centre-Forward,Sports360 GmbH,,2-Jul,left,27,,Germany
+Davie Selke,/davie-selke/profil/spieler/178459,€2.50m,1.FC Köln,GER,"Jan 20, 1995 (28)",Schorndorf,Germany,"1,95 m",Centre-Forward,Sports eXcellence ...,,15 / 9,right,28,,Germany U21
+Mark Uth,/mark-uth/profil/spieler/112935,€1.50m,1.FC Köln,GER,"Aug 24, 1991 (32)",Köln,Germany,"1,85 m",Centre-Forward,Sports360 GmbH,,Jan-00,left,32,,Germany
+Sargis Adamyan,/sargis-adamyan/profil/spieler/125614,€1.00m,1.FC Köln,GER,"May 23, 1993 (30)",Yerevan,Armenia,"1,84 m",Centre-Forward,Karl M. Herzog ...,,36 / 2,right,30,Armenia,
+Florian Dietz,/florian-dietz/profil/spieler/283871,€1.00m,1.FC Köln,GER,"Aug 3, 1998 (25)",Bad Neustadt an der ...,Germany,"1,90 m",Centre-Forward,ROOF,,,right,25,,
+Damion Downs,/damion-downs/profil/spieler/820241,€250k,1.FC Köln,GER,"Jul 6, 2004 (19)",Werneck,Germany,,Centre-Forward,,,0 / 0,right,19,,USA U20
+Jiri Pavlenka,/jiri-pavlenka/profil/spieler/260053,€3.00m,SV Werder Bremen,GER,"Apr 14, 1992 (31)",Hlučín,Czech Republic,"1,96 m",Goalkeeper,,,20 / 0,right,31,Czechia,
+Michael Zetterer,/michael-zetterer/profil/spieler/196813,€500k,SV Werder Bremen,GER,"Jul 12, 1995 (28)",München,Germany,"1,87 m",Goalkeeper,,,Jan-00,na,28,,Germany U21
+Dudu,/dudu/profil/spieler/369258,€200k,SV Werder Bremen,GER,"Feb 10, 1999 (24)",Duisburg,Germany,"1,96 m",Goalkeeper,,,,right,24,,
+Marco Friedl,/marco-friedl/profil/spieler/156990,€7.00m,SV Werder Bremen,GER,"Mar 16, 1998 (25)",Kirchbichl,Austria,"1,87 m",Centre-Back,,Austria,May-00,left,25,,
+Amos Pieper,/amos-pieper/profil/spieler/334221,€6.00m,SV Werder Bremen,GER,"Jan 17, 1998 (25)",Lüdinghausen,Germany,"1,92 m",Centre-Back,Sports360 GmbH,,Oct-00,right,25,,Germany U21
+Niklas Stark,/niklas-stark/profil/spieler/162434,€5.50m,SV Werder Bremen,GER,"Apr 14, 1995 (28)",Neustadt an der ...,Germany,"1,90 m",Centre-Back,Sports360 GmbH,,Feb-00,right,28,,Germany
+Milos Veljkovic,/milos-veljkovic/profil/spieler/202228,€5.50m,SV Werder Bremen,GER,"Sep 26, 1995 (27)",Basel,Serbia,"1,88 m",Centre-Back,,,26 / 0,right,27,Serbia,
+Anthony Jung,/anthony-jung/profil/spieler/58995,€1.50m,SV Werder Bremen,GER,"Nov 3, 1991 (31)",Villajoyosa,Germany,"1,86 m",Left-Back,CAA Stellar,,Feb-00,left,31,,Germany U20
+Mitchell Weiser,/mitchell-weiser/profil/spieler/119211,€6.00m,SV Werder Bremen,GER,"Apr 21, 1994 (29)",Troisdorf,Germany,"1,77 m",Right-Back,ROOF,,1-Dec,right,29,,Germany U21
+Felix Agu,/felix-agu/profil/spieler/393512,€1.00m,SV Werder Bremen,GER,"Sep 27, 1999 (23)",Osnabrück,Germany,"1,80 m",Right-Back,,,Feb-00,right,23,,Germany U21
+Senne Lynen,/senne-lynen/profil/spieler/338668,€4.00m,SV Werder Bremen,GER,"Feb 19, 1999 (24)",Antwerpen,Belgium,"1,85 m",Defensive Midfield,,,Apr-00,right,24,,Belgium U19
+Nicolai Rapp,/nicolai-rapp/profil/spieler/185427,€700k,SV Werder Bremen,GER,"Dec 13, 1996 (26)",Heidelberg,Germany,"1,86 m",Defensive Midfield,11WINS,,Jan-00,right,26,,Germany U18
+Christian Groß,/christian-gross/profil/spieler/58396,€500k,SV Werder Bremen,GER,"Feb 8, 1989 (34)",Bremen,Germany,"1,82 m",Defensive Midfield,,,Jan-00,na,34,,Germany U20
+Naby Keïta,/naby-keita/profil/spieler/302215,€12.00m,SV Werder Bremen,GER,"Feb 10, 1995 (28)",Conakry,Guinea,"1,72 m",Central Midfield,ROOF,Guinea,54 / 12,right,28,,
+Jens Stage,/jens-stage/profil/spieler/289835,€5.00m,SV Werder Bremen,GER,"Nov 8, 1996 (26)",Højbjerg,Denmark,"1,87 m",Central Midfield,CMA Group,,Jan-00,right,26,,Denmark
+Olivier Deman,/olivier-deman/profil/spieler/621802,€3.00m,SV Werder Bremen,GER,"Apr 6, 2000 (23)",Antwerpen,Belgium,"1,81 m",Left Midfield,,,Jan-00,left,23,Belgium,
+Leon Opitz,/leon-opitz/profil/spieler/825073,€300k,SV Werder Bremen,GER,"Apr 11, 2005 (18)",,Germany,"1,83 m",Left Midfield,,,Jan-00,left,18,Germany U19,
+Romano Schmid,/romano-schmid/profil/spieler/346853,€4.50m,SV Werder Bremen,GER,"Jan 27, 2000 (23)",Graz,Austria,"1,68 m",Attacking Midfield,SEG,Austria,Apr-00,right,23,,
+Leonardo Bittencourt,/leonardo-bittencourt/profil/spieler/93844,€2.80m,SV Werder Bremen,GER,"Dec 19, 1993 (29)",Leipzig,Germany,"1,71 m",Attacking Midfield,,,20 / 3,right,29,,Germany U21
+Justin Njinmah,/justin-njinmah/profil/spieler/596153,€800k,SV Werder Bremen,GER,"Nov 15, 2000 (22)",Hamburg,Germany,"1,85 m",Right Winger,,,,na,22,,
+Rafael Borré,/rafael-borre/profil/spieler/323831,€9.00m,SV Werder Bremen,GER,"Sep 15, 1995 (27)",Barranquilla,Colombia,"1,74 m",Centre-Forward,,,25 / 4,right,27,Colombia,
+Marvin Ducksch,/marvin-ducksch/profil/spieler/125103,€7.50m,SV Werder Bremen,GER,"Mar 7, 1994 (29)",Dortmund,Germany,"1,88 m",Centre-Forward,,,0 / 0,right,29,,Germany U20
+Dawid Kownacki,/dawid-kownacki/profil/spieler/208167,€3.50m,SV Werder Bremen,GER,"Mar 14, 1997 (26)",Gorzów Wielkopolski,Poland,"1,86 m",Centre-Forward,,,1-Jul,right,26,,Poland
+Nick Woltemade,/nick-woltemade/profil/spieler/455661,€1.50m,SV Werder Bremen,GER,"Feb 14, 2002 (21)",Bremen,Germany,"1,98 m",Centre-Forward,,,Jan-00,right,21,Germany U21,
+Manuel Riemann,/manuel-riemann/profil/spieler/40792,€1.00m,VfL Bochum,GER,"Sep 9, 1988 (35)",Mühldorf am Inn,Germany,"1,86 m",Goalkeeper,ROOF,,0 / 0,right,35,,Germany U17
+Niclas Thiede,/niclas-thiede/profil/spieler/348778,€350k,VfL Bochum,GER,"Apr 14, 1999 (24)",Hagen,Germany,"1,86 m",Goalkeeper,,,Feb-00,na,24,,Germany U20
+Michael Esser,/michael-esser/profil/spieler/61989,€300k,VfL Bochum,GER,"Nov 22, 1987 (35)",Castrop-Rauxel,Germany,"1,98 m",Goalkeeper,,,,right,35,,
+Erhan Masovic,/erhan-masovic/profil/spieler/343959,€8.00m,VfL Bochum,GER,"Nov 22, 1998 (24)",Novi Pazar,Serbia,"1,89 m",Centre-Back,,,Mar-00,na,24,Serbia,
+Ivan Ordets,/ivan-ordets/profil/spieler/118850,€3.00m,VfL Bochum,GER,"Jul 8, 1992 (31)","Blyzhnye, Donetsk ...",Ukraine,"1,95 m",Centre-Back,,,1-Dec,right,31,,Ukraine
+Keven Schlotterbeck,/keven-schlotterbeck/profil/spieler/413843,€3.00m,VfL Bochum,GER,"Apr 28, 1997 (26)",Weinstadt,Germany,"1,89 m",Centre-Back,,,Mar-00,left,26,,Germany
+Bernardo,/bernardo/profil/spieler/364258,€2.50m,VfL Bochum,GER,"May 14, 1995 (28)",São Paulo,Brazil,"1,86 m",Centre-Back,,,,left,28,,
+Tim Oermann,/tim-oermann/profil/spieler/696164,€800k,VfL Bochum,GER,"Oct 6, 2003 (19)",Bochum,Germany,"1,89 m",Centre-Back,,,Jan-00,right,19,Germany U20,
+Noah Loosli,/noah-loosli/profil/spieler/265209,€800k,VfL Bochum,GER,"Jan 23, 1997 (26)",Brugg,Switzerland,"1,86 m",Centre-Back,,,Jan-00,right,26,,Switzerland U21
+Mohammed Tolba,/mohammed-tolba/profil/spieler/813730,€200k,VfL Bochum,GER,"Jul 19, 2004 (19)",Essen,Germany,"1,85 m",Centre-Back,,Germany U19,Feb-00,right,19,,
+Maximilian Wittek,/maximilian-wittek/profil/spieler/196793,€2.00m,VfL Bochum,GER,"Aug 21, 1995 (28)",Freising,Germany,"1,73 m",Left-Back,Sports360 GmbH,,15 / 0,left,28,,Germany U20
+Danilo Soares,/danilo-soares/profil/spieler/154396,€1.80m,VfL Bochum,GER,"Oct 29, 1991 (31)",Belo Horizonte,Brazil,"1,70 m",Left-Back,,,,left,31,,
+Moritz Römling,/moritz-romling/profil/spieler/452222,€150k,VfL Bochum,GER,"Apr 30, 2001 (22)",Witten,Germany,"1,86 m",Left-Back,,,Apr-00,left,22,,Germany U18
+Felix Passlack,/felix-passlack/profil/spieler/274461,€1.50m,VfL Bochum,GER,"May 29, 1998 (25)",Bottrop,Germany,"1,70 m",Right-Back,,,Apr-00,right,25,,Germany U21
+Jordi Osei-Tutu,/jordi-osei-tutu/profil/spieler/397099,€1.20m,VfL Bochum,GER,"Oct 2, 1998 (24)",Slough,England,"1,76 m",Right-Back,Unique Sports Group,,,right,24,,
+Cristian Gamboa,/cristian-gamboa/profil/spieler/121686,€600k,VfL Bochum,GER,"Oct 24, 1989 (33)",Liberia,Costa Rica,"1,75 m",Right-Back,,,78 / 3,right,33,,Costa Rica
+Anthony Losilla,/anthony-losilla/profil/spieler/111266,€500k,VfL Bochum,GER,"Mar 10, 1986 (37)",Firminy,France,"1,85 m",Defensive Midfield,,,,right,37,,
+Patrick Osterhage,/patrick-osterhage/profil/spieler/443331,€4.00m,VfL Bochum,GER,"Feb 1, 2000 (23)",Göttingen,Germany,"1,86 m",Central Midfield,,Germany U21,Apr-00,left,23,,
+Matus Bero,/matus-bero/profil/spieler/204047,€2.30m,VfL Bochum,GER,"Sep 6, 1995 (28)",Ilava,Slovakia,"1,81 m",Central Midfield,,,26 / 1,right,28,Slovakia,
+Mats Pannewig,/mats-pannewig/profil/spieler/796221,,VfL Bochum,GER,"Oct 28, 2004 (18)",Hamm,Germany,"1,95 m",Central Midfield,,,,,18,,
+Kevin Stöger,/kevin-stoger/profil/spieler/106872,€3.00m,VfL Bochum,GER,"Aug 27, 1993 (30)",Steyr,Austria,"1,75 m",Attacking Midfield,,,0 / 0,left,30,,Austria
+Philipp Förster,/philipp-forster/profil/spieler/179635,€2.80m,VfL Bochum,GER,"Feb 4, 1995 (28)",Bretten,Germany,"1,88 m",Attacking Midfield,ROOF,,,left,28,,
+Lukas Daschner,/lukas-daschner/profil/spieler/334213,€1.50m,VfL Bochum,GER,"Oct 1, 1998 (24)",Duisburg,Germany,"1,85 m",Attacking Midfield,ROOF,,,na,24,,
+Moritz-Broni Kwarteng,/moritz-broni-kwarteng/profil/spieler/316575,€1.50m,VfL Bochum,GER,"Apr 28, 1998 (25)",Stuttgart,Germany,"1,75 m",Attacking Midfield,,,,na,25,,
+Christopher Antwi-Adjei,/christopher-antwi-adjei/profil/spieler/289182,€2.20m,VfL Bochum,GER,"Feb 7, 1994 (29)",Hagen,Ghana,"1,74 m",Left Winger,,,Mar-00,right,29,,Ghana
+Takuma Asano,/takuma-asano/profil/spieler/245744,€4.00m,VfL Bochum,GER,"Nov 10, 1994 (28)","Komono, Mie",Japan,"1,73 m",Right Winger,JEB ENTERTAINMENT ...,,45 / 9,right,28,Japan,
+Philipp Hofmann,/philipp-hofmann/profil/spieler/119037,€2.80m,VfL Bochum,GER,"Mar 30, 1993 (30)",Arnsberg,Germany,"1,95 m",Centre-Forward,ROOF,,17 / 9,left,30,,Germany U21
+Gonçalo Paciência,/goncalo-paciencia/profil/spieler/181547,€2.00m,VfL Bochum,GER,"Aug 1, 1994 (29)",Porto,Portugal,"1,84 m",Centre-Forward,Proeleven S.A.,,1-Feb,right,29,,Portugal
+Moritz Broschinski,/moritz-broschinski/profil/spieler/406973,€1.00m,VfL Bochum,GER,"Sep 23, 2000 (22)",Finsterwalde,Germany,"1,90 m",Centre-Forward,,,Jan-00,right,22,,Germany U19
+Lys Mousset,/lys-mousset/profil/spieler/291422,€1.00m,VfL Bochum,GER,"Feb 8, 1996 (27)",Montivilliers,France,"1,86 m",Centre-Forward,,,5-Aug,right,27,,France U21
+Marcel Schuhen,/marcel-schuhen/profil/spieler/93651,€1.00m,SV Darmstadt 98,GER,"Jan 13, 1993 (30)",Kirchen (Sieg),Germany,"1,88 m",Goalkeeper,,,,na,30,,
+Morten Behrens,/morten-behrens/profil/spieler/274039,€250k,SV Darmstadt 98,GER,"Apr 1, 1997 (26)",Bad Segeberg,Germany,"1,93 m",Goalkeeper,,,,right,26,,
+Alexander Brunst,/alexander-brunst/profil/spieler/146693,€200k,SV Darmstadt 98,GER,"Jul 7, 1995 (28)",Hamburg,Germany,"1,95 m",Goalkeeper,,,0 / 0,right,28,,Germany U20
+Christoph Klarer,/christoph-klarer/profil/spieler/346849,€2.20m,SV Darmstadt 98,GER,"Jun 14, 2000 (23)",Böheimkirchen,Austria,"1,91 m",Centre-Back,HAGMAYR ...,,Dec-00,right,23,,Austria U21
+Christoph Zimmermann,/christoph-zimmermann/profil/spieler/77812,€1.30m,SV Darmstadt 98,GER,"Jan 12, 1993 (30)",Düsseldorf,Germany,"1,94 m",Centre-Back,,,,right,30,,
+Matej Maglica,/matej-maglica/profil/spieler/433388,€1.00m,SV Darmstadt 98,GER,"Sep 25, 1998 (24)",Slavonski Brod,Croatia,"1,98 m",Centre-Back,,,,left,24,,
+Jannik Müller,/jannik-muller/profil/spieler/119286,€1.00m,SV Darmstadt 98,GER,"Jan 18, 1994 (29)",Adenau,Germany,"1,87 m",Centre-Back,,,Feb-00,right,29,,Germany U19
+Clemens Riedel,/clemens-riedel/profil/spieler/692070,€1.00m,SV Darmstadt 98,GER,"Jul 19, 2003 (20)",Wölfersheim,Germany,"1,86 m",Centre-Back,Sports360 GmbH,,Jan-00,right,20,Germany U21,
+Thomas Isherwood,/thomas-isherwood/profil/spieler/322075,€900k,SV Darmstadt 98,GER,"Jan 28, 1998 (25)",Söderort,Sweden,"1,95 m",Centre-Back,,,Jul-00,left,25,,Sweden U21
+Emir Karic,/emir-karic/profil/spieler/286596,€700k,SV Darmstadt 98,GER,"Jun 9, 1997 (26)",Linz,Austria,"1,84 m",Left-Back,,,Mar-00,left,26,,Austria U21
+Fabian Holland,/fabian-holland/profil/spieler/54846,€600k,SV Darmstadt 98,GER,"Jul 11, 1990 (33)",Berlin,Germany,"1,72 m",Left-Back,,,Jan-00,left,33,,Germany U20
+Matthias Bader,/matthias-bader/profil/spieler/237162,€2.00m,SV Darmstadt 98,GER,"Jun 17, 1997 (26)",Pforzheim,Germany,"1,76 m",Right-Back,Sports360 GmbH,,May-00,right,26,,Germany U20
+Frank Ronstadt,/frank-ronstadt/profil/spieler/270027,€550k,SV Darmstadt 98,GER,"Jul 21, 1997 (26)",Hamburg,Germany,"1,79 m",Right-Back,,,Jan-00,right,26,,Germany U19
+Bartol Franjic,/bartol-franjic/profil/spieler/370998,€3.00m,SV Darmstadt 98,GER,"Jan 14, 2000 (23)",Zagreb,Croatia,"1,88 m",Defensive Midfield,VPA Sports,Croatia U21,15 / 1,left,23,,
+Andreas Müller,/andreas-muller/profil/spieler/438315,€1.00m,SV Darmstadt 98,GER,"Jul 20, 2000 (23)",Sinsheim,Germany,"1,73 m",Defensive Midfield,,,,right,23,,
+Klaus Gjasula,/klaus-gjasula/profil/spieler/57598,€500k,SV Darmstadt 98,GER,"Dec 14, 1989 (33)",Tiranë,Albania,"1,90 m",Defensive Midfield,Sports eXcellence ...,,24 / 0,na,33,Albania,
+Fabian Nürnberger,/fabian-nurnberger/profil/spieler/349433,€1.20m,SV Darmstadt 98,GER,"Jul 28, 1999 (24)",Hamburg,Germany,"1,81 m",Central Midfield,Unique Sports Group,,,left,24,,
+Fabian Schnellhardt,/fabian-schnellhardt/profil/spieler/94148,€1.00m,SV Darmstadt 98,GER,"Jan 12, 1994 (29)",Leinefelde,Germany,"1,80 m",Central Midfield,ROOF,,2-May,left,29,,Germany U20
+Tobias Kempe,/tobias-kempe/profil/spieler/42072,€500k,SV Darmstadt 98,GER,"Jun 27, 1989 (34)",Wesel,Germany,"1,84 m",Central Midfield,Unique Sports Group,,1-May,right,34,,Germany U20
+Marvin Mehlem,/marvin-mehlem/profil/spieler/237226,€1.50m,SV Darmstadt 98,GER,"Sep 11, 1997 (26)",Karlsruhe,Germany,"1,74 m",Attacking Midfield,,,3-Aug,right,26,,Germany U19
+Mathias Honsak,/mathias-honsak/profil/spieler/283497,€1.50m,SV Darmstadt 98,GER,"Dec 20, 1996 (26)",Wien,Austria,"1,88 m",Left Winger,HAGMAYR ...,,0 / 0,left,26,,Austria
+Tim Skarke,/tim-skarke/profil/spieler/287920,€1.20m,SV Darmstadt 98,GER,"Sep 7, 1996 (27)",Heidenheim an der ...,Germany,"1,81 m",Right Winger,Unique Sports Group,,Jan-00,right,27,,Germany U21
+Filip Stojilkovic,/filip-stojilkovic/profil/spieler/464195,€2.00m,SV Darmstadt 98,GER,"Jan 4, 2000 (23)",Zollikon,Switzerland,"1,86 m",Centre-Forward,Borteo Sports,Switzerland U21,25 / 2,right,23,,
+Luca Pfeiffer,/luca-pfeiffer/profil/spieler/232463,€1.70m,SV Darmstadt 98,GER,"Aug 20, 1996 (27)",Bad Mergentheim,Germany,"1,96 m",Centre-Forward,,,,right,27,,
+Braydon Manu,/braydon-manu/profil/spieler/231590,€1.50m,SV Darmstadt 98,GER,"Mar 28, 1997 (26)",Itzehoe,Ghana,"1,70 m",Centre-Forward,,,0 / 0,na,26,,Ghana
+Oscar Vilhelmsson,/oscar-vilhelmsson/profil/spieler/673071,€1.50m,SV Darmstadt 98,GER,"Oct 2, 2003 (19)",Åsa,Sweden,"1,88 m",Centre-Forward,,,Jan-00,left,19,Sweden U21,
+Fraser Hornby,/fraser-hornby/profil/spieler/388160,€1.00m,SV Darmstadt 98,GER,"Sep 13, 1999 (23)",Northampton,Scotland,"1,95 m",Centre-Forward,,,18 / 10,right,23,,Scotland U21
+Aaron Seydel,/aaron-seydel/profil/spieler/187499,€500k,SV Darmstadt 98,GER,"Feb 7, 1996 (27)",Langen (Hessen),Germany,"1,99 m",Centre-Forward,PRO Profil GmbH,,4-Apr,left,27,,Germany U21
+Fabio Torsiello,/fabio-torsiello/profil/spieler/917015,€500k,SV Darmstadt 98,GER,"Feb 2, 2005 (18)",Darmstadt,Germany,"1,77 m",Centre-Forward,Sports360 GmbH,Germany U18,Jun-00,right,18,,
+Kevin Müller,/kevin-muller/profil/spieler/43824,€800k,1.FC Heidenheim 1846,GER,"Mar 15, 1991 (32)",Rostock,Germany,"1,90 m",Goalkeeper,KL Sportsbase,,Jul-00,right,32,,Germany U20
+Vitus Eicher,/vitus-eicher/profil/spieler/57796,€250k,1.FC Heidenheim 1846,GER,"Nov 5, 1990 (32)",Erding,Germany,"1,91 m",Goalkeeper,PRO Profil GmbH,,,left,32,,
+Paul Tschernuth,/paul-tschernuth/profil/spieler/519035,€100k,1.FC Heidenheim 1846,GER,"Jan 20, 2002 (21)",Salzburg,Austria,"1,86 m",Goalkeeper,B360 Sports,,Feb-00,left,21,,Austria U18
+Frank Feller,/frank-feller/profil/spieler/806948,,1.FC Heidenheim 1846,GER,"Jan 7, 2004 (19)",Leonberg,Germany,"1,83 m",Goalkeeper,,,0 / 0,right,19,Germany U20,
+Patrick Mainka,/patrick-mainka/profil/spieler/133731,€2.00m,1.FC Heidenheim 1846,GER,"Nov 6, 1994 (28)",Gütersloh,Germany,"1,94 m",Centre-Back,,,,right,28,,
+Tim Siersleben,/tim-siersleben/profil/spieler/337092,€1.50m,1.FC Heidenheim 1846,GER,"Mar 9, 2000 (23)",Magdeburg,Germany,"1,87 m",Centre-Back,,,Feb-00,left,23,,Germany U20
+Thomas Keller,/thomas-keller/profil/spieler/485747,€350k,1.FC Heidenheim 1846,GER,"Aug 5, 1999 (24)",München,Germany,"1,86 m",Centre-Back,,,Apr-00,right,24,,Germany U20
+Jonas Föhrenbach,/jonas-fohrenbach/profil/spieler/192169,€1.00m,1.FC Heidenheim 1846,GER,"Jan 26, 1996 (27)",Freiburg im Breisgau,Germany,"1,84 m",Left-Back,Unique Sports Group,,0 / 0,left,27,,Germany U20
+Seedy Jarju,/seedy-jarju/profil/spieler/824353,,1.FC Heidenheim 1846,GER,"Oct 28, 2004 (18)",Ebo Town,Germany,"1,80 m",Left-Back,,,,left,18,,
+Marnon Busch,/marnon-busch/profil/spieler/117478,€1.50m,1.FC Heidenheim 1846,GER,"Dec 8, 1994 (28)",Stade,Germany,"1,82 m",Right-Back,,,Jan-00,right,28,,Germany U15
+Omar Haktab Traoré,/omar-haktab-traore/profil/spieler/388294,€400k,1.FC Heidenheim 1846,GER,"Feb 4, 1998 (25)",Osnabrück,Germany,"1,87 m",Right-Back,,,,right,25,,
+Lennard Maloney,/lennard-maloney/profil/spieler/392710,€2.00m,1.FC Heidenheim 1846,GER,"Oct 8, 1999 (23)",Berlin,United States,"1,87 m",Defensive Midfield,,,Jan-00,right,23,,USA U20
+Benedikt Gimber,/benedikt-gimber/profil/spieler/227084,€1.50m,1.FC Heidenheim 1846,GER,"Feb 19, 1997 (26)",Buchen,Germany,"1,87 m",Defensive Midfield,,,1-Oct,left,26,,Germany U20
+Norman Theuerkauf,/norman-theuerkauf/profil/spieler/31599,€300k,1.FC Heidenheim 1846,GER,"Jan 24, 1987 (36)",Nordhausen,Germany,"1,83 m",Left-Back,,,,left,36,,
+Luka Janes,/luka-janes/profil/spieler/825971,€200k,1.FC Heidenheim 1846,GER,"Jan 19, 2004 (19)",Schwäbisch Gmünd,Germany,"1,83 m",Central Midfield,,,,right,19,,
+Jan Schöppner,/jan-schoppner/profil/spieler/581357,€1.50m,1.FC Heidenheim 1846,GER,"Jun 12, 1999 (24)",Homberg (Efze),Germany,"1,90 m",Central Midfield,KL Sportsbase,,,right,24,,
+Kevin Sessa,/kevin-sessa/profil/spieler/448028,€1.50m,1.FC Heidenheim 1846,GER,"Jul 6, 2000 (23)",Stuttgart,Germany,"1,75 m",Central Midfield,,,,,23,,
+Denis Thomalla,/denis-thomalla/profil/spieler/94030,€750k,1.FC Heidenheim 1846,GER,"Aug 16, 1992 (31)",Pforzheim,Germany,"1,86 m",Attacking Midfield,CAA Stellar,,0 / 0,right,31,,Germany U20
+Adrian Beck,/adrian-beck/profil/spieler/273669,€650k,1.FC Heidenheim 1846,GER,"Jun 9, 1997 (26)",Crailsheim,Germany,"1,86 m",Attacking Midfield,,,,right,26,,
+Jan-Niklas Beste,/jan-niklas-beste/profil/spieler/342967,€3.00m,1.FC Heidenheim 1846,GER,"Jan 4, 1999 (24)",Hamm,Germany,"1,75 m",Left Winger,,,1-Feb,left,24,,Germany U20
+Florian Pick,/florian-pick/profil/spieler/191359,€900k,1.FC Heidenheim 1846,GER,"Sep 8, 1995 (28)",Wittlich,Germany,"1,76 m",Left Winger,CN Sports,,,right,28,,
+Eren Dinkci,/eren-dinkci/profil/spieler/645774,€1.00m,1.FC Heidenheim 1846,GER,"Dec 13, 2001 (21)",Bremen,Germany,"1,88 m",Right Winger,,,Mar-00,right,21,,Germany U20
+Nikola Dovedan,/nikola-dovedan/profil/spieler/120189,€600k,1.FC Heidenheim 1846,GER,"Jul 6, 1994 (29)",Tulln,Austria,"1,72 m",Second Striker,,,16 / 2,right,29,,Austria U21
+Tim Kleindienst,/tim-kleindienst/profil/spieler/193033,€4.00m,1.FC Heidenheim 1846,GER,"Aug 31, 1995 (28)",Jüterbog,Germany,"1,94 m",Centre-Forward,,,Oct-00,right,28,,Germany U20
+Marvin Pieringer,/marvin-pieringer/profil/spieler/471055,€2.00m,1.FC Heidenheim 1846,GER,"Oct 4, 1999 (23)",Bad Urach,Germany,"1,91 m",Centre-Forward,,,,right,23,,
+Christian Kühlwetter,/christian-kuhlwetter/profil/spieler/184204,€600k,1.FC Heidenheim 1846,GER,"Apr 21, 1996 (27)",Bonn,Germany,"1,82 m",Centre-Forward,,,,na,27,,
+Stefan Schimmer,/stefan-schimmer/profil/spieler/394033,€500k,1.FC Heidenheim 1846,GER,"Apr 28, 1994 (29)",Wertingen,Germany,"1,85 m",Centre-Forward,,,,right,29,,
+Elidon Qenaj,/elidon-qenaj/profil/spieler/741149,€100k,1.FC Heidenheim 1846,GER,"May 22, 2003 (20)",Böblingen,Kosovo,"1,98 m",Centre-Forward,ROGON,,0 / 0,na,20,,Kosovo U21

@@ -1,0 +1,551 @@
+name,url,value,club_name,country_league,dob_and_age,birth_place,citizenship,height,postion,agent,current_international,caps/goals,foot,age,former_international,national_player
+Ederson,/ederson/profil/spieler/238223,€40.00m,Manchester City,ENG,"Aug 17, 1993 (30)",Osasco (SP),Brazil,"1,88 m",Goalkeeper,Gestifute,Brazil,22 / 0,left,30,,
+Stefan Ortega,/stefan-ortega/profil/spieler/85941,€9.00m,Manchester City,ENG,"Nov 6, 1992 (30)",Hofgeismar,Germany,"1,85 m",Goalkeeper,,,0 / 0,right,30,Germany U19,
+Zack Steffen,/zack-steffen/profil/spieler/221624,€3.50m,Manchester City,ENG,"Apr 2, 1995 (28)","Coatesville, ...",United States,"1,91 m",Goalkeeper,,,29 / 0,right,28,,USA
+Scott Carson,/scott-carson/profil/spieler/14555,€200k,Manchester City,ENG,"Sep 3, 1985 (38)",Whitehaven,England,"1,88 m",Goalkeeper,,,Apr-00,right,38,England,
+Rúben Dias,/ruben-dias/profil/spieler/258004,€80.00m,Manchester City,ENG,"May 14, 1997 (26)",Amadora,Portugal,"1,87 m",Centre-Back,Gestifute,Portugal,49 / 2,right,26,,
+Josko Gvardiol,/josko-gvardiol/profil/spieler/475959,€75.00m,Manchester City,ENG,"Jan 23, 2002 (21)",Zagreb,Croatia,"1,85 m",Centre-Back,,Croatia,22 / 2,left,21,,
+Nathan Aké,/nathan-ake/profil/spieler/177476,€42.00m,Manchester City,ENG,"Feb 18, 1995 (28)",Den Haag,Netherlands,"1,80 m",Centre-Back,,Netherlands,38 / 5,left,28,,
+John Stones,/john-stones/profil/spieler/186590,€40.00m,Manchester City,ENG,"May 28, 1994 (29)",Barnsley,England,"1,88 m",Centre-Back,,,67 / 3,right,29,,England
+Manuel Akanji,/manuel-akanji/profil/spieler/284730,€38.00m,Manchester City,ENG,"Jul 19, 1995 (28)",Wiesendangen,Switzerland,"1,88 m",Centre-Back,,Switzerland,51 / 2,right,28,,
+Sergio Gómez,/sergio-gomez/profil/spieler/366930,€13.00m,Manchester City,ENG,"Sep 4, 2000 (23)",Badalona,Spain,"1,71 m",Left-Back,SEG,,19 / 10,left,23,,Spain U21
+Rico Lewis,/rico-lewis/profil/spieler/701057,€20.00m,Manchester City,ENG,"Nov 21, 2004 (18)",Bury,England,"1,69 m",Right-Back,,England U21,Jan-00,right,18,,
+Kyle Walker,/kyle-walker/profil/spieler/95424,€13.00m,Manchester City,ENG,"May 28, 1990 (33)",Sheffield,England,"1,83 m",Right-Back,,England,77 / 1,right,33,,
+Rodri,/rodri/profil/spieler/357565,€90.00m,Manchester City,ENG,"Jun 22, 1996 (27)",Madrid,Spain,"1,91 m",Defensive Midfield,,Spain,44 / 1,right,27,,
+Kalvin Phillips,/kalvin-phillips/profil/spieler/351749,€32.00m,Manchester City,ENG,"Dec 2, 1995 (27)",Leeds,England,"1,79 m",Defensive Midfield,CAA Stellar,England,27 / 1,right,27,,
+Matheus Nunes,/matheus-nunes/profil/spieler/601883,€45.00m,Manchester City,ENG,"Aug 27, 1998 (25)",Rio de Janeiro,Portugal,"1,83 m",Central Midfield,Gestifute,,1-Nov,right,25,,Portugal
+Mateo Kovacic,/mateo-kovacic/profil/spieler/51471,€38.00m,Manchester City,ENG,"May 6, 1994 (29)",Linz,Croatia,"1,77 m",Central Midfield,VPA Sports,Croatia,95 / 5,right,29,,
+Bernardo Silva,/bernardo-silva/profil/spieler/241641,€80.00m,Manchester City,ENG,"Aug 10, 1994 (29)",Lisboa,Portugal,"1,73 m",Attacking Midfield,Gestifute,Portugal,83 / 11,left,29,,
+Kevin De Bruyne,/kevin-de-bruyne/profil/spieler/88755,€70.00m,Manchester City,ENG,"Jun 28, 1991 (32)",Drongen,Belgium,"1,81 m",Attacking Midfield,,,99 / 26,right,32,,Belgium
+Oscar Bobb,/oscar-bobb/profil/spieler/661207,,Manchester City,ENG,"Jul 12, 2003 (20)",Oslo,Norway,,Attacking Midfield,CAA Stellar,Norway U21,1-Jul,left,20,,
+Phil Foden,/phil-foden/profil/spieler/406635,€110.00m,Manchester City,ENG,"May 28, 2000 (23)",Stockport,England,"1,71 m",Left Winger,,England,26 / 3,left,23,,
+Jack Grealish,/jack-grealish/profil/spieler/203460,€75.00m,Manchester City,ENG,"Sep 10, 1995 (28)",Birmingham,England,"1,80 m",Left Winger,CAA Stellar,England,32 / 2,right,28,,
+Jérémy Doku,/jeremy-doku/profil/spieler/486049,€28.00m,Manchester City,ENG,"May 27, 2002 (21)",Borgerhout,Belgium,"1,73 m",Right Winger,,Belgium,15 / 2,right,21,,
+Erling Haaland,/erling-haaland/profil/spieler/418560,€180.00m,Manchester City,ENG,"Jul 21, 2000 (23)",Leeds,Norway,"1,95 m",Centre-Forward,Rafaela Pimenta,Norway,25 / 24,left,23,,
+Julián Álvarez,/julian-alvarez/profil/spieler/576024,€60.00m,Manchester City,ENG,"Jan 31, 2000 (23)",Calchín,Argentina,"1,70 m",Centre-Forward,,Argentina,23 / 7,right,23,,
+Aaron Ramsdale,/aaron-ramsdale/profil/spieler/427568,€40.00m,Arsenal FC,ENG,"May 14, 1998 (25)",Chesterton,England,"1,90 m",Goalkeeper,,England,Mar-00,right,25,,
+David Raya,/david-raya/profil/spieler/262749,€30.00m,Arsenal FC,ENG,"Sep 15, 1995 (27)",Barcelona,Spain,"1,83 m",Goalkeeper,,Spain,Feb-00,right,27,,
+Karl Hein,/karl-hein/profil/spieler/493513,€1.50m,Arsenal FC,ENG,"Apr 13, 2002 (21)",Põlva,Estonia,"1,93 m",Goalkeeper,,Estonia,23 / 0,right,21,,
+William Saliba,/william-saliba/profil/spieler/495666,€65.00m,Arsenal FC,ENG,"Mar 24, 2001 (22)",Bondy,France,"1,92 m",Centre-Back,,France,Sep-00,right,22,,
+Gabriel Magalhães,/gabriel-magalhaes/profil/spieler/435338,€55.00m,Arsenal FC,ENG,"Dec 19, 1997 (25)",São Paulo,Brazil,"1,90 m",Centre-Back,,Brazil,Jan-00,left,25,,
+Jurrien Timber,/jurrien-timber/profil/spieler/420243,€42.00m,Arsenal FC,ENG,"Jun 17, 2001 (22)",Utrecht,Netherlands,"1,82 m",Centre-Back,,,15 / 0,right,22,,Netherlands
+Jakub Kiwior,/jakub-kiwior/profil/spieler/425918,€25.00m,Arsenal FC,ENG,"Feb 15, 2000 (23)",Tychy,Poland,"1,89 m",Centre-Back,FairSport,Poland,13 / 1,left,23,,
+Oleksandr Zinchenko,/oleksandr-zinchenko/profil/spieler/203853,€42.00m,Arsenal FC,ENG,"Dec 15, 1996 (26)","Radomyshl, Zhytomyr ...",Ukraine,"1,75 m",Left-Back,,Ukraine,54 / 9,left,26,,
+Ben White,/ben-white/profil/spieler/335721,€55.00m,Arsenal FC,ENG,"Oct 8, 1997 (25)",Poole,England,"1,86 m",Right-Back,,,Apr-00,right,25,,England
+Takehiro Tomiyasu,/takehiro-tomiyasu/profil/spieler/331560,€25.00m,Arsenal FC,ENG,"Nov 5, 1998 (24)","Fukuoka, Fukuoka",Japan,"1,88 m",Right-Back,,Japan,33 / 1,right,24,,
+Cédric Soares,/cedric-soares/profil/spieler/112988,€3.00m,Arsenal FC,ENG,"Aug 31, 1991 (32)",Singen,Portugal,"1,71 m",Right-Back,,,34 / 1,right,32,Portugal,
+Declan Rice,/declan-rice/profil/spieler/357662,€90.00m,Arsenal FC,ENG,"Jan 14, 1999 (24)",London,England,"1,88 m",Defensive Midfield,,England,44 / 3,right,24,,
+Thomas Partey,/thomas-partey/profil/spieler/230784,€35.00m,Arsenal FC,ENG,"Jun 13, 1993 (30)",Odumase Krobo,Ghana,"1,85 m",Defensive Midfield,,,45 / 13,right,30,,Ghana
+Jorginho,/jorginho/profil/spieler/102017,€25.00m,Arsenal FC,ENG,"Dec 20, 1991 (31)",Imbituba,Italy,"1,78 m",Defensive Midfield,,,48 / 5,right,31,,Italy
+Mohamed Elneny,/mohamed-elneny/profil/spieler/160438,€6.00m,Arsenal FC,ENG,"Jul 11, 1992 (31)",Mahalla,Egypt,"1,79 m",Defensive Midfield,,,90 / 8,right,31,,Egypt
+Martin Ødegaard,/martin-odegaard/profil/spieler/316264,€90.00m,Arsenal FC,ENG,"Dec 17, 1998 (24)",Drammen,Norway,"1,78 m",Attacking Midfield,,Norway,52 / 2,left,24,,
+Kai Havertz,/kai-havertz/profil/spieler/309400,€55.00m,Arsenal FC,ENG,"Jun 11, 1999 (24)",Aachen,Germany,"1,93 m",Attacking Midfield,ROOF,Germany,38 / 13,left,24,,
+Emile Smith Rowe,/emile-smith-rowe/profil/spieler/392765,€35.00m,Arsenal FC,ENG,"Jul 28, 2000 (23)",London,England,"1,82 m",Attacking Midfield,,,16 / 5,right,23,,England U21
+Fábio Vieira,/fabio-vieira/profil/spieler/537598,€25.00m,Arsenal FC,ENG,"May 30, 2000 (23)",Santa Maria da Feira,Portugal,"1,70 m",Attacking Midfield,Gestifute,,25 / 14,left,23,,Portugal U21
+Gabriel Martinelli,/gabriel-martinelli/profil/spieler/655488,€80.00m,Arsenal FC,ENG,"Jun 18, 2001 (22)",Guarulhos,Brazil,"1,78 m",Left Winger,,Brazil,Jun-00,right,22,,
+Leandro Trossard,/leandro-trossard/profil/spieler/144028,€35.00m,Arsenal FC,ENG,"Dec 4, 1994 (28)",Waterschei,Belgium,"1,72 m",Left Winger,,Belgium,27 / 5,right,28,,
+Bukayo Saka,/bukayo-saka/profil/spieler/433177,€120.00m,Arsenal FC,ENG,"Sep 5, 2001 (22)",London,England,"1,78 m",Right Winger,,England,29 / 11,left,22,,
+Reiss Nelson,/reiss-nelson/profil/spieler/340325,€12.00m,Arsenal FC,ENG,"Dec 10, 1999 (23)",London,England,"1,75 m",Right Winger,,,6-Dec,right,23,England U21,
+Gabriel Jesus,/gabriel-jesus/profil/spieler/363205,€75.00m,Arsenal FC,ENG,"Apr 3, 1997 (26)",São Paulo,Brazil,"1,75 m",Centre-Forward,,Brazil,60 / 19,right,26,,
+Eddie Nketiah,/eddie-nketiah/profil/spieler/340324,€25.00m,Arsenal FC,ENG,"May 30, 1999 (24)",London,England,"1,75 m",Centre-Forward,,England,0 / 0,right,24,,
+Robert Sánchez,/robert-sanchez/profil/spieler/403151,€22.00m,Chelsea FC,ENG,"Nov 18, 1997 (25)",Cartagena,Spain,"1,97 m",Goalkeeper,CAA Stellar,,Feb-00,right,25,,Spain
+Djordje Petrovic,/djordje-petrovic/profil/spieler/465555,€6.00m,Chelsea FC,ENG,"Oct 8, 1999 (23)",Požarevac,Serbia,"1,94 m",Goalkeeper,Rabona Sports,Serbia,Feb-00,right,23,,
+Marcus Bettinelli,/marcus-bettinelli/profil/spieler/116648,€1.50m,Chelsea FC,ENG,"May 24, 1992 (31)",London,England,"1,93 m",Goalkeeper,,,0 / 0,right,31,England,
+Wesley Fofana,/wesley-fofana/profil/spieler/475411,€55.00m,Chelsea FC,ENG,"Dec 17, 2000 (22)",Marseille,France,"1,86 m",Centre-Back,,,Jan-00,right,22,,France
+Benoît Badiashile,/benoit-badiashile/profil/spieler/463603,€40.00m,Chelsea FC,ENG,"Mar 26, 2001 (22)",Limoges,France,"1,94 m",Centre-Back,,,Feb-00,left,22,,France
+Levi Colwill,/levi-colwill/profil/spieler/614258,€35.00m,Chelsea FC,ENG,"Feb 26, 2003 (20)",Southampton,England,"1,87 m",Centre-Back,,England,0 / 0,left,20,,
+Axel Disasi,/axel-disasi/profil/spieler/386047,€30.00m,Chelsea FC,ENG,"Mar 11, 1998 (25)",Gonesse,France,"1,90 m",Centre-Back,,France,Apr-00,right,25,,
+Trevoh Chalobah,/trevoh-chalobah/profil/spieler/346314,€18.00m,Chelsea FC,ENG,"Jul 5, 1999 (24)",Freetown,England,"1,92 m",Centre-Back,,,Mar-00,right,24,England U21,
+Malang Sarr,/malang-sarr/profil/spieler/344596,€6.00m,Chelsea FC,ENG,"Jan 23, 1999 (24)",Nice,France,"1,83 m",Centre-Back,,,Jun-00,left,24,France U21,
+Thiago Silva,/thiago-silva/profil/spieler/29241,€2.00m,Chelsea FC,ENG,"Sep 22, 1984 (38)",Rio de Janeiro,Brazil,"1,81 m",Centre-Back,,,113 / 7,right,38,,Brazil
+Marc Cucurella,/marc-cucurella/profil/spieler/284857,€35.00m,Chelsea FC,ENG,"Jul 22, 1998 (25)",Alella,Spain,"1,73 m",Left-Back,,,Jan-00,left,25,Spain,
+Ben Chilwell,/ben-chilwell/profil/spieler/316125,€35.00m,Chelsea FC,ENG,"Dec 21, 1996 (26)",Milton Keynes,England,"1,80 m",Left-Back,CAA Stellar,England,19 / 1,left,26,,
+Ian Maatsen,/ian-maatsen/profil/spieler/485585,€12.00m,Chelsea FC,ENG,"Mar 10, 2002 (21)",Vlaardingen,Netherlands,"1,67 m",Left-Back,Unique Sports Group,Netherlands,0 / 0,left,21,,
+Reece James,/reece-james/profil/spieler/472423,€65.00m,Chelsea FC,ENG,"Dec 8, 1999 (23)",London,England,"1,80 m",Right-Back,Unique Sports Group,,16 / 0,right,23,,England
+Malo Gusto,/malo-gusto/profil/spieler/620322,€25.00m,Chelsea FC,ENG,"May 19, 2003 (20)",Décines-Charpieu,France,"1,78 m",Right-Back,,France U21,1-Jul,right,20,,
+Enzo Fernández,/enzo-fernandez/profil/spieler/648195,€80.00m,Chelsea FC,ENG,"Jan 17, 2001 (22)",San Martín,Argentina,"1,78 m",Defensive Midfield,,Argentina,14 / 2,right,22,,
+Moisés Caicedo,/moises-caicedo/profil/spieler/687626,€75.00m,Chelsea FC,ENG,"Nov 2, 2001 (21)",Santo Domingo,Ecuador,"1,78 m",Defensive Midfield,,Ecuador,33 / 3,right,21,,
+Roméo Lavia,/romeo-lavia/profil/spieler/628451,€32.00m,Chelsea FC,ENG,"Jan 6, 2004 (19)",Brussels,Belgium,"1,81 m",Defensive Midfield,,,Jan-00,right,19,,Belgium
+Lesley Ugochukwu,/lesley-ugochukwu/profil/spieler/711999,€9.00m,Chelsea FC,ENG,"Mar 26, 2004 (19)",Rennes,France,"1,90 m",Defensive Midfield,,France U21,0 / 0,right,19,,
+Conor Gallagher,/conor-gallagher/profil/spieler/488362,€32.00m,Chelsea FC,ENG,"Feb 6, 2000 (23)",Epsom,England,"1,82 m",Central Midfield,,England,Aug-00,right,23,,
+Carney Chukwuemeka,/carney-chukwuemeka/profil/spieler/659459,€15.00m,Chelsea FC,ENG,"Oct 20, 2003 (19)",Eisenstadt,England,"1,87 m",Central Midfield,,,Jul-00,right,19,,England U20
+Raheem Sterling,/raheem-sterling/profil/spieler/134425,€55.00m,Chelsea FC,ENG,"Dec 8, 1994 (28)",Kingston,England,"1,70 m",Left Winger,,,82 / 20,right,28,,England
+Mykhaylo Mudryk,/mykhaylo-mudryk/profil/spieler/537860,€50.00m,Chelsea FC,ENG,"Jan 5, 2001 (22)","Krasnograd, Kharkiv ...",Ukraine,"1,75 m",Left Winger,,Ukraine,Dec-00,right,22,,
+Noni Madueke,/noni-madueke/profil/spieler/503987,€30.00m,Chelsea FC,ENG,"Mar 10, 2002 (21)",London,England,"1,82 m",Right Winger,,England U21,13 / 1,left,21,,
+Cole Palmer,/cole-palmer/profil/spieler/568177,€18.00m,Chelsea FC,ENG,"May 6, 2002 (21)",Manchester,England,"1,82 m",Right Winger,,England U21,13 / 4,left,21,,
+Christopher Nkunku,/christopher-nkunku/profil/spieler/344381,€80.00m,Chelsea FC,ENG,"Nov 14, 1997 (25)",Lagny-sur-Marne,France,"1,78 m",Second Striker,,,Oct-00,right,25,,France
+Nicolas Jackson,/nicolas-jackson/profil/spieler/776890,€30.00m,Chelsea FC,ENG,"Jun 20, 2001 (22)",Banjul,Senegal,"1,88 m",Centre-Forward,Epic Sports,Senegal,Mar-00,right,22,,
+Armando Broja,/armando-broja/profil/spieler/571743,€28.00m,Chelsea FC,ENG,"Sep 10, 2001 (22)",Slough,Albania,"1,91 m",Centre-Forward,,,17 / 4,right,22,,Albania
+Deivid Washington,/deivid-washington/profil/spieler/1082850,€4.00m,Chelsea FC,ENG,"Jun 5, 2005 (18)",Itumbiara,Brazil,"1,87 m",Centre-Forward,,,,right,18,,
+André Onana,/andre-onana/profil/spieler/234509,€35.00m,Manchester United,ENG,"Apr 2, 1996 (27)",Nkol Ngok,Cameroon,"1,90 m",Goalkeeper,,Cameroon,34 / 0,right,27,,
+Altay Bayindir,/altay-bayindir/profil/spieler/336077,€11.00m,Manchester United,ENG,"Apr 14, 1998 (25)",Bursa,Turkey,"1,98 m",Goalkeeper,,Turkey,May-00,right,25,,
+Tom Heaton,/tom-heaton/profil/spieler/34130,€500k,Manchester United,ENG,"Apr 15, 1986 (37)",Chester,England,"1,88 m",Goalkeeper,,,Mar-00,right,37,England,
+Lisandro Martínez,/lisandro-martinez/profil/spieler/480762,€50.00m,Manchester United,ENG,"Jan 18, 1998 (25)",Gualeguay,Argentina,"1,75 m",Centre-Back,,Argentina,16 / 0,left,25,,
+Raphaël Varane,/raphael-varane/profil/spieler/164770,€35.00m,Manchester United,ENG,"Apr 25, 1993 (30)",Lille,France,"1,91 m",Centre-Back,,,93 / 5,right,30,France,
+Harry Maguire,/harry-maguire/profil/spieler/177907,€20.00m,Manchester United,ENG,"Mar 5, 1993 (30)",Sheffield,England,"1,94 m",Centre-Back,,England,58 / 7,right,30,,
+Victor Lindelöf,/victor-lindelof/profil/spieler/184573,€18.00m,Manchester United,ENG,"Jul 17, 1994 (29)",Västerås,Sweden,"1,87 m",Centre-Back,,Sweden,60 / 3,right,29,,
+Jonny Evans,/jonny-evans/profil/spieler/42412,€2.00m,Manchester United,ENG,"Jan 3, 1988 (35)",Belfast,Northern Ireland,"1,88 m",Centre-Back,,N. Ireland,91 / 4,na,35,,
+Luke Shaw,/luke-shaw/profil/spieler/183288,€42.00m,Manchester United,ENG,"Jul 12, 1995 (28)",Kingston upon Thames,England,"1,78 m",Left-Back,CAA Stellar,,31 / 3,left,28,,England
+Tyrell Malacia,/tyrell-malacia/profil/spieler/339340,€22.00m,Manchester United,ENG,"Aug 17, 1999 (24)",Rotterdam,Netherlands,"1,69 m",Left-Back,,,Sep-00,left,24,,Netherlands
+Sergio Reguilón,/sergio-reguilon/profil/spieler/282429,€10.00m,Manchester United,ENG,"Dec 16, 1996 (26)",Madrid,Spain,"1,78 m",Left-Back,,,Jun-00,left,26,Spain,
+Diogo Dalot,/diogo-dalot/profil/spieler/357147,€40.00m,Manchester United,ENG,"Mar 18, 1999 (24)",Braga,Portugal,"1,83 m",Right-Back,Proeleven S.A.,Portugal,13 / 2,right,24,,
+Aaron Wan-Bissaka,/aaron-wan-bissaka/profil/spieler/477758,€25.00m,Manchester United,ENG,"Nov 26, 1997 (25)",London,England,"1,83 m",Right-Back,Unique Sports Group,,Mar-00,right,25,England U21,
+Casemiro,/casemiro/profil/spieler/16306,€40.00m,Manchester United,ENG,"Feb 23, 1992 (31)",São José dos ...,Brazil,"1,85 m",Defensive Midfield,,Brazil,72 / 7,right,31,,
+Sofyan Amrabat,/sofyan-amrabat/profil/spieler/287579,€30.00m,Manchester United,ENG,"Aug 21, 1996 (27)",Huizen,Morocco,"1,85 m",Defensive Midfield,,Morocco,49 / 0,right,27,,
+Scott McTominay,/scott-mctominay/profil/spieler/315969,€25.00m,Manchester United,ENG,"Dec 8, 1996 (26)",Lancaster,Scotland,"1,91 m",Defensive Midfield,,Scotland,40 / 6,right,26,,
+Donny van de Beek,/donny-van-de-beek/profil/spieler/288255,€13.00m,Manchester United,ENG,"Apr 18, 1997 (26)",Nijkerkerveen,Netherlands,"1,84 m",Central Midfield,,,19 / 3,right,26,Netherlands,
+Kobbie Mainoo,/kobbie-mainoo/profil/spieler/820374,€800k,Manchester United,ENG,"Apr 19, 2005 (18)",Stockport,England,"1,75 m",Central Midfield,CAA Stellar,,Mar-00,right,18,,England U19
+Bruno Fernandes,/bruno-fernandes/profil/spieler/240306,€75.00m,Manchester United,ENG,"Sep 8, 1994 (29)",Maia,Portugal,"1,79 m",Attacking Midfield,MRP.POSITIONUMBER,Portugal,58 / 16,right,29,,
+Mason Mount,/mason-mount/profil/spieler/346483,€60.00m,Manchester United,ENG,"Jan 10, 1999 (24)",Portsmouth,England,"1,81 m",Attacking Midfield,,,36 / 5,right,24,,England
+Christian Eriksen,/christian-eriksen/profil/spieler/69633,€22.00m,Manchester United,ENG,"Feb 14, 1992 (31)",Middelfart,Denmark,"1,82 m",Attacking Midfield,,Denmark,123 / 40,right,31,,
+Hannibal,/hannibal/profil/spieler/607224,€8.00m,Manchester United,ENG,"Jan 21, 2003 (20)",Ivry-sur-Seine,Tunisia,"1,83 m",Attacking Midfield,,Tunisia,25 / 0,right,20,,
+Marcus Rashford,/marcus-rashford/profil/spieler/258923,€80.00m,Manchester United,ENG,"Oct 31, 1997 (25)",Manchester,England,"1,85 m",Left Winger,,England,54 / 16,right,25,,
+Jadon Sancho,/jadon-sancho/profil/spieler/401173,€45.00m,Manchester United,ENG,"Mar 25, 2000 (23)",London,England,"1,80 m",Left Winger,,,23 / 3,right,23,England,
+Alejandro Garnacho,/alejandro-garnacho/profil/spieler/811779,€25.00m,Manchester United,ENG,"Jul 1, 2004 (19)",Madrid,Argentina,"1,80 m",Left Winger,,Argentina,Feb-00,right,19,,
+Antony,/antony/profil/spieler/602105,€60.00m,Manchester United,ENG,"Feb 24, 2000 (23)",São Paulo,Brazil,"1,72 m",Right Winger,,,15 / 2,left,23,,Brazil
+Amad Diallo,/amad-diallo/profil/spieler/536835,€18.00m,Manchester United,ENG,"Jul 11, 2002 (21)",Abidjan,Cote d'Ivoire,"1,73 m",Right Winger,,,1-Apr,left,21,,Ivory Coast
+Facundo Pellistri,/facundo-pellistri/profil/spieler/676318,€6.00m,Manchester United,ENG,"Dec 20, 2001 (21)",Montevideo,Uruguay,"1,75 m",Right Winger,CAA Stellar,Uruguay,13 / 0,right,21,,
+Shola Shoretire,/shola-shoretire/profil/spieler/640026,€4.00m,Manchester United,ENG,"Feb 2, 2004 (19)",Newcastle,England,"1,71 m",Right Winger,Gestifute,,Apr-00,right,19,England U19,
+Rasmus Højlund,/rasmus-hojlund/profil/spieler/610442,€45.00m,Manchester United,ENG,"Feb 4, 2003 (20)",København,Denmark,"1,91 m",Centre-Forward,SEG,Denmark,6-Jul,left,20,,
+Anthony Martial,/anthony-martial/profil/spieler/182877,€15.00m,Manchester United,ENG,"Dec 5, 1995 (27)",Massy,France,"1,81 m",Centre-Forward,,,30 / 2,right,27,France,
+Alisson,/alisson/profil/spieler/105470,€35.00m,Liverpool FC,ENG,"Oct 2, 1992 (30)",Novo Hamburgo,Brazil,"1,93 m",Goalkeeper,,Brazil,61 / 0,right,30,,
+Caoimhín Kelleher,/caoimhin-kelleher/profil/spieler/340918,€12.00m,Liverpool FC,ENG,"Nov 23, 1998 (24)",Cork,Ireland,"1,88 m",Goalkeeper,CAA Stellar,Ireland,Oct-00,right,24,,
+Adrián,/adrian/profil/spieler/71271,€800k,Liverpool FC,ENG,"Jan 3, 1987 (36)",Sevilla,Spain,"1,90 m",Goalkeeper,,,0 / 0,right,36,Spain,
+Ibrahima Konaté,/ibrahima-konate/profil/spieler/357119,€38.00m,Liverpool FC,ENG,"May 25, 1999 (24)",Paris,France,"1,94 m",Centre-Back,CAA Stellar,,Nov-00,right,24,,France
+Virgil van Dijk,/virgil-van-dijk/profil/spieler/139208,€35.00m,Liverpool FC,ENG,"Jul 8, 1991 (32)",Breda,Netherlands,"1,93 m",Centre-Back,ROOF,Netherlands,58 / 6,right,32,,
+Joe Gomez,/joe-gomez/profil/spieler/256178,€22.00m,Liverpool FC,ENG,"May 23, 1997 (26)",London,England,"1,88 m",Centre-Back,,,Nov-00,right,26,England,
+Joel Matip,/joel-matip/profil/spieler/82105,€12.00m,Liverpool FC,ENG,"Aug 8, 1991 (32)",Bochum,Cameroon,"1,95 m",Centre-Back,,,27 / 1,right,32,Cameroon,
+Andrew Robertson,/andrew-robertson/profil/spieler/234803,€40.00m,Liverpool FC,ENG,"Mar 11, 1994 (29)",Glasgow,Scotland,"1,78 m",Left-Back,,Scotland,62 / 3,left,29,,
+Konstantinos Tsimikas,/konstantinos-tsimikas/profil/spieler/338070,€18.00m,Liverpool FC,ENG,"May 12, 1996 (27)",Thessaloniki,Greece,"1,79 m",Left-Back,,Greece,29 / 0,left,27,,
+Trent Alexander-Arnold,/trent-alexander-arnold/profil/spieler/314353,€65.00m,Liverpool FC,ENG,"Oct 7, 1998 (24)",Liverpool,England,"1,80 m",Right-Back,,England,20 / 2,right,24,,
+Stefan Bajcetic,/stefan-bajcetic/profil/spieler/864799,€13.00m,Liverpool FC,ENG,"Oct 22, 2004 (18)",Vigo,Spain,"1,85 m",Defensive Midfield,,Spain U21,Jan-00,right,18,,
+Wataru Endo,/wataru-endo/profil/spieler/146310,€6.50m,Liverpool FC,ENG,"Feb 9, 1993 (30)","Yokohama, Kanagawa",Japan,"1,78 m",Defensive Midfield,,Japan,51 / 2,right,30,,
+Alexis Mac Allister,/alexis-mac-allister/profil/spieler/534033,€65.00m,Liverpool FC,ENG,"Dec 24, 1998 (24)",Santa Rosa,Argentina,"1,76 m",Central Midfield,,Argentina,18 / 1,right,24,,
+Ryan Gravenberch,/ryan-gravenberch/profil/spieler/478573,€30.00m,Liverpool FC,ENG,"May 16, 2002 (21)",Amsterdam,Netherlands,"1,90 m",Central Midfield,Team Raiola,,1-Nov,right,21,,Netherlands
+Curtis Jones,/curtis-jones/profil/spieler/433188,€25.00m,Liverpool FC,ENG,"Jan 30, 2001 (22)",Liverpool,England,"1,85 m",Central Midfield,,,20 / 5,right,22,,England U21
+Thiago,/thiago/profil/spieler/60444,€15.00m,Liverpool FC,ENG,"Apr 11, 1991 (32)",San Pietro Vernotico,Spain,"1,74 m",Central Midfield,,,46 / 2,right,32,Spain,
+Dominik Szoboszlai,/dominik-szoboszlai/profil/spieler/451276,€50.00m,Liverpool FC,ENG,"Oct 25, 2000 (22)",Székesfehérvár,Hungary,"1,87 m",Attacking Midfield,,Hungary,34 / 7,right,22,,
+Harvey Elliott,/harvey-elliott/profil/spieler/565822,€35.00m,Liverpool FC,ENG,"Apr 4, 2003 (20)",London,England,"1,70 m",Attacking Midfield,ROOF,England U21,13 / 1,left,20,,
+Luis Díaz,/luis-diaz/profil/spieler/480692,€75.00m,Liverpool FC,ENG,"Jan 13, 1997 (26)",Barrancas,Colombia,"1,80 m",Left Winger,,Colombia,40 / 9,right,26,,
+Cody Gakpo,/cody-gakpo/profil/spieler/434675,€55.00m,Liverpool FC,ENG,"May 7, 1999 (24)",Eindhoven,Netherlands,"1,93 m",Left Winger,SEG,Netherlands,17 / 6,right,24,,
+Diogo Jota,/diogo-jota/profil/spieler/340950,€50.00m,Liverpool FC,ENG,"Dec 4, 1996 (26)",Porto,Portugal,"1,78 m",Left Winger,Gestifute,Portugal,32 / 10,right,26,,
+Mohamed Salah,/mohamed-salah/profil/spieler/148455,€65.00m,Liverpool FC,ENG,"Jun 15, 1992 (31)","Nagrig, Basyoun",Egypt,"1,75 m",Right Winger,,Egypt,88 / 49,left,31,,
+Darwin Núñez,/darwin-nunez/profil/spieler/546543,€65.00m,Liverpool FC,ENG,"Jun 24, 1999 (24)",Artigas,Uruguay,"1,87 m",Centre-Forward,Gestifute,Uruguay,17 / 3,right,24,,
+Guglielmo Vicario,/guglielmo-vicario/profil/spieler/286047,€16.00m,Tottenham Hotspur,ENG,"Oct 7, 1996 (26)",Udine,Italy,"1,94 m",Goalkeeper,GG11,Italy,0 / 0,right,26,,
+Hugo Lloris,/hugo-lloris/profil/spieler/17965,€3.00m,Tottenham Hotspur,ENG,"Dec 26, 1986 (36)",Nice,France,"1,88 m",Goalkeeper,,,145 / 0,left,36,France,
+Fraser Forster,/fraser-forster/profil/spieler/52570,€1.50m,Tottenham Hotspur,ENG,"Mar 17, 1988 (35)",Hexham,England,"2,01 m",Goalkeeper,CAA Stellar,,Jun-00,right,35,,England
+Alfie Whiteman,/alfie-whiteman/profil/spieler/282823,€500k,Tottenham Hotspur,ENG,"Oct 2, 1998 (24)",London,England,"1,88 m",Goalkeeper,,,Jan-00,right,24,England U19,
+Brandon Austin,/brandon-austin/profil/spieler/428016,€300k,Tottenham Hotspur,ENG,"Jan 8, 1999 (24)",Hemel Hempstead,England,"1,88 m",Goalkeeper,Unique Sports Group,,0 / 0,right,24,England U21,
+Cristian Romero,/cristian-romero/profil/spieler/355915,€60.00m,Tottenham Hotspur,ENG,"Apr 27, 1998 (25)",Córdoba,Argentina,"1,85 m",Centre-Back,,Argentina,23 / 2,right,25,,
+Micky van de Ven,/micky-van-de-ven/profil/spieler/557459,€30.00m,Tottenham Hotspur,ENG,"Apr 19, 2001 (22)",Wormer,Netherlands,"1,93 m",Centre-Back,Team Raiola,Netherlands,0 / 0,left,22,,
+Eric Dier,/eric-dier/profil/spieler/175722,€18.00m,Tottenham Hotspur,ENG,"Jan 15, 1994 (29)",Cheltenham,England,"1,88 m",Centre-Back,,,49 / 3,right,29,,England
+Ashley Phillips,/ashley-phillips/profil/spieler/859951,€2.00m,Tottenham Hotspur,ENG,"Jun 26, 2005 (18)",,England,"1,92 m",Centre-Back,,England U19,Jun-00,right,18,,
+Destiny Udogie,/destiny-udogie/profil/spieler/556385,€25.00m,Tottenham Hotspur,ENG,"Nov 28, 2002 (20)",Verona,Italy,"1,88 m",Left-Back,,,Aug-00,left,20,,Italy U21
+Ben Davies,/ben-davies/profil/spieler/192765,€15.00m,Tottenham Hotspur,ENG,"Apr 24, 1993 (30)",Neath,Wales,"1,81 m",Left-Back,CAA Stellar,Wales,79 / 1,left,30,,
+Pedro Porro,/pedro-porro/profil/spieler/553875,€40.00m,Tottenham Hotspur,ENG,"Sep 13, 1999 (23)",Don Benito,Spain,"1,73 m",Right-Back,,,Feb-00,right,23,,Spain
+Emerson Royal,/emerson-royal/profil/spieler/476344,€20.00m,Tottenham Hotspur,ENG,"Jan 14, 1999 (24)",São Paulo,Brazil,"1,83 m",Right-Back,,,Aug-00,right,24,,Brazil
+Oliver Skipp,/oliver-skipp/profil/spieler/406638,€15.00m,Tottenham Hotspur,ENG,"Sep 16, 2000 (22)",Welwyn Garden City,England,"1,75 m",Defensive Midfield,ARETÉ,,24 / 0,right,22,,England U21
+Pierre-Emile Højbjerg,/pierre-emile-hojbjerg/profil/spieler/167799,€45.00m,Tottenham Hotspur,ENG,"Aug 5, 1995 (28)",København,Denmark,"1,85 m",Central Midfield,,Denmark,66 / 6,right,28,,
+Rodrigo Bentancur,/rodrigo-bentancur/profil/spieler/354362,€40.00m,Tottenham Hotspur,ENG,"Jun 25, 1997 (26)",Nueva Helvecia,Uruguay,"1,87 m",Central Midfield,,,54 / 1,right,26,,Uruguay
+Yves Bissouma,/yves-bissouma/profil/spieler/410425,€18.00m,Tottenham Hotspur,ENG,"Aug 30, 1996 (27)",Issia,Mali,"1,82 m",Central Midfield,,,29 / 3,right,27,,Mali
+Pape Matar Sarr,/pape-matar-sarr/profil/spieler/568693,€15.00m,Tottenham Hotspur,ENG,"Sep 14, 2002 (20)",Thiaroye,Senegal,"1,84 m",Central Midfield,,Senegal,14 / 0,right,20,,
+Ryan Sessegnon,/ryan-sessegnon/profil/spieler/392775,€18.00m,Tottenham Hotspur,ENG,"May 18, 2000 (23)",London,England,"1,78 m",Left Midfield,Unique Sports Group,,20 / 1,left,23,,England U21
+Ivan Perisic,/ivan-perisic/profil/spieler/42460,€7.00m,Tottenham Hotspur,ENG,"Feb 2, 1989 (34)",Split,Croatia,"1,86 m",Left Midfield,,Croatia,128 / 33,na,34,,
+James Maddison,/james-maddison/profil/spieler/294057,€60.00m,Tottenham Hotspur,ENG,"Nov 23, 1996 (26)",Coventry,England,"1,75 m",Attacking Midfield,,England,Apr-00,right,26,,
+Giovani Lo Celso,/giovani-lo-celso/profil/spieler/348795,€14.00m,Tottenham Hotspur,ENG,"Apr 9, 1996 (27)",Rosario,Argentina,"1,77 m",Attacking Midfield,,,44 / 2,left,27,,Argentina
+Heung-min Son,/heung-min-son/profil/spieler/91845,€50.00m,Tottenham Hotspur,ENG,"Jul 8, 1992 (31)","Chuncheon, Gangwon","Korea, South","1,84 m",Left Winger,,South Korea,111 / 37,na,31,,
+Manor Solomon,/manor-solomon/profil/spieler/396638,€18.00m,Tottenham Hotspur,ENG,"Jul 24, 1999 (24)",Kfar Saba,Israel,"1,70 m",Left Winger,,Israel,36 / 7,right,24,,
+Bryan Gil,/bryan-gil/profil/spieler/537382,€15.00m,Tottenham Hotspur,ENG,"Feb 11, 2001 (22)",Barbate (Cádiz),Spain,"1,75 m",Left Winger,,,14 / 4,left,22,,Spain U21
+Dejan Kulusevski,/dejan-kulusevski/profil/spieler/431755,€50.00m,Tottenham Hotspur,ENG,"Apr 25, 2000 (23)",Stockholm,Sweden,"1,86 m",Right Winger,,Sweden,31 / 3,left,23,,
+Brennan Johnson,/brennan-johnson/profil/spieler/470607,€38.00m,Tottenham Hotspur,ENG,"May 23, 2001 (22)",Nottingham,Wales,"1,79 m",Right Winger,Unique Sports Group,Wales,20 / 2,right,22,,
+Richarlison,/richarlison/profil/spieler/378710,€48.00m,Tottenham Hotspur,ENG,"May 10, 1997 (26)",Nova Venécia,Brazil,"1,84 m",Centre-Forward,,Brazil,45 / 20,right,26,,
+Alejo Véliz,/alejo-veliz/profil/spieler/888493,€7.00m,Tottenham Hotspur,ENG,"Sep 19, 2003 (19)",Gödeken,Argentina,"1,86 m",Centre-Forward,,Argentina U20,3-Sep,right,19,,
+Nick Pope,/nick-pope/profil/spieler/192080,€20.00m,Newcastle United,ENG,"Apr 19, 1992 (31)",Soham,England,"1,98 m",Goalkeeper,CAA Stellar,,Oct-00,right,31,,England
+Martin Dúbravka,/martin-dubravka/profil/spieler/74960,€1.50m,Newcastle United,ENG,"Jan 15, 1989 (34)",Žilina,Slovakia,"1,91 m",Goalkeeper,SPOCS Global Sports,Slovakia,34 / 0,right,34,,
+Loris Karius,/loris-karius/profil/spieler/85864,€1.20m,Newcastle United,ENG,"Jun 22, 1993 (30)",Biberach an der Riß,Germany,"1,91 m",Goalkeeper,ROGON,,Jan-00,right,30,Germany U21,
+Mark Gillespie,/mark-gillespie/profil/spieler/142389,€300k,Newcastle United,ENG,"Mar 27, 1992 (31)",Newcastle upon Tyne,England,"1,91 m",Goalkeeper,SMI Sports ...,,,right,31,,
+Sven Botman,/sven-botman/profil/spieler/361093,€45.00m,Newcastle United,ENG,"Jan 12, 2000 (23)",Badhoevedorp,Netherlands,"1,95 m",Centre-Back,,,0 / 0,left,23,,Netherlands
+Fabian Schär,/fabian-schar/profil/spieler/135343,€10.00m,Newcastle United,ENG,"Dec 20, 1991 (31)",Wil,Switzerland,"1,86 m",Centre-Back,Sports360 GmbH,Switzerland,76 / 8,right,31,,
+Jamaal Lascelles,/jamaal-lascelles/profil/spieler/183318,€4.50m,Newcastle United,ENG,"Nov 11, 1993 (29)",Derby,England,"1,88 m",Centre-Back,Unique Sports Group,,Feb-00,right,29,England U21,
+Matt Targett,/matt-targett/profil/spieler/250478,€13.00m,Newcastle United,ENG,"Sep 18, 1995 (27)",Eastleigh,England,"1,83 m",Left-Back,,,13 / 0,left,27,England U21,
+Lewis Hall,/lewis-hall/profil/spieler/670858,€10.00m,Newcastle United,ENG,"Sep 8, 2004 (19)",Slough,England,"1,79 m",Left-Back,,England U20,0 / 0,left,19,,
+Dan Burn,/dan-burn/profil/spieler/134270,€10.00m,Newcastle United,ENG,"May 9, 1992 (31)",Blyth,England,"2,01 m",Left-Back,,,,left,31,,
+Paul Dummett,/paul-dummett/profil/spieler/170321,€1.00m,Newcastle United,ENG,"Sep 26, 1991 (31)",Newcastle upon Tyne,Wales,"1,83 m",Left-Back,Unique Sports Group,,May-00,left,31,Wales,
+Tino Livramento,/tino-livramento/profil/spieler/503981,€25.00m,Newcastle United,ENG,"Nov 12, 2002 (20)",London,England,"1,82 m",Right-Back,,,May-00,right,20,England U21,
+Kieran Trippier,/kieran-trippier/profil/spieler/95810,€11.00m,Newcastle United,ENG,"Sep 19, 1990 (32)",Bury,England,"1,73 m",Right-Back,,England,42 / 1,right,32,,
+Emil Krafth,/emil-krafth/profil/spieler/184528,€3.00m,Newcastle United,ENG,"Aug 2, 1994 (29)",Ljungby,Sweden,"1,84 m",Right-Back,,,42 / 0,right,29,Sweden,
+Javier Manquillo,/javier-manquillo/profil/spieler/162029,€2.50m,Newcastle United,ENG,"May 5, 1994 (29)",Madrid,Spain,"1,78 m",Right-Back,CAA Stellar,,Jul-00,right,29,Spain U21,
+Bruno Guimarães,/bruno-guimaraes/profil/spieler/520624,€70.00m,Newcastle United,ENG,"Nov 16, 1997 (25)",Rio de Janeiro,Brazil,"1,82 m",Defensive Midfield,,Brazil,13 / 1,right,25,,
+Sandro Tonali,/sandro-tonali/profil/spieler/397033,€50.00m,Newcastle United,ENG,"May 8, 2000 (23)",Lodi,Italy,"1,81 m",Defensive Midfield,,Italy,14 / 0,right,23,,
+Joelinton,/joelinton/profil/spieler/333241,€42.00m,Newcastle United,ENG,"Aug 14, 1996 (27)",Aliança,Brazil,"1,86 m",Central Midfield,ROGON,Brazil,1-Mar,right,27,,
+Joe Willock,/joe-willock/profil/spieler/340329,€38.00m,Newcastle United,ENG,"Aug 20, 1999 (24)",London,England,"1,86 m",Central Midfield,,,Apr-00,right,24,England U21,
+Sean Longstaff,/sean-longstaff/profil/spieler/346707,€25.00m,Newcastle United,ENG,"Oct 30, 1997 (25)",Newcastle upon Tyne,England,"1,87 m",Central Midfield,,,,right,25,,
+Lewis Miley,/lewis-miley/profil/spieler/922769,,Newcastle United,ENG,"May 1, 2006 (17)",Gateshead,England,"1,85 m",Central Midfield,Is known - player U18,England U19,0 / 0,right,17,,
+Matt Ritchie,/matt-ritchie/profil/spieler/92469,€1.00m,Newcastle United,ENG,"Sep 10, 1989 (34)",Gosport,Scotland,"1,73 m",Right Midfield,,,16 / 3,left,34,Scotland,
+Elliot Anderson,/elliot-anderson/profil/spieler/567576,€8.00m,Newcastle United,ENG,"Nov 6, 2002 (20)",Whitley Bay,Scotland,"1,79 m",Attacking Midfield,CAA Stellar,Scotland,0 / 0,right,20,,
+Anthony Gordon,/anthony-gordon/profil/spieler/503733,€38.00m,Newcastle United,ENG,"Feb 24, 2001 (22)",Liverpool,England,"1,82 m",Left Winger,Unique Sports Group,,16 / 6,right,22,,England U21
+Harvey Barnes,/harvey-barnes/profil/spieler/398065,€35.00m,Newcastle United,ENG,"Dec 9, 1997 (25)",Burnley,England,"1,82 m",Left Winger,,,Jan-00,right,25,England,
+Miguel Almirón,/miguel-almiron/profil/spieler/272999,€32.00m,Newcastle United,ENG,"Feb 10, 1994 (29)",Asunción,Paraguay,"1,74 m",Right Winger,,Paraguay,50 / 7,left,29,,
+Jacob Murphy,/jacob-murphy/profil/spieler/199527,€15.00m,Newcastle United,ENG,"Feb 24, 1995 (28)",London,England,"1,73 m",Right Winger,,,1-Jun,right,28,England U21,
+Alexander Isak,/alexander-isak/profil/spieler/349066,€70.00m,Newcastle United,ENG,"Sep 21, 1999 (23)",Solna,Sweden,"1,92 m",Centre-Forward,Universal Twenty Two,Sweden,41 / 10,right,23,,
+Callum Wilson,/callum-wilson/profil/spieler/123682,€16.00m,Newcastle United,ENG,"Feb 27, 1992 (31)",Coventry,England,"1,80 m",Centre-Forward,Unique Sports Group,England,2-Aug,right,31,,
+Emiliano Martínez,/emiliano-martinez/profil/spieler/111873,€28.00m,Aston Villa,ENG,"Sep 2, 1992 (31)",Mar del Plata,Argentina,"1,95 m",Goalkeeper,Universal Twenty Two,Argentina,31 / 0,right,31,,
+Robin Olsen,/robin-olsen/profil/spieler/75458,€1.50m,Aston Villa,ENG,"Jan 8, 1990 (33)",Malmö,Sweden,"1,96 m",Goalkeeper,,Sweden,67 / 0,right,33,,
+Pau Torres,/pau-torres/profil/spieler/399776,€45.00m,Aston Villa,ENG,"Jan 16, 1997 (26)",Villarreal,Spain,"1,92 m",Centre-Back,InterStarDeporte,Spain,23 / 1,left,26,,
+Ezri Konsa,/ezri-konsa/profil/spieler/413403,€25.00m,Aston Villa,ENG,"Oct 23, 1997 (25)",London,England,"1,83 m",Centre-Back,CAA Stellar,,1-Jul,right,25,England U21,
+Tyrone Mings,/tyrone-mings/profil/spieler/253677,€22.00m,Aston Villa,ENG,"Mar 13, 1993 (30)",Bath,England,"1,96 m",Centre-Back,,,18 / 2,left,30,,England
+Diego Carlos,/diego-carlos/profil/spieler/329145,€20.00m,Aston Villa,ENG,"Mar 15, 1993 (30)",Barra Bonita (SP),Brazil,"1,85 m",Centre-Back,,,0 / 0,right,30,Brazil,
+Clément Lenglet,/clement-lenglet/profil/spieler/182904,€10.00m,Aston Villa,ENG,"Jun 17, 1995 (28)",Beauvais,France,"1,86 m",Centre-Back,,,15 / 1,left,28,France,
+Kortney Hause,/kortney-hause/profil/spieler/233124,€2.20m,Aston Villa,ENG,"Jul 16, 1995 (28)",Redbridge,England,"1,91 m",Centre-Back,,,Oct-00,left,28,England U21,
+Lucas Digne,/lucas-digne/profil/spieler/126664,€15.00m,Aston Villa,ENG,"Jul 20, 1993 (30)",Meaux,France,"1,78 m",Left-Back,,,46 / 0,left,30,France,
+Álex Moreno,/alex-moreno/profil/spieler/193098,€15.00m,Aston Villa,ENG,"Jun 8, 1993 (30)",Vilafranca Del ...,Spain,"1,79 m",Left-Back,,,,left,30,,
+Matty Cash,/matty-cash/profil/spieler/425334,€25.00m,Aston Villa,ENG,"Aug 7, 1997 (26)",Slough,Poland,"1,85 m",Right-Back,,Poland,13 / 1,right,26,,
+Calum Chambers,/calum-chambers/profil/spieler/215118,€8.00m,Aston Villa,ENG,"Jan 20, 1995 (28)",Petersfield,England,"1,82 m",Right-Back,,,Mar-00,right,28,England,
+Boubacar Kamara,/boubacar-kamara/profil/spieler/394327,€30.00m,Aston Villa,ENG,"Nov 23, 1999 (23)",Marseille,France,"1,84 m",Defensive Midfield,,France,Mar-00,right,23,,
+Leander Dendoncker,/leander-dendoncker/profil/spieler/168157,€15.00m,Aston Villa,ENG,"Apr 15, 1995 (28)",Passendale,Belgium,"1,88 m",Defensive Midfield,,,32 / 1,right,28,,Belgium
+Jacob Ramsey,/jacob-ramsey/profil/spieler/503749,€42.00m,Aston Villa,ENG,"May 28, 2001 (22)",Birmingham,England,"1,80 m",Central Midfield,Unique Sports Group,,16 / 4,right,22,,England U21
+Douglas Luiz,/douglas-luiz/profil/spieler/447661,€40.00m,Aston Villa,ENG,"May 9, 1998 (25)",Rio de Janeiro,Brazil,"1,77 m",Central Midfield,,,Sep-00,right,25,Brazil,
+John McGinn,/john-mcginn/profil/spieler/193116,€27.00m,Aston Villa,ENG,"Oct 18, 1994 (28)",Glasgow,Scotland,"1,78 m",Central Midfield,,Scotland,56 / 17,left,28,,
+Youri Tielemans,/youri-tielemans/profil/spieler/249565,€25.00m,Aston Villa,ENG,"May 7, 1997 (26)",Sint-Pieters-Leeuw,Belgium,"1,77 m",Central Midfield,,Belgium,61 / 5,right,26,,
+Tim Iroegbunam,/tim-iroegbunam/profil/spieler/696589,€5.00m,Aston Villa,ENG,"Jun 30, 2003 (20)",Birmingham,England,"1,83 m",Central Midfield,,,1-May,right,20,,England U20
+Nicolò Zaniolo,/nicolo-zaniolo/profil/spieler/392085,€27.00m,Aston Villa,ENG,"Jul 2, 1999 (24)",Massa,Italy,"1,90 m",Attacking Midfield,,Italy,13 / 2,left,24,,
+Leon Bailey,/leon-bailey/profil/spieler/387626,€28.00m,Aston Villa,ENG,"Aug 9, 1997 (26)",Kingston,Jamaica,"1,78 m",Left Winger,,Jamaica,24 / 4,left,26,,
+Moussa Diaby,/moussa-diaby/profil/spieler/395516,€50.00m,Aston Villa,ENG,"Jul 7, 1999 (24)",Paris,France,"1,71 m",Right Winger,,,Sep-00,left,24,,France
+Emiliano Buendía,/emiliano-buendia/profil/spieler/321247,€28.00m,Aston Villa,ENG,"Dec 25, 1996 (26)",Mar del Plata,Argentina,"1,72 m",Right Winger,Universal Twenty Two,,Jan-00,right,26,Argentina,
+Bertrand Traoré,/bertrand-traore/profil/spieler/131996,€12.00m,Aston Villa,ENG,"Sep 6, 1995 (28)",Bobo-Dioulasso,Burkina Faso,"1,81 m",Right Winger,CAA Stellar,,72 / 15,left,28,,Burkina Faso
+Ollie Watkins,/ollie-watkins/profil/spieler/324358,€40.00m,Aston Villa,ENG,"Dec 30, 1995 (27)",Torquay,England,"1,80 m",Centre-Forward,,,2-Jul,right,27,England,
+Jhon Durán,/jhon-duran/profil/spieler/649317,€12.00m,Aston Villa,ENG,"Dec 13, 2003 (19)",Medellín,Colombia,"1,85 m",Centre-Forward,,Colombia,1-Jun,left,19,,
+Alphonse Areola,/alphonse-areola/profil/spieler/120629,€8.00m,West Ham United,ENG,"Feb 27, 1993 (30)",Paris,France,"1,95 m",Goalkeeper,Rafaela Pimenta,France,May-00,right,30,,
+Lukasz Fabianski,/lukasz-fabianski/profil/spieler/29692,€900k,West Ham United,ENG,"Apr 18, 1985 (38)",Kostrzyn nad Odrą,Poland,"1,90 m",Goalkeeper,ROOF,,57 / 0,right,38,Poland,
+Joseph Anang,/joseph-anang/profil/spieler/576099,€100k,West Ham United,ENG,"Jun 8, 2000 (23)",Accra,England,"1,90 m",Goalkeeper,,,Jan-00,right,23,England U20,
+Nayef Aguerd,/nayef-aguerd/profil/spieler/361914,€35.00m,West Ham United,ENG,"Mar 30, 1996 (27)",Kénitra,Morocco,"1,90 m",Centre-Back,,Morocco,34 / 1,left,27,,
+Kurt Zouma,/kurt-zouma/profil/spieler/157509,€22.00m,West Ham United,ENG,"Oct 27, 1994 (28)",Lyon,France,"1,90 m",Centre-Back,,,1-Nov,right,28,France,
+Thilo Kehrer,/thilo-kehrer/profil/spieler/228948,€18.00m,West Ham United,ENG,"Sep 21, 1996 (26)",Tübingen,Germany,"1,86 m",Centre-Back,Dirk Hebel,,27 / 0,right,26,,Germany
+Konstantinos Mavropanos,/konstantinos-mavropanos/profil/spieler/415912,€15.00m,West Ham United,ENG,"Dec 11, 1997 (25)",Athens,Greece,"1,94 m",Centre-Back,,Greece,20 / 2,right,25,,
+Angelo Ogbonna,/angelo-ogbonna/profil/spieler/48002,€900k,West Ham United,ENG,"May 23, 1988 (35)",Cassino,Italy,"1,91 m",Centre-Back,,,13 / 0,left,35,Italy,
+Emerson Palmieri,/emerson-palmieri/profil/spieler/181778,€12.00m,West Ham United,ENG,"Aug 3, 1994 (29)",Santos,Italy,"1,76 m",Left-Back,,,30 / 0,left,29,,Italy
+Aaron Cresswell,/aaron-cresswell/profil/spieler/92571,€1.20m,West Ham United,ENG,"Dec 15, 1989 (33)",Liverpool,England,,Left-Back,Unique Sports Group,,Mar-00,left,33,England,
+Ben Johnson,/ben-johnson/profil/spieler/468002,€10.00m,West Ham United,ENG,"Jan 24, 2000 (23)",London,England,"1,84 m",Right-Back,,,Oct-00,right,23,,England U21
+Vladimir Coufal,/vladimir-coufal/profil/spieler/157672,€9.00m,West Ham United,ENG,"Aug 22, 1992 (31)",Ostrava,Czech Republic,"1,74 m",Right-Back,,Czechia,38 / 1,right,31,,
+Edson Álvarez,/edson-alvarez/profil/spieler/401356,€35.00m,West Ham United,ENG,"Oct 24, 1997 (25)",Tlalnepantla de Baz,Mexico,"1,87 m",Defensive Midfield,,Mexico,70 / 3,right,25,,
+Tomas Soucek,/tomas-soucek/profil/spieler/283628,€35.00m,West Ham United,ENG,"Feb 27, 1995 (28)",Havlíčkův Brod,Czech Republic,"1,92 m",Defensive Midfield,,Czechia,62 / 9,right,28,,
+Conor Coventry,/conor-coventry/profil/spieler/419025,€1.80m,West Ham United,ENG,"Mar 25, 2000 (23)",London,Ireland,"1,77 m",Defensive Midfield,,,28 / 3,right,23,,Ireland U21
+James Ward-Prowse,/james-ward-prowse/profil/spieler/181579,€38.00m,West Ham United,ENG,"Nov 1, 1994 (28)",Portsmouth,England,"1,77 m",Central Midfield,CAA Stellar,,2-Nov,right,28,,England
+Lucas Paquetá,/lucas-paqueta/profil/spieler/444523,€45.00m,West Ham United,ENG,"Aug 27, 1997 (26)",Paquetá,Brazil,"1,80 m",Attacking Midfield,,,42 / 9,left,26,,Brazil
+Mohammed Kudus,/mohammed-kudus/profil/spieler/543499,€40.00m,West Ham United,ENG,"Aug 2, 2000 (23)",Accra,Ghana,"1,77 m",Attacking Midfield,,Ghana,24 / 7,left,23,,
+Pablo Fornals,/pablo-fornals/profil/spieler/357885,€22.00m,West Ham United,ENG,"Feb 22, 1996 (27)",Castelló de la ...,Spain,"1,78 m",Attacking Midfield,,,1-Jun,right,27,Spain,
+Saïd Benrahma,/said-benrahma/profil/spieler/290532,€25.00m,West Ham United,ENG,"Aug 10, 1995 (28)",Aïn Témouchent,Algeria,"1,72 m",Left Winger,,Algeria,21 / 1,right,28,,
+Maxwel Cornet,/maxwel-cornet/profil/spieler/234781,€12.00m,West Ham United,ENG,"Sep 27, 1996 (26)",Bregbo,Cote d'Ivoire,"1,79 m",Left Winger,Unique Sports Group,Ivory Coast,30 / 6,left,26,,
+Jarrod Bowen,/jarrod-bowen/profil/spieler/314875,€38.00m,West Ham United,ENG,"Dec 20, 1996 (26)",Leominster,England,"1,82 m",Right Winger,,,Apr-00,left,26,,England
+Danny Ings,/danny-ings/profil/spieler/134294,€12.00m,West Ham United,ENG,"Jul 23, 1992 (31)",Winchester,England,"1,77 m",Centre-Forward,,,1-Mar,right,31,England,
+Michail Antonio,/michail-antonio/profil/spieler/104124,€7.00m,West Ham United,ENG,"Mar 28, 1990 (33)",London,Jamaica,"1,80 m",Centre-Forward,Unique Sports Group,,3-Dec,right,33,,Jamaica
+Divin Mubama,/divin-mubama/profil/spieler/670848,€250k,West Ham United,ENG,"Oct 25, 2004 (18)",London,England,"1,82 m",Centre-Forward,,England U20,0 / 0,left,18,,
+Odysseas Vlachodimos,/odysseas-vlachodimos/profil/spieler/124419,€16.00m,Nottingham Forest,ENG,"Apr 26, 1994 (29)",Stuttgart,Greece,"1,91 m",Goalkeeper,,Greece,35 / 0,right,29,,
+Matt Turner,/matt-turner/profil/spieler/425306,€8.00m,Nottingham Forest,ENG,"Jun 24, 1994 (29)","Park Ridge, New ...",United States,"1,91 m",Goalkeeper,,USA,33 / 0,right,29,,
+Ethan Horvath,/ethan-horvath/profil/spieler/242284,€1.50m,Nottingham Forest,ENG,"Jun 9, 1995 (28)","Highlands Ranch, ...",United States,"1,95 m",Goalkeeper,,USA,Aug-00,right,28,,
+Wayne Hennessey,/wayne-hennessey/profil/spieler/45494,€400k,Nottingham Forest,ENG,"Jan 24, 1987 (36)",Beaumaris,Wales,"1,98 m",Goalkeeper,CAA Stellar,Wales,109 / 0,right,36,,
+Moussa Niakhaté,/moussa-niakhate/profil/spieler/291200,€18.00m,Nottingham Forest,ENG,"Mar 8, 1996 (27)",Roubaix,Senegal,"1,90 m",Centre-Back,CAA Stellar,Senegal,Mar-00,left,27,,
+Joe Worrall,/joe-worrall/profil/spieler/415970,€12.00m,Nottingham Forest,ENG,"Jan 10, 1997 (26)",Nottingham,England,"1,90 m",Centre-Back,,,Mar-00,right,26,England U21,
+Scott McKenna,/scott-mckenna/profil/spieler/255906,€10.00m,Nottingham Forest,ENG,"Nov 12, 1996 (26)",Kirriemuir,Scotland,"1,89 m",Centre-Back,,Scotland,29 / 2,left,26,,
+Andrew Omobamidele,/andrew-omobamidele/profil/spieler/621993,€6.00m,Nottingham Forest,ENG,"Jun 23, 2002 (21)",Leixlip,Ireland,"1,88 m",Centre-Back,,Ireland,Jun-00,right,21,,
+Murillo,/murillo/profil/spieler/1005649,€3.50m,Nottingham Forest,ENG,"Jul 4, 2002 (21)",São Paulo,Brazil,"1,84 m",Centre-Back,,,,left,21,,
+Willy Boly,/willy-boly/profil/spieler/142310,€2.50m,Nottingham Forest,ENG,"Feb 3, 1991 (32)",Melun,Cote d'Ivoire,"1,95 m",Centre-Back,Sport Cover,,13 / 1,right,32,Ivory Coast,
+Felipe,/felipe/profil/spieler/156501,€2.00m,Nottingham Forest,ENG,"May 16, 1989 (34)",Mogi das Cruzes,Brazil,"1,90 m",Centre-Back,,,Feb-00,right,34,Brazil,
+Nuno Tavares,/nuno-tavares/profil/spieler/535955,€18.00m,Nottingham Forest,ENG,"Jan 26, 2000 (23)",Lisboa,Portugal,"1,83 m",Left-Back,,,16 / 1,left,23,,Portugal U21
+Harry Toffolo,/harry-toffolo/profil/spieler/198516,€3.50m,Nottingham Forest,ENG,"Aug 19, 1995 (28)",Welwyn Garden City,England,"1,83 m",Left-Back,,,May-00,left,28,England U20,
+Neco Williams,/neco-williams/profil/spieler/503680,€20.00m,Nottingham Forest,ENG,"Apr 13, 2001 (22)",Wrexham,Wales,"1,83 m",Right-Back,,Wales,30 / 2,right,22,,
+Gonzalo Montiel,/gonzalo-montiel/profil/spieler/402733,€12.00m,Nottingham Forest,ENG,"Jan 1, 1997 (26)",González Catán,Argentina,"1,75 m",Right-Back,Interplayers,Argentina,23 / 1,right,26,,
+Serge Aurier,/serge-aurier/profil/spieler/127032,€8.00m,Nottingham Forest,ENG,"Dec 24, 1992 (30)",Ouragahio,Cote d'Ivoire,"1,76 m",Right-Back,,Ivory Coast,85 / 4,right,30,,
+Giulian Biancone,/giulian-biancone/profil/spieler/536507,€6.00m,Nottingham Forest,ENG,"Mar 31, 2000 (23)",Fréjus,France,"1,87 m",Right-Back,,,Apr-00,right,23,France U19,
+Ola Aina,/ola-aina/profil/spieler/236490,€3.50m,Nottingham Forest,ENG,"Oct 8, 1996 (26)",London,Nigeria,"1,84 m",Right-Back,,Nigeria,30 / 0,right,26,,
+Ibrahim Sangaré,/ibrahim-sangare/profil/spieler/375885,€35.00m,Nottingham Forest,ENG,"Dec 2, 1997 (25)",Abidjan,Cote d'Ivoire,"1,91 m",Defensive Midfield,,Ivory Coast,31 / 9,right,25,,
+Andrey Santos,/andrey-santos/profil/spieler/743600,€15.00m,Nottingham Forest,ENG,"May 3, 2004 (19)",Rio de Janeiro,Brazil,"1,80 m",Defensive Midfield,,Brazil U23,Jan-00,right,19,,
+Cheikhou Kouyaté,/cheikhou-kouyate/profil/spieler/66934,€2.00m,Nottingham Forest,ENG,"Dec 21, 1989 (33)",Dakar,Senegal,"1,89 m",Defensive Midfield,,Senegal,86 / 4,right,33,,
+Danilo,/danilo/profil/spieler/808509,€28.00m,Nottingham Forest,ENG,"Apr 29, 2001 (22)",Salvador,Brazil,"1,77 m",Central Midfield,,,0 / 0,left,22,Brazil,
+Nicolás Domínguez,/nicolas-dominguez/profil/spieler/497291,€17.00m,Nottingham Forest,ENG,"Jun 28, 1998 (25)",Haedo,Argentina,"1,79 m",Central Midfield,Interplayers,,1-Nov,right,25,Argentina,
+Orel Mangala,/orel-mangala/profil/spieler/289592,€16.00m,Nottingham Forest,ENG,"Mar 18, 1998 (25)",Brüssel,Belgium,"1,78 m",Central Midfield,,Belgium,Jul-00,right,25,,
+Ryan Yates,/ryan-yates/profil/spieler/425902,€11.00m,Nottingham Forest,ENG,"Nov 21, 1997 (25)",Nottingham,England,"1,90 m",Central Midfield,,,,right,25,,
+Jonjo Shelvey,/jonjo-shelvey/profil/spieler/71292,€5.00m,Nottingham Forest,ENG,"Feb 27, 1992 (31)",Romford,England,"1,84 m",Central Midfield,CAA Stellar,,Jun-00,right,31,England,
+Harry Arter,/harry-arter/profil/spieler/55742,€400k,Nottingham Forest,ENG,"Dec 28, 1989 (33)",London,Ireland,"1,77 m",Central Midfield,,,19 / 0,left,33,Ireland,
+Morgan Gibbs-White,/morgan-gibbs-white/profil/spieler/429014,€40.00m,Nottingham Forest,ENG,"Jan 27, 2000 (23)",Stafford,England,"1,78 m",Attacking Midfield,CAA Stellar,,18 / 3,right,23,,England U21
+Brandon Aguilera,/brandon-aguilera/profil/spieler/631996,€275k,Nottingham Forest,ENG,"Jun 28, 2003 (20)",Grecia,Costa Rica,"1,79 m",Attacking Midfield,,Costa Rica,Aug-00,left,20,,
+Anthony Elanga,/anthony-elanga/profil/spieler/583189,€18.00m,Nottingham Forest,ENG,"Apr 27, 2002 (21)",Hyllie,Sweden,"1,78 m",Left Winger,CAA Stellar,Sweden,3-Dec,right,21,,
+Callum Hudson-Odoi,/callum-hudson-odoi/profil/spieler/392768,€15.00m,Nottingham Forest,ENG,"Nov 7, 2000 (22)",London,England,"1,78 m",Left Winger,,,Mar-00,right,22,England,
+Taiwo Awoniyi,/taiwo-awoniyi/profil/spieler/295313,€25.00m,Nottingham Forest,ENG,"Aug 12, 1997 (26)",Ilorin,Nigeria,"1,83 m",Centre-Forward,ROOF,Nigeria,0 / 0,right,26,,
+Chris Wood,/chris-wood/profil/spieler/108725,€8.00m,Nottingham Forest,ENG,"Dec 7, 1991 (31)",Auckland,New Zealand,"1,91 m",Centre-Forward,,,70 / 33,right,31,,New Zealand
+Emmanuel Dennis,/emmanuel-dennis/profil/spieler/448854,€8.00m,Nottingham Forest,ENG,"Nov 15, 1997 (25)",Abuja,Nigeria,"1,75 m",Centre-Forward,,,1-Aug,right,25,,Nigeria
+Divock Origi,/divock-origi/profil/spieler/148368,€6.00m,Nottingham Forest,ENG,"Apr 18, 1995 (28)",Oostende,Belgium,"1,89 m",Centre-Forward,,,32 / 3,right,28,Belgium,
+Bart Verbruggen,/bart-verbruggen/profil/spieler/565093,€10.00m,Brighton & Hove Albion,ENG,"Aug 18, 2002 (21)",Zwolle,Netherlands,"1,94 m",Goalkeeper,,Netherlands,0 / 0,right,21,,
+Jason Steele,/jason-steele/profil/spieler/73564,€4.00m,Brighton & Hove Albion,ENG,"Aug 18, 1990 (33)",Newton Aycliffe,England,"1,88 m",Goalkeeper,,,Jul-00,right,33,England U21,
+Tom McGill,/tom-mcgill/profil/spieler/406556,€600k,Brighton & Hove Albion,ENG,"Mar 25, 2000 (23)",Belleville,Canada,"1,85 m",Goalkeeper,,Canada,0 / 0,right,23,,
+Adam Webster,/adam-webster/profil/spieler/212847,€25.00m,Brighton & Hove Albion,ENG,"Jan 4, 1995 (28)",West Wittering,England,"1,90 m",Centre-Back,,,May-00,right,28,England U19,
+Lewis Dunk,/lewis-dunk/profil/spieler/148153,€16.00m,Brighton & Hove Albion,ENG,"Nov 21, 1991 (31)",Brighton,England,"1,92 m",Centre-Back,CAA Stellar,England,Jan-00,right,31,,
+Igor,/igor/profil/spieler/380350,€10.00m,Brighton & Hove Albion,ENG,"Feb 7, 1998 (25)",Bom Sucesso,Brazil,"1,88 m",Centre-Back,,,,left,25,,
+Jan Paul van Hecke,/jan-paul-van-hecke/profil/spieler/576314,€5.00m,Brighton & Hove Albion,ENG,"Jun 8, 2000 (23)",Arnemuiden,Netherlands,"1,89 m",Centre-Back,,,Aug-00,right,23,,Netherlands U21
+Pervis Estupiñán,/pervis-estupinan/profil/spieler/349599,€32.00m,Brighton & Hove Albion,ENG,"Jan 21, 1998 (25)",Esmeraldas,Ecuador,"1,75 m",Left-Back,,Ecuador,36 / 4,left,25,,
+Tariq Lamptey,/tariq-lamptey/profil/spieler/504148,€12.00m,Brighton & Hove Albion,ENG,"Sep 30, 2000 (22)",London,Ghana,"1,63 m",Right-Back,,,Apr-00,right,22,,Ghana
+Joël Veltman,/joel-veltman/profil/spieler/111195,€10.00m,Brighton & Hove Albion,ENG,"Jan 15, 1992 (31)",Velsen,Netherlands,"1,84 m",Right-Back,,,28 / 2,right,31,Netherlands,
+Mahmoud Dahoud,/mahmoud-dahoud/profil/spieler/191422,€12.00m,Brighton & Hove Albion,ENG,"Jan 1, 1996 (27)",Amûdê‎,Germany,"1,78 m",Central Midfield,Epic Sports,,Feb-00,right,27,Germany,
+Billy Gilmour,/billy-gilmour/profil/spieler/423744,€12.00m,Brighton & Hove Albion,ENG,"Jun 11, 2001 (22)",Irvine,Scotland,"1,70 m",Central Midfield,CAA Stellar,Scotland,18 / 0,right,22,,
+Jakub Moder,/jakub-moder/profil/spieler/384461,€10.00m,Brighton & Hove Albion,ENG,"Apr 7, 1999 (24)",Szczecinek,Poland,"1,91 m",Central Midfield,,,20 / 2,right,24,Poland,
+Pascal Groß,/pascal-gross/profil/spieler/82873,€8.00m,Brighton & Hove Albion,ENG,"Jun 15, 1991 (32)",Mannheim,Germany,"1,81 m",Central Midfield,,Germany,Jan-00,right,32,,
+Carlos Baleba,/carlos-baleba/profil/spieler/973085,€5.00m,Brighton & Hove Albion,ENG,"Jan 3, 2004 (19)",Douala,Cameroon,"1,79 m",Central Midfield,,,,left,19,,
+James Milner,/james-milner/profil/spieler/3333,€1.50m,Brighton & Hove Albion,ENG,"Jan 4, 1986 (37)",Leeds,England,"1,75 m",Central Midfield,,,61 / 1,right,37,England,
+Facundo Buonanotte,/facundo-buonanotte/profil/spieler/983989,€12.00m,Brighton & Hove Albion,ENG,"Dec 23, 2004 (18)",Pérez,Argentina,"1,74 m",Attacking Midfield,,Argentina,Jan-00,left,18,,
+Adam Lallana,/adam-lallana/profil/spieler/43530,€1.20m,Brighton & Hove Albion,ENG,"May 10, 1988 (35)",St Albans,England,"1,72 m",Attacking Midfield,CAA Stellar,,34 / 3,na,35,England,
+Ansu Fati,/ansu-fati/profil/spieler/466810,€35.00m,Brighton & Hove Albion,ENG,"Oct 31, 2002 (20)",Bissau,Spain,"1,78 m",Left Winger,,,2-Sep,right,20,,Spain
+Kaoru Mitoma,/kaoru-mitoma/profil/spieler/504849,€32.00m,Brighton & Hove Albion,ENG,"May 20, 1997 (26)","Kawasaki, Kanagawa",Japan,"1,78 m",Left Winger,,Japan,18 / 7,right,26,,
+Simon Adingra,/simon-adingra/profil/spieler/658536,€10.00m,Brighton & Hove Albion,ENG,"Jan 1, 2002 (21)",Abobo,Cote d'Ivoire,"1,75 m",Left Winger,CAA Stellar,Ivory Coast,Jan-00,right,21,,
+Solly March,/solly-march/profil/spieler/209212,€22.00m,Brighton & Hove Albion,ENG,"Jul 20, 1994 (29)",Eastbourne,England,"1,80 m",Right Winger,,,1-Mar,left,29,England U21,
+Julio Enciso,/julio-enciso/profil/spieler/660867,€22.00m,Brighton & Hove Albion,ENG,"Jan 23, 2004 (19)",Caaguazú,Paraguay,"1,73 m",Second Striker,,,Sep-00,right,19,,Paraguay
+João Pedro,/joao-pedro/profil/spieler/626724,€32.00m,Brighton & Hove Albion,ENG,"Sep 26, 2001 (21)",Ribeirão Preto,Brazil,"1,82 m",Centre-Forward,,Brazil U23,Jan-00,right,21,,
+Evan Ferguson,/evan-ferguson/profil/spieler/648046,€30.00m,Brighton & Hove Albion,ENG,"Oct 19, 2004 (18)","Bettystown, Meath",Ireland,"1,83 m",Centre-Forward,,,2-Jun,right,18,,Ireland
+Danny Welbeck,/danny-welbeck/profil/spieler/67063,€7.00m,Brighton & Hove Albion,ENG,"Nov 26, 1990 (32)",Manchester,England,"1,85 m",Centre-Forward,,,42 / 16,right,32,England,
+Mark Flekken,/mark-flekken/profil/spieler/125714,€10.00m,Brentford FC,ENG,"Jun 13, 1993 (30)",Bocholtz,Netherlands,"1,95 m",Goalkeeper,SEG,Netherlands,May-00,na,30,,
+Thomas Strakosha,/thomas-strakosha/profil/spieler/222209,€3.50m,Brentford FC,ENG,"Mar 19, 1995 (28)",Athens,Albania,"1,93 m",Goalkeeper,,Albania,23 / 0,right,28,,
+Ellery Balcombe,/ellery-balcombe/profil/spieler/456292,€300k,Brentford FC,ENG,"Oct 15, 1999 (23)",Bedfordshire,England,"1,90 m",Goalkeeper,,,0 / 0,right,23,England U21,
+Nathan Collins,/nathan-collins/profil/spieler/469050,€22.00m,Brentford FC,ENG,"Apr 30, 2001 (22)",Leixlip,Ireland,"1,93 m",Centre-Back,,Ireland,14 / 1,right,22,,
+Kristoffer Ajer,/kristoffer-ajer/profil/spieler/328658,€16.00m,Brentford FC,ENG,"Apr 17, 1998 (25)",Rælingen,Norway,"1,98 m",Centre-Back,,Norway,27 / 0,right,25,,
+Ethan Pinnock,/ethan-pinnock/profil/spieler/442248,€14.00m,Brentford FC,ENG,"May 29, 1993 (30)",London,Jamaica,"1,94 m",Centre-Back,,Jamaica,Jun-00,left,30,,
+Ben Mee,/ben-mee/profil/spieler/74810,€2.00m,Brentford FC,ENG,"Sep 21, 1989 (33)",Sale,England,"1,80 m",Centre-Back,,,Feb-00,left,33,England U21,
+Zanka,/zanka/profil/spieler/52059,€1.50m,Brentford FC,ENG,"Apr 23, 1990 (33)",København,Denmark,"1,89 m",Centre-Back,,,35 / 2,right,33,,Denmark
+Charlie Goode,/charlie-goode/profil/spieler/376856,€600k,Brentford FC,ENG,"Aug 3, 1995 (28)",Watford,England,"1,96 m",Centre-Back,,,Jan-00,right,28,England C,
+Rico Henry,/rico-henry/profil/spieler/339556,€28.00m,Brentford FC,ENG,"Jul 8, 1997 (26)",Birmingham,England,"1,70 m",Left-Back,,,Mar-00,left,26,England U20,
+Aaron Hickey,/aaron-hickey/profil/spieler/591949,€25.00m,Brentford FC,ENG,"Jun 10, 2002 (21)",Glasgow,Scotland,"1,85 m",Right-Back,,Scotland,Nov-00,na,21,,
+Mads Roerslev,/mads-roerslev/profil/spieler/391005,€6.00m,Brentford FC,ENG,"Jun 24, 1999 (24)",Copenhagen,Denmark,"1,84 m",Right-Back,,,Jul-00,right,24,Denmark U21,
+Vitaly Janelt,/vitaly-janelt/profil/spieler/270171,€20.00m,Brentford FC,ENG,"May 10, 1998 (25)",Hamburg,Germany,"1,84 m",Defensive Midfield,,,Oct-00,left,25,Germany U21,
+Christian Nörgaard,/christian-norgaard/profil/spieler/148367,€16.00m,Brentford FC,ENG,"Mar 10, 1994 (29)",København,Denmark,"1,87 m",Defensive Midfield,,Denmark,21 / 1,right,29,,
+Mathias Jensen,/mathias-jensen/profil/spieler/319859,€22.00m,Brentford FC,ENG,"Jan 1, 1996 (27)","Jerslev, West ...",Denmark,"1,80 m",Central Midfield,CAA Stellar,Denmark,25 / 1,right,27,,
+Josh Dasilva,/josh-dasilva/profil/spieler/340321,€16.00m,Brentford FC,ENG,"Oct 23, 1998 (24)",London,England,"1,84 m",Central Midfield,,,1-Apr,left,24,England U21,
+Frank Onyeka,/frank-onyeka/profil/spieler/421637,€8.00m,Brentford FC,ENG,"Jan 1, 1998 (25)",Abuya,Nigeria,"1,83 m",Central Midfield,,Nigeria,Dec-00,right,25,,
+Shandon Baptiste,/shandon-baptiste/profil/spieler/533916,€3.00m,Brentford FC,ENG,"Apr 8, 1998 (25)",Reading,Grenada,"1,80 m",Central Midfield,,,1-Mar,right,25,Grenada,
+Saman Ghoddos,/saman-ghoddos/profil/spieler/204294,€2.00m,Brentford FC,ENG,"Sep 6, 1993 (30)",Malmö,Iran,"1,75 m",Attacking Midfield,Unique Sports Group,Iran,34 / 2,right,30,,
+Myles Peart-Harris,/myles-peart-harris/profil/spieler/587002,€700k,Brentford FC,ENG,"Sep 18, 2002 (20)",London,England,"1,87 m",Attacking Midfield,,,0 / 0,,20,England U17,
+Yegor Yarmolyuk,/yegor-yarmolyuk/profil/spieler/717411,€400k,Brentford FC,ENG,"Mar 1, 2004 (19)","Verkhnyodniprovsk, ...",Ukraine,"1,80 m",Attacking Midfield,ProStar,Ukraine U21,May-00,right,19,,
+Yoane Wissa,/yoane-wissa/profil/spieler/388165,€18.00m,Brentford FC,ENG,"Sep 3, 1996 (27)",Villeneuve-Saint-Geo...,DR Congo,"1,76 m",Left Winger,CAA Stellar,DR Congo,2-Dec,right,27,,
+Mikkel Damsgaard,/mikkel-damsgaard/profil/spieler/540941,€13.00m,Brentford FC,ENG,"Jul 3, 2000 (23)",Jyllinge,Denmark,"1,80 m",Left Winger,,Denmark,23 / 4,right,23,,
+Keane Lewis-Potter,/keane-lewis-potter/profil/spieler/644401,€12.00m,Brentford FC,ENG,"Feb 22, 2001 (22)",Hull,England,"1,70 m",Left Winger,,,1-Apr,right,22,England U21,
+Bryan Mbeumo,/bryan-mbeumo/profil/spieler/413039,€35.00m,Brentford FC,ENG,"Aug 7, 1999 (24)",Avallon,Cameroon,"1,71 m",Right Winger,,Cameroon,1-Sep,left,24,,
+Kevin Schade,/kevin-schade/profil/spieler/473050,€25.00m,Brentford FC,ENG,"Nov 27, 2001 (21)",Potsdam,Germany,"1,85 m",Right Winger,Eurosportsmanagement...,Germany,Mar-00,right,21,,
+Ivan Toney,/ivan-toney/profil/spieler/251664,€35.00m,Brentford FC,ENG,"Mar 16, 1996 (27)",Northampton,England,"1,85 m",Centre-Forward,CAA Stellar,,Jan-00,right,27,,England
+Neal Maupay,/neal-maupay/profil/spieler/217115,€10.00m,Brentford FC,ENG,"Aug 14, 1996 (27)",Versailles,France,"1,73 m",Centre-Forward,,,1-Feb,right,27,France U21,
+Jordan Pickford,/jordan-pickford/profil/spieler/130164,€22.00m,Everton FC,ENG,"Mar 7, 1994 (29)",Washington,England,"1,85 m",Goalkeeper,CAA Stellar,England,55 / 0,left,29,,
+João Virgínia,/joao-virginia/profil/spieler/329813,€600k,Everton FC,ENG,"Oct 10, 1999 (23)",Faro,Portugal,"1,92 m",Goalkeeper,,,Feb-00,right,23,Portugal U21,
+Andy Lonergan,/andy-lonergan/profil/spieler/14044,€150k,Everton FC,ENG,"Oct 19, 1983 (39)",Preston,England,"1,93 m",Goalkeeper,,,0 / 0,left,39,England U21,
+James Tarkowski,/james-tarkowski/profil/spieler/173504,€18.00m,Everton FC,ENG,"Nov 19, 1992 (30)",Manchester,England,"1,85 m",Centre-Back,,,Feb-00,right,30,England,
+Ben Godfrey,/ben-godfrey/profil/spieler/343475,€13.00m,Everton FC,ENG,"Jan 15, 1998 (25)",York,England,"1,84 m",Centre-Back,,,Feb-00,right,25,England,
+Michael Keane,/michael-keane/profil/spieler/118534,€10.00m,Everton FC,ENG,"Jan 11, 1993 (30)",Manchester,England,"1,88 m",Centre-Back,,,1-Dec,right,30,England,
+Jarrad Branthwaite,/jarrad-branthwaite/profil/spieler/661053,€10.00m,Everton FC,ENG,"Jun 27, 2002 (21)",Carlisle,England,"1,95 m",Centre-Back,,England U21,Feb-00,left,21,,
+Vitaliy Mykolenko,/vitaliy-mykolenko/profil/spieler/404842,€25.00m,Everton FC,ENG,"May 29, 1999 (24)",Cherkasy,Ukraine,"1,80 m",Left-Back,ProStar,Ukraine,33 / 1,left,24,,
+Ashley Young,/ashley-young/profil/spieler/14086,€600k,Everton FC,ENG,"Jul 9, 1985 (38)",Stevenage,England,"1,75 m",Left-Back,,,39 / 7,na,38,England,
+Nathan Patterson,/nathan-patterson/profil/spieler/424015,€16.00m,Everton FC,ENG,"Oct 16, 2001 (21)",Glasgow,Scotland,"1,89 m",Right-Back,,Scotland,14 / 1,right,21,,
+Seamus Coleman,/seamus-coleman/profil/spieler/68390,€1.00m,Everton FC,ENG,"Oct 11, 1988 (34)",Donegal,Ireland,"1,77 m",Right-Back,,,68 / 1,right,34,,Ireland
+Amadou Onana,/amadou-onana/profil/spieler/485706,€45.00m,Everton FC,ENG,"Aug 16, 2001 (22)",Dakar,Belgium,"1,95 m",Defensive Midfield,,Belgium,Jul-00,right,22,,
+James Garner,/james-garner/profil/spieler/505219,€16.00m,Everton FC,ENG,"Mar 13, 2001 (22)",Birkenhead,England,"1,82 m",Defensive Midfield,,,18 / 0,right,22,,England U21
+André Gomes,/andre-gomes/profil/spieler/221025,€16.00m,Everton FC,ENG,"Jul 30, 1993 (30)",Vila Nova de Gaia,Portugal,"1,88 m",Central Midfield,,,29 / 0,right,30,Portugal,
+Abdoulaye Doucouré,/abdoulaye-doucoure/profil/spieler/127187,€12.00m,Everton FC,ENG,"Jan 1, 1993 (30)",Meulan-en-Yvelines,Mali,"1,83 m",Central Midfield,,,Feb-00,right,30,Mali,
+Idrissa Gueye,/idrissa-gueye/profil/spieler/126665,€5.00m,Everton FC,ENG,"Sep 26, 1989 (33)",Dakar,Senegal,"1,74 m",Central Midfield,,Senegal,102 / 7,right,33,,
+Dele Alli,/dele-alli/profil/spieler/207929,€8.00m,Everton FC,ENG,"Apr 11, 1996 (27)",Milton Keynes,England,"1,88 m",Attacking Midfield,,,37 / 3,right,27,England,
+Arnaut Danjuma,/arnaut-danjuma/profil/spieler/355861,€25.00m,Everton FC,ENG,"Jan 31, 1997 (26)",Lagos,Netherlands,"1,78 m",Left Winger,,,2-Jun,right,26,Netherlands,
+Jack Harrison,/jack-harrison/profil/spieler/417346,€22.00m,Everton FC,ENG,"Nov 20, 1996 (26)",Stoke-on-Trent,England,"1,75 m",Left Winger,,,Feb-00,left,26,England U21,
+Dwight McNeil,/dwight-mcneil/profil/spieler/584769,€20.00m,Everton FC,ENG,"Nov 22, 1999 (23)",Rochdale,England,"1,83 m",Left Winger,Unique Sports Group,,Oct-00,left,23,England U21,
+Lewis Dobbin,/lewis-dobbin/profil/spieler/627248,€900k,Everton FC,ENG,"Jan 3, 2003 (20)",Stoke,England,"1,75 m",Left Winger,,,Feb-00,,20,England U19,
+Dominic Calvert-Lewin,/dominic-calvert-lewin/profil/spieler/306024,€25.00m,Everton FC,ENG,"Mar 16, 1997 (26)",Sheffield,England,"1,89 m",Centre-Forward,11WINS,,4-Nov,right,26,England,
+Beto,/beto/profil/spieler/595809,€25.00m,Everton FC,ENG,"Jan 31, 1998 (25)",Lisboa,Portugal,"1,94 m",Centre-Forward,,,,right,25,,
+Chermiti,/chermiti/profil/spieler/670688,€3.00m,Everton FC,ENG,"May 24, 2004 (19)","Santa Maria, Açores",Portugal,"1,92 m",Centre-Forward,,,3-Apr,right,19,,Portugal U19
+Ionut Radu,/ionut-radu/profil/spieler/303657,€3.50m,AFC Bournemouth,ENG,"May 28, 1997 (26)",Bukarest,Romania,"1,88 m",Goalkeeper,,,Apr-00,right,26,,Romania
+Neto,/neto/profil/spieler/111819,€2.50m,AFC Bournemouth,ENG,"Jul 19, 1989 (34)",Araxá,Brazil,"1,90 m",Goalkeeper,,,Jan-00,right,34,Brazil,
+Darren Randolph,/darren-randolph/profil/spieler/51321,€400k,AFC Bournemouth,ENG,"May 12, 1987 (36)",Bray,Ireland,"1,87 m",Goalkeeper,Unique Sports Group,,50 / 0,right,36,Ireland,
+Marcos Senesi,/marcos-senesi/profil/spieler/469781,€22.00m,AFC Bournemouth,ENG,"May 10, 1997 (26)",Concordia,Argentina,"1,85 m",Centre-Back,Interplayers,Argentina,Jan-00,left,26,,
+Ilya Zabarnyi,/ilya-zabarnyi/profil/spieler/659089,€20.00m,AFC Bournemouth,ENG,"Sep 1, 2002 (21)",Kyiv,Ukraine,"1,89 m",Centre-Back,,Ukraine,28 / 1,right,21,,
+Lloyd Kelly,/lloyd-kelly/profil/spieler/480116,€18.00m,AFC Bournemouth,ENG,"Oct 6, 1998 (24)",Bristol,England,"1,90 m",Centre-Back,CAA Stellar,,Oct-00,left,24,England U21,
+Chris Mepham,/chris-mepham/profil/spieler/480987,€8.00m,AFC Bournemouth,ENG,"Nov 5, 1997 (25)",London,Wales,"1,90 m",Centre-Back,,Wales,40 / 0,right,25,,
+Milos Kerkez,/milos-kerkez/profil/spieler/730861,€15.00m,AFC Bournemouth,ENG,"Nov 7, 2003 (19)",Vrbas,Hungary,"1,80 m",Left-Back,,Hungary,Oct-00,left,19,,
+Max Aarons,/max-aarons/profil/spieler/471690,€16.00m,AFC Bournemouth,ENG,"Jan 4, 2000 (23)",London,England,"1,71 m",Right-Back,,,27 / 0,right,23,,England U21
+Ryan Fredericks,/ryan-fredericks/profil/spieler/140191,€1.50m,AFC Bournemouth,ENG,"Oct 10, 1992 (30)",Potters Bar,England,"1,81 m",Right-Back,Unique Sports Group,,Jan-00,right,30,England U19,
+Adam Smith,/adam-smith/profil/spieler/61841,€1.20m,AFC Bournemouth,ENG,"Apr 29, 1991 (32)",London,England,"1,74 m",Right-Back,CAA Stellar,,Dec-00,right,32,England U21,
+Tyler Adams,/tyler-adams/profil/spieler/332705,€18.00m,AFC Bournemouth,ENG,"Feb 14, 1999 (24)","Wappingers Falls, ...",United States,"1,75 m",Defensive Midfield,,,36 / 1,right,24,,USA
+Alex Scott,/alex-scott/profil/spieler/855256,€20.00m,AFC Bournemouth,ENG,"Aug 21, 2003 (20)",Guernsey,England,"1,78 m",Central Midfield,,,Sep-00,right,20,,England U20
+Philip Billing,/philip-billing/profil/spieler/320411,€20.00m,AFC Bournemouth,ENG,"Jun 11, 1996 (27)",Copenhagen,Denmark,"1,93 m",Central Midfield,ROOF,,May-00,left,27,,Denmark
+Lewis Cook,/lewis-cook/profil/spieler/249089,€10.00m,AFC Bournemouth,ENG,"Feb 3, 1997 (26)",York,England,"1,75 m",Central Midfield,CAA Stellar,,Jan-00,right,26,England,
+Joe Rothwell,/joe-rothwell/profil/spieler/183293,€4.00m,AFC Bournemouth,ENG,"Jan 11, 1995 (28)",Manchester,England,"1,85 m",Central Midfield,,,Mar-00,right,28,England U20,
+Gavin Kilkenny,/gavin-kilkenny/profil/spieler/469064,€400k,AFC Bournemouth,ENG,"Feb 1, 2000 (23)",Dublin,Ireland,"1,75 m",Central Midfield,,,Dec-00,right,23,Ireland U21,
+Marcus Tavernier,/marcus-tavernier/profil/spieler/399434,€17.00m,AFC Bournemouth,ENG,"Mar 22, 1999 (24)",Leeds,England,"1,78 m",Left Midfield,,,15 / 0,left,24,England U20,
+Hamed Junior Traorè,/hamed-junior-traore/profil/spieler/391065,€22.00m,AFC Bournemouth,ENG,"Feb 16, 2000 (23)",Abidjan,Cote d'Ivoire,"1,77 m",Attacking Midfield,GG11,,May-00,right,23,,Ivory Coast
+Ryan Christie,/ryan-christie/profil/spieler/188077,€10.00m,AFC Bournemouth,ENG,"Feb 22, 1995 (28)",Inverness,Scotland,"1,78 m",Attacking Midfield,,Scotland,39 / 5,left,28,,
+Emiliano Marcondes,/emiliano-marcondes/profil/spieler/232964,€1.50m,AFC Bournemouth,ENG,"Mar 9, 1995 (28)",Hvidovre,Denmark,"1,82 m",Attacking Midfield,,,Jan-00,right,28,Denmark U23,
+Luis Sinisterra,/luis-sinisterra/profil/spieler/512385,€22.00m,AFC Bournemouth,ENG,"Jun 17, 1999 (24)",Santander de ...,Colombia,"1,72 m",Left Winger,,Colombia,3-Aug,right,24,,
+Justin Kluivert,/justin-kluivert/profil/spieler/330659,€14.00m,AFC Bournemouth,ENG,"May 5, 1999 (24)",Zaandam,Netherlands,"1,72 m",Left Winger,Team Raiola,,Feb-00,na,24,Netherlands,
+Dango Ouattara,/dango-ouattara/profil/spieler/823231,€25.00m,AFC Bournemouth,ENG,"Feb 11, 2002 (21)",Ouagadougou,Burkina Faso,"1,77 m",Right Winger,PSM,,15 / 6,left,21,,Burkina Faso
+David Brooks,/david-brooks/profil/spieler/277033,€12.00m,AFC Bournemouth,ENG,"Jul 8, 1997 (26)",Warrington,Wales,"1,73 m",Right Winger,Unique Sports Group,Wales,23 / 2,left,26,,
+Dominic Solanke,/dominic-solanke/profil/spieler/258889,€20.00m,AFC Bournemouth,ENG,"Sep 14, 1997 (25)",Basingstoke,England,"1,86 m",Centre-Forward,,,Jan-00,right,25,England,
+Antoine Semenyo,/antoine-semenyo/profil/spieler/583255,€9.00m,AFC Bournemouth,ENG,"Jan 7, 2000 (23)",London,Ghana,"1,85 m",Centre-Forward,,Ghana,2-Aug,right,23,,
+Kieffer Moore,/kieffer-moore/profil/spieler/275590,€4.00m,AFC Bournemouth,ENG,"Aug 8, 1992 (31)",Torquay,Wales,"1,96 m",Centre-Forward,Unique Sports Group,Wales,35 / 10,right,31,,
+Dean Henderson,/dean-henderson/profil/spieler/258919,€18.00m,Crystal Palace,ENG,"Mar 12, 1997 (26)",Whitehaven,England,"1,88 m",Goalkeeper,CAA Stellar,,Jan-00,right,26,,England
+Sam Johnstone,/sam-johnstone/profil/spieler/110864,€6.00m,Crystal Palace,ENG,"Mar 25, 1993 (30)",Preston,England,"1,93 m",Goalkeeper,Unique Sports Group,England,Mar-00,right,30,,
+Joe Whitworth,/joe-whitworth/profil/spieler/670840,€900k,Crystal Palace,ENG,"Feb 29, 2004 (19)",,England,"1,79 m",Goalkeeper,,England U20,0 / 0,right,19,,
+Remi Matthews,/remi-matthews/profil/spieler/196722,€350k,Crystal Palace,ENG,"Feb 10, 1994 (29)",Gorleston,England,"1,92 m",Goalkeeper,,,,right,29,,
+Marc Guéhi,/marc-guehi/profil/spieler/392757,€35.00m,Crystal Palace,ENG,"Jul 13, 2000 (23)",Abidjan,England,"1,82 m",Centre-Back,Unique Sports Group,England,May-00,right,23,,
+Joachim Andersen,/joachim-andersen/profil/spieler/260827,€30.00m,Crystal Palace,ENG,"May 31, 1996 (27)",Frederiksberg,Denmark,"1,92 m",Centre-Back,CAA Stellar,Denmark,23 / 0,right,27,,
+Chris Richards,/chris-richards/profil/spieler/578539,€10.00m,Crystal Palace,ENG,"Mar 28, 2000 (23)","Birmingham, Alabama",United States,"1,88 m",Centre-Back,,USA,1-Nov,right,23,,
+Rob Holding,/rob-holding/profil/spieler/253341,€8.00m,Crystal Palace,ENG,"Sep 20, 1995 (27)",Stalybridge,England,"1,89 m",Centre-Back,CAA Stellar,,May-00,right,27,England U21,
+Nathan Ferguson,/nathan-ferguson/profil/spieler/507254,€1.20m,Crystal Palace,ENG,"Oct 6, 2000 (22)",Birmingham,England,"1,84 m",Centre-Back,,,Apr-00,right,22,England U20,
+James Tomkins,/james-tomkins/profil/spieler/61592,€800k,Crystal Palace,ENG,"Mar 29, 1989 (34)",Basildon,England,"1,92 m",Centre-Back,,,Oct-00,right,34,England U21,
+Tyrick Mitchell,/tyrick-mitchell/profil/spieler/730893,€22.00m,Crystal Palace,ENG,"Sep 1, 1999 (24)",London,England,"1,75 m",Left-Back,,,Feb-00,left,24,England,
+Nathaniel Clyne,/nathaniel-clyne/profil/spieler/85177,€2.00m,Crystal Palace,ENG,"Apr 5, 1991 (32)",London,England,"1,75 m",Right-Back,ROOF,,14 / 0,right,32,England,
+Joel Ward,/joel-ward/profil/spieler/92572,€1.20m,Crystal Palace,ENG,"Oct 29, 1989 (33)",Emsworth,England,"1,86 m",Right-Back,,,,right,33,,
+Cheick Doucouré,/cheick-doucoure/profil/spieler/543387,€35.00m,Crystal Palace,ENG,"Jan 8, 2000 (23)",Bamako,Mali,"1,80 m",Defensive Midfield,,Mali,Dec-00,right,23,,
+Jefferson Lerma,/jefferson-lerma/profil/spieler/262980,€20.00m,Crystal Palace,ENG,"Oct 25, 1994 (28)",Cerrito,Colombia,"1,79 m",Defensive Midfield,,Colombia,36 / 1,right,28,,
+Jairo Riedewald,/jairo-riedewald/profil/spieler/241481,€3.00m,Crystal Palace,ENG,"Sep 9, 1996 (27)",Haarlem,Netherlands,"1,82 m",Defensive Midfield,,,Mar-00,left,27,Netherlands,
+Naouirou Ahamada,/naouirou-ahamada/profil/spieler/538971,€10.00m,Crystal Palace,ENG,"Mar 29, 2002 (21)",Marseille,France,"1,83 m",Central Midfield,,,1-Mar,right,21,France U18,
+Will Hughes,/will-hughes/profil/spieler/207014,€5.00m,Crystal Palace,ENG,"Apr 17, 1995 (28)",Weybridge,England,"1,85 m",Central Midfield,,,23 / 2,left,28,England U21,
+Jeffrey Schlupp,/jeffrey-schlupp/profil/spieler/157506,€7.00m,Crystal Palace,ENG,"Dec 23, 1992 (30)",Hamburg,Ghana,"1,78 m",Left Midfield,Unique Sports Group,,20 / 1,left,30,Ghana,
+Eberechi Eze,/eberechi-eze/profil/spieler/479999,€40.00m,Crystal Palace,ENG,"Jun 29, 1998 (25)",London,England,"1,78 m",Attacking Midfield,,England,Jan-00,right,25,,
+Matheus França,/matheus-franca/profil/spieler/743597,€9.00m,Crystal Palace,ENG,"Apr 1, 2004 (19)",Rio de Janeiro,Brazil,"1,84 m",Attacking Midfield,,,Feb-00,right,19,,Brazil U20
+Michael Olise,/michael-olise/profil/spieler/566723,€38.00m,Crystal Palace,ENG,"Dec 12, 2001 (21)",London,France,"1,84 m",Right Winger,,,1-Jul,left,21,,France U21
+Malcolm Ebiowei,/malcolm-ebiowei/profil/spieler/512354,€3.00m,Crystal Palace,ENG,"Sep 4, 2003 (20)",London,England,"1,85 m",Right Winger,,,Mar-00,left,20,,England U20
+Jesurun Rak-Sakyi,/jesurun-rak-sakyi/profil/spieler/586834,€1.00m,Crystal Palace,ENG,"Oct 5, 2002 (20)",London,England,"1,78 m",Right Winger,,,1-May,left,20,England U20,
+Odsonne Edouard,/odsonne-edouard/profil/spieler/344152,€15.00m,Crystal Palace,ENG,"Jan 16, 1998 (25)",Kourou,France,"1,87 m",Centre-Forward,CAA Stellar,,14 / 17,right,25,France U21,
+Jean-Philippe Mateta,/jean-philippe-mateta/profil/spieler/420002,€7.00m,Crystal Palace,ENG,"Jun 28, 1997 (26)",Sevran,France,"1,92 m",Centre-Forward,,,3-Nov,right,26,France U21,
+Jordan Ayew,/jordan-ayew/profil/spieler/108354,€5.00m,Crystal Palace,ENG,"Sep 11, 1991 (32)",Marseille,Ghana,"1,82 m",Centre-Forward,,Ghana,90 / 19,right,32,,
+Bernd Leno,/bernd-leno/profil/spieler/72476,€12.00m,Fulham FC,ENG,"Mar 4, 1992 (31)",Bietigheim-Bissingen,Germany,"1,90 m",Goalkeeper,,,Sep-00,right,31,,Germany
+Marek Rodak,/marek-rodak/profil/spieler/186901,€3.00m,Fulham FC,ENG,"Dec 13, 1996 (26)",Košice,Slovakia,"1,94 m",Goalkeeper,,Slovakia,19 / 0,right,26,,
+Steven Benda,/steven-benda/profil/spieler/381469,€400k,Fulham FC,ENG,"Oct 1, 1998 (24)",Stuttgart,Germany,"1,92 m",Goalkeeper,,,,right,24,,
+Issa Diop,/issa-diop/profil/spieler/272622,€18.00m,Fulham FC,ENG,"Jan 9, 1997 (26)",Toulouse,France,"1,94 m",Centre-Back,,,Jun-00,right,26,France U21,
+Tosin Adarabioyo,/tosin-adarabioyo/profil/spieler/258878,€16.00m,Fulham FC,ENG,"Sep 24, 1997 (25)",Manchester,England,"1,96 m",Centre-Back,,,Jan-00,right,25,England U19,
+Calvin Bassey,/calvin-bassey/profil/spieler/461883,€15.00m,Fulham FC,ENG,"Dec 31, 1999 (23)",Aosta,Nigeria,"1,85 m",Centre-Back,Unique Sports Group,Nigeria,Oct-00,left,23,,
+Tim Ream,/tim-ream/profil/spieler/145466,€1.00m,Fulham FC,ENG,"Oct 5, 1987 (35)","St. Louis, Missouri",United States,"1,86 m",Centre-Back,CAA Stellar,USA,52 / 1,left,35,,
+Antonee Robinson,/antonee-robinson/profil/spieler/349701,€15.00m,Fulham FC,ENG,"Aug 8, 1997 (26)",Milton Keynes,United States,"1,83 m",Left-Back,,USA,37 / 2,left,26,,
+Fodé Ballo-Touré,/fode-ballo-toure/profil/spieler/296422,€3.50m,Fulham FC,ENG,"Jan 3, 1997 (26)",Conflans-Sainte-Hono...,Senegal,"1,82 m",Left-Back,,Senegal,15 / 0,left,26,,
+Timothy Castagne,/timothy-castagne/profil/spieler/262226,€25.00m,Fulham FC,ENG,"Dec 5, 1995 (27)",Arlon,Belgium,"1,85 m",Right-Back,,Belgium,34 / 2,right,27,,
+Kenny Tete,/kenny-tete/profil/spieler/206746,€15.00m,Fulham FC,ENG,"Oct 9, 1995 (27)",Amsterdam,Netherlands,"1,80 m",Right-Back,Rafaela Pimenta,,14 / 0,right,27,Netherlands,
+João Palhinha,/joao-palhinha/profil/spieler/257455,€40.00m,Fulham FC,ENG,"Jul 9, 1995 (28)",Lisboa,Portugal,"1,90 m",Defensive Midfield,,Portugal,22 / 2,right,28,,
+Harrison Reed,/harrison-reed/profil/spieler/226973,€18.00m,Fulham FC,ENG,"Jan 27, 1995 (28)",Worthing,England,"1,81 m",Central Midfield,Unique Sports Group,,14 / 0,right,28,England U20,
+Sasa Lukic,/sasa-lukic/profil/spieler/245056,€12.00m,Fulham FC,ENG,"Aug 13, 1996 (27)",Šabac,Serbia,"1,83 m",Central Midfield,,Serbia,38 / 2,right,27,,
+Tom Cairney,/tom-cairney/profil/spieler/123275,€2.00m,Fulham FC,ENG,"Jan 20, 1991 (32)",Nottingham,Scotland,"1,85 m",Central Midfield,Unique Sports Group,,Feb-00,left,32,Scotland,
+Tyrese Francois,/tyrese-francois/profil/spieler/528888,€500k,Fulham FC,ENG,"Jul 16, 2000 (23)",Campbell Town,Australia,"1,73 m",Central Midfield,,,0 / 0,left,23,,Australia
+Alex Iwobi,/alex-iwobi/profil/spieler/242631,€28.00m,Fulham FC,ENG,"May 3, 1996 (27)",Lagos,Nigeria,"1,83 m",Attacking Midfield,,,63 / 10,right,27,,Nigeria
+Andreas Pereira,/andreas-pereira/profil/spieler/203394,€18.00m,Fulham FC,ENG,"Jan 1, 1996 (27)",Duffel,Brazil,"1,78 m",Attacking Midfield,,,Jan-00,right,27,Brazil,
+Bobby De Cordova-Reid,/bobby-de-cordova-reid/profil/spieler/186186,€7.00m,Fulham FC,ENG,"Feb 2, 1993 (30)",Bristol,Jamaica,"1,70 m",Attacking Midfield,,Jamaica,22 / 3,right,30,,
+Luke Harris,/luke-harris/profil/spieler/817612,€500k,Fulham FC,ENG,"Mar 4, 2005 (18)",Jersey,Wales,"1,77 m",Attacking Midfield,CAA Stellar,Wales U21,Jan-00,right,18,,
+Willian,/willian/profil/spieler/52769,€3.00m,Fulham FC,ENG,"Aug 9, 1988 (35)",Ribeirão Pires,Brazil,"1,75 m",Left Winger,,,70 / 9,right,35,Brazil,
+Harry Wilson,/harry-wilson/profil/spieler/279455,€16.00m,Fulham FC,ENG,"Mar 22, 1997 (26)",Wrexham,Wales,"1,73 m",Right Winger,Unique Sports Group,Wales,46 / 6,left,26,,
+Adama Traoré,/adama-traore/profil/spieler/204103,€10.00m,Fulham FC,ENG,"Jan 25, 1996 (27)",L'Hospitalet de ...,Spain,"1,78 m",Right Winger,Gestifute,,Aug-00,right,27,Spain,
+Raúl Jiménez,/raul-jimenez/profil/spieler/206040,€6.00m,Fulham FC,ENG,"May 5, 1991 (32)",Tepeji del Río de ...,Mexico,"1,87 m",Centre-Forward,,Mexico,103 / 31,right,32,,
+Carlos Vinícius,/carlos-vinicius/profil/spieler/525287,€6.00m,Fulham FC,ENG,"Mar 25, 1995 (28)",Bom Jesus das Selvas,Brazil,"1,90 m",Centre-Forward,,,,left,28,,
+Rodrigo Muniz,/rodrigo-muniz/profil/spieler/735571,€5.00m,Fulham FC,ENG,"May 4, 2001 (22)",São Domingos do ...,Brazil,"1,85 m",Centre-Forward,,,,right,22,,
+José Sá,/jose-sa/profil/spieler/249994,€18.00m,Wolverhampton Wanderers,ENG,"Jan 17, 1993 (30)",Braga,Portugal,"1,92 m",Goalkeeper,Gestifute,Portugal,0 / 0,right,30,,
+Daniel Bentley,/daniel-bentley/profil/spieler/136401,€2.00m,Wolverhampton Wanderers,ENG,"Jul 13, 1993 (30)",Basildon,England,"1,93 m",Goalkeeper,Unique Sports Group,,,,30,,
+Tom King,/tom-king/profil/spieler/215810,€175k,Wolverhampton Wanderers,ENG,"Mar 9, 1995 (28)",Plymouth,Wales,"1,94 m",Goalkeeper,,Wales,0 / 0,right,28,,
+Max Kilman,/max-kilman/profil/spieler/525247,€30.00m,Wolverhampton Wanderers,ENG,"May 23, 1997 (26)",London,England,"1,94 m",Centre-Back,,,,left,26,,
+Santiago Bueno,/santiago-bueno/profil/spieler/438001,€8.00m,Wolverhampton Wanderers,ENG,"Nov 9, 1998 (24)",Montevideo,Uruguay,"1,90 m",Centre-Back,,Uruguay,Feb-00,right,24,,
+Toti,/toti/profil/spieler/606718,€6.00m,Wolverhampton Wanderers,ENG,"Jan 16, 1999 (24)",Bissau,Portugal,"1,87 m",Centre-Back,,Portugal,0 / 0,left,24,,
+Craig Dawson,/craig-dawson/profil/spieler/121477,€2.00m,Wolverhampton Wanderers,ENG,"May 6, 1990 (33)",Rochdale,England,"1,88 m",Centre-Back,Unique Sports Group,,16 / 6,right,33,England U21,
+Rayan Aït-Nouri,/rayan-ait-nouri/profil/spieler/578391,€22.00m,Wolverhampton Wanderers,ENG,"Jun 6, 2001 (22)",Montreuil,Algeria,"1,80 m",Left-Back,Gestifute,,Jan-00,left,22,,Algeria
+Jonny Otto,/jonny-otto/profil/spieler/175446,€13.00m,Wolverhampton Wanderers,ENG,"Mar 3, 1994 (29)",Vigo,Spain,"1,75 m",Left-Back,,,Mar-00,na,29,Spain,
+Hugo Bueno,/hugo-bueno/profil/spieler/698678,€6.00m,Wolverhampton Wanderers,ENG,"Sep 18, 2002 (20)",Vigo,Spain,"1,80 m",Left-Back,,Spain U21,0 / 0,left,20,,
+Nélson Semedo,/nelson-semedo/profil/spieler/231572,€15.00m,Wolverhampton Wanderers,ENG,"Nov 16, 1993 (29)",Lisboa,Portugal,"1,77 m",Right-Back,Gestifute,Portugal,26 / 0,right,29,,
+Matt Doherty,/matt-doherty/profil/spieler/171679,€5.00m,Wolverhampton Wanderers,ENG,"Jan 16, 1992 (31)",Dublin,Ireland,"1,85 m",Right-Back,Gestifute,Ireland,36 / 1,right,31,,
+Mario Lemina,/mario-lemina/profil/spieler/170934,€10.00m,Wolverhampton Wanderers,ENG,"Sep 1, 1993 (30)",Libreville,Gabon,"1,84 m",Defensive Midfield,,Gabon,26 / 3,right,30,,
+Boubacar Traoré,/boubacar-traore/profil/spieler/649020,€5.00m,Wolverhampton Wanderers,ENG,"Aug 20, 2001 (22)",Bamako,Mali,"1,83 m",Defensive Midfield,,Mali U23,Aug-00,right,22,,
+Joe Hodge,/joe-hodge/profil/spieler/503975,€2.00m,Wolverhampton Wanderers,ENG,"Sep 14, 2002 (20)",Manchester,Ireland,"1,72 m",Defensive Midfield,,Ireland U20,0 / 0,right,20,,
+João Gomes,/joao-gomes/profil/spieler/735570,€18.00m,Wolverhampton Wanderers,ENG,"Feb 12, 2001 (22)",Rio de Janeiro,Brazil,"1,76 m",Central Midfield,,,0 / 0,right,22,,Brazil
+Jean-Ricner Bellegarde,/jean-ricner-bellegarde/profil/spieler/450050,€10.00m,Wolverhampton Wanderers,ENG,"Jun 27, 1998 (25)",Colombes,France,"1,72 m",Central Midfield,,,Mar-00,right,25,France U21,
+Tommy Doyle,/tommy-doyle/profil/spieler/433183,€7.00m,Wolverhampton Wanderers,ENG,"Oct 17, 2001 (21)",Manchester,England,"1,72 m",Central Midfield,Unique Sports Group,,13 / 0,right,21,,England U21
+Bruno Jordão,/bruno-jordao/profil/spieler/415646,€1.30m,Wolverhampton Wanderers,ENG,"Oct 12, 1998 (24)",Marinha Grande,Portugal,"1,80 m",Central Midfield,Gestifute,,Jan-00,right,24,Portugal U21,
+Enso González,/enso-gonzalez/profil/spieler/1060740,€1.90m,Wolverhampton Wanderers,ENG,"Jan 20, 2005 (18)",Asunción,Paraguay,,Left Winger,,,,left,18,,
+Pedro Neto,/pedro-neto/profil/spieler/487465,€28.00m,Wolverhampton Wanderers,ENG,"Mar 9, 2000 (23)",Viana do Castelo,Portugal,"1,72 m",Right Winger,Gestifute,Portugal,1-Apr,left,23,,
+Pablo Sarabia,/pablo-sarabia/profil/spieler/74230,€14.00m,Wolverhampton Wanderers,ENG,"May 11, 1992 (31)",Madrid,Spain,"1,74 m",Right Winger,,,26 / 9,left,31,,Spain
+Matheus Cunha,/matheus-cunha/profil/spieler/517894,€25.00m,Wolverhampton Wanderers,ENG,"May 27, 1999 (24)",João Pessoa,Brazil,"1,83 m",Centre-Forward,,Brazil,Sep-00,right,24,,
+Sasa Kalajdzic,/sasa-kalajdzic/profil/spieler/369567,€15.00m,Wolverhampton Wanderers,ENG,"Jul 7, 1997 (26)",Wien,Austria,"2,00 m",Centre-Forward,SPOCS Global Sports,,15 / 4,right,26,Austria,
+Fábio Silva,/fabio-silva/profil/spieler/505653,€13.00m,Wolverhampton Wanderers,ENG,"Jul 19, 2002 (21)",Porto,Portugal,"1,85 m",Centre-Forward,,Portugal U21,16 / 7,right,21,,
+Hee-chan Hwang,/hee-chan-hwang/profil/spieler/292246,€12.00m,Wolverhampton Wanderers,ENG,"Jan 26, 1996 (27)","Chuncheon, Gangwon","Korea, South","1,77 m",Centre-Forward,,South Korea,53 / 10,right,27,,
+James Trafford,/james-trafford/profil/spieler/566799,€15.00m,Burnley FC,ENG,"Oct 10, 2002 (20)",Greysouthen,England,"1,92 m",Goalkeeper,CAA Stellar,England U21,Nov-00,right,20,,
+Arijanet Muric,/arijanet-muric/profil/spieler/371021,€12.00m,Burnley FC,ENG,"Nov 7, 1998 (24)",Schlieren,Kosovo,"1,98 m",Goalkeeper,11WINS,Kosovo,28 / 0,right,24,,
+Lawrence Vigouroux,/lawrence-vigouroux/profil/spieler/243591,€300k,Burnley FC,ENG,"Nov 19, 1993 (29)",London,Chile,"1,94 m",Goalkeeper,Refuel Performance ...,,0 / 0,right,29,Chile,
+Denis Franchi,/denis-franchi/profil/spieler/606576,€250k,Burnley FC,ENG,"Oct 22, 2002 (20)",San Vito al ...,Italy,"1,89 m",Goalkeeper,,,Jan-00,right,20,Italy U20,
+Jordan Beyer,/jordan-beyer/profil/spieler/403898,€16.00m,Burnley FC,ENG,"May 19, 2000 (23)",Kempen,Germany,"1,87 m",Centre-Back,,,Jul-00,right,23,,Germany U21
+Hjalmar Ekdal,/hjalmar-ekdal/profil/spieler/392179,€8.00m,Burnley FC,ENG,"Oct 21, 1998 (24)",Stockholm,Sweden,"1,87 m",Centre-Back,,,Jun-00,right,24,,Sweden
+Ameen Al-Dakhil,/ameen-al-dakhil/profil/spieler/620598,€6.00m,Burnley FC,ENG,"Mar 6, 2002 (21)","---, Baghdad",Belgium,"1,87 m",Centre-Back,,Belgium,Feb-00,right,21,,
+Dara O'Shea,/dara-oshea/profil/spieler/401320,€5.00m,Burnley FC,ENG,"Mar 4, 1999 (24)",Dublin,Ireland,"1,89 m",Centre-Back,Unique Sports Group,Ireland,20 / 0,right,24,,
+CJ Egan-Riley,/cj-egan-riley/profil/spieler/581669,€2.50m,Burnley FC,ENG,"Jan 2, 2003 (20)",Manchester,England,"1,83 m",Centre-Back,,,Apr-00,right,20,England U19,
+Hannes Delcroix,/hannes-delcroix/profil/spieler/338635,€2.00m,Burnley FC,ENG,"Feb 28, 1999 (24)",Grande Hatte,Belgium,"1,83 m",Centre-Back,,,Jan-00,left,24,Belgium,
+Charlie Taylor,/charlie-taylor/profil/spieler/195633,€3.50m,Burnley FC,ENG,"Sep 18, 1993 (29)",York,England,"1,83 m",Left-Back,,,Feb-00,left,29,England U19,
+Connor Roberts,/connor-roberts/profil/spieler/214666,€8.00m,Burnley FC,ENG,"Sep 23, 1995 (27)",Neath,Wales,"1,75 m",Right-Back,,Wales,48 / 3,right,27,,
+Vitinho,/vitinho/profil/spieler/468249,€4.00m,Burnley FC,ENG,"Jul 23, 1999 (24)",Belo Horizonte,Brazil,"1,74 m",Right-Back,,,Apr-00,right,24,Brazil U20,
+Sander Berge,/sander-berge/profil/spieler/333014,€20.00m,Burnley FC,ENG,"Feb 14, 1998 (25)",Bærum,Norway,"1,95 m",Defensive Midfield,,Norway,37 / 1,right,25,,
+Han-Noah Massengo,/han-noah-massengo/profil/spieler/536508,€5.00m,Burnley FC,ENG,"Jul 7, 2001 (22)",Villepinte,France,"1,78 m",Defensive Midfield,Classico,,Feb-00,right,22,,France U21
+Jack Cork,/jack-cork/profil/spieler/40613,€1.00m,Burnley FC,ENG,"Jun 25, 1989 (34)",London,England,"1,85 m",Defensive Midfield,,,Jan-00,right,34,England,
+Josh Brownhill,/josh-brownhill/profil/spieler/293569,€18.00m,Burnley FC,ENG,"Dec 19, 1995 (27)",Warrington,England,"1,79 m",Central Midfield,,,,right,27,,
+Josh Cullen,/josh-cullen/profil/spieler/242606,€13.00m,Burnley FC,ENG,"Apr 7, 1996 (27)",Westcliff-on-Sea,Ireland,"1,75 m",Central Midfield,CAA Stellar,Ireland,26 / 0,right,27,,
+Samuel Bastien,/samuel-bastien/profil/spieler/289510,€1.80m,Burnley FC,ENG,"Sep 26, 1996 (26)",Meux,DR Congo,"1,75 m",Central Midfield,Sport Cover,,Aug-00,right,26,,DR Congo
+Aaron Ramsey,/aaron-ramsey/profil/spieler/646658,€5.00m,Burnley FC,ENG,"Jan 21, 2003 (20)",Birmingham,England,"1,81 m",Attacking Midfield,Unique Sports Group,England U21,0 / 0,right,20,,
+Mike Trésor,/mike-tresor/profil/spieler/381963,€15.00m,Burnley FC,ENG,"May 28, 1999 (24)",Antwerpen,Belgium,"1,72 m",Left Winger,,,Feb-00,right,24,,Belgium
+Anass Zaroury,/anass-zaroury/profil/spieler/491296,€12.00m,Burnley FC,ENG,"Nov 7, 2000 (22)",Mechelen,Morocco,"1,76 m",Left Winger,SBB Global,,Apr-00,right,22,,Morocco
+Jacob Bruun Larsen,/jacob-bruun-larsen/profil/spieler/293281,€3.00m,Burnley FC,ENG,"Sep 19, 1998 (24)",Lyngby,Denmark,"1,83 m",Left Winger,Dirk Hebel,,1-Jun,right,24,Denmark,
+Darko Churlinov,/darko-churlinov/profil/spieler/386786,€2.20m,Burnley FC,ENG,"Jul 11, 2000 (23)",Skopje,North Macedonia,"1,80 m",Left Winger,,,17 / 3,right,23,,North Macedonia
+Nathan Redmond,/nathan-redmond/profil/spieler/129078,€10.00m,Burnley FC,ENG,"Mar 6, 1994 (29)",Birmingham,England,"1,73 m",Right Winger,ARETÉ,,Jan-00,right,29,England,
+Benson Manuel,/benson-manuel/profil/spieler/322702,€7.00m,Burnley FC,ENG,"Mar 28, 1997 (26)",Lokeren,Belgium,"1,66 m",Right Winger,,,Feb-00,left,26,Belgium U21,
+Wilson Odobert,/wilson-odobert/profil/spieler/743498,€6.00m,Burnley FC,ENG,"Nov 28, 2004 (18)",Meaux,France,"1,82 m",Right Winger,,France U21,0 / 0,,18,,
+Jóhann Berg Gudmundsson,/johann-berg-gudmundsson/profil/spieler/89231,€1.20m,Burnley FC,ENG,"Oct 27, 1990 (32)",Reykjavík,Iceland,"1,86 m",Right Winger,CAA Stellar,Iceland,87 / 8,left,32,,
+Luca Koleosho,/luca-koleosho/profil/spieler/745461,€1.00m,Burnley FC,ENG,"Sep 15, 2004 (18)","Norwalk, Connecticut",Italy,"1,75 m",Right Winger,CAA Stellar,,0 / 0,right,18,,Canada
+Enock Agyei,/enock-agyei/profil/spieler/724041,€800k,Burnley FC,ENG,"Jan 13, 2005 (18)",,Belgium,"1,72 m",Right Winger,CAA Stellar,,1-Jun,left,18,,Belgium U18
+Zeki Amdouni,/zeki-amdouni/profil/spieler/548729,€10.00m,Burnley FC,ENG,"Dec 4, 2000 (22)",Genève,Switzerland,"1,85 m",Centre-Forward,Soccer Mondial AG,Switzerland,5-May,na,22,,
+Lyle Foster,/lyle-foster/profil/spieler/467623,€9.00m,Burnley FC,ENG,"Sep 3, 2000 (23)","Soweto, Gauteng",South Africa,"1,85 m",Centre-Forward,,South Africa,3-Oct,right,23,,
+Michael Obafemi,/michael-obafemi/profil/spieler/444208,€5.00m,Burnley FC,ENG,"Jul 6, 2000 (23)",Dublin,Ireland,"1,70 m",Centre-Forward,,,2-Nov,right,23,,Ireland
+Jay Rodríguez,/jay-rodriguez/profil/spieler/53360,€1.00m,Burnley FC,ENG,"Jul 29, 1989 (34)",Burnley,England,"1,85 m",Centre-Forward,,,Jan-00,right,34,England,
+Wes Foderingham,/wes-foderingham/profil/spieler/61697,€700k,Sheffield United,ENG,"Jan 14, 1991 (32)",London,England,"1,85 m",Goalkeeper,CAA Stellar,,Mar-00,left,32,England U19,
+Adam Davies,/adam-davies/profil/spieler/121254,€500k,Sheffield United,ENG,"Jul 17, 1992 (31)",Rinteln,Wales,"1,85 m",Goalkeeper,Refuel Performance ...,Wales,Apr-00,right,31,,
+Jordan Amissah,/jordan-amissah/profil/spieler/385412,€250k,Sheffield United,ENG,"Aug 2, 2001 (22)",Herne,Ghana,"1,98 m",Goalkeeper,,Ghana U23,0 / 0,right,22,,
+Anel Ahmedhodzic,/anel-ahmedhodzic/profil/spieler/377468,€20.00m,Sheffield United,ENG,"Mar 26, 1999 (24)",Malmö,Bosnia-Herzegovina,"1,90 m",Centre-Back,FPA,,21 / 1,right,24,,Bosnia
+Auston Trusty,/auston-trusty/profil/spieler/389253,€10.00m,Sheffield United,ENG,"Aug 12, 1998 (25)","Media, Pennsylvania",United States,"1,90 m",Centre-Back,,,Feb-00,left,25,,USA
+John Egan,/john-egan/profil/spieler/121324,€6.00m,Sheffield United,ENG,"Oct 20, 1992 (30)",Cork,Ireland,"1,85 m",Centre-Back,,Ireland,34 / 3,right,30,,
+Jack Robinson,/jack-robinson/profil/spieler/128909,€700k,Sheffield United,ENG,"Sep 1, 1993 (30)",Warrington,England,"1,80 m",Centre-Back,Unique Sports Group,,1-Sep,left,30,England U21,
+Chris Basham,/chris-basham/profil/spieler/52495,€300k,Sheffield United,ENG,"Jul 20, 1988 (35)",Hebburn,England,"1,90 m",Centre-Back,,,,right,35,,
+Luke Thomas,/luke-thomas/profil/spieler/505194,€12.00m,Sheffield United,ENG,"Jun 10, 2001 (22)",Syston,England,"1,81 m",Left-Back,,,15 / 0,left,22,,England U21
+Yasser Larouci,/yasser-larouci/profil/spieler/554251,€3.50m,Sheffield United,ENG,"Jan 1, 2001 (22)",El Oued,France,"1,76 m",Left-Back,,,1-Jan,left,22,,France U21
+Max Lowe,/max-lowe/profil/spieler/258885,€3.00m,Sheffield United,ENG,"May 11, 1997 (26)",South Normanton,England,"1,75 m",Left-Back,Unique Sports Group,,Jun-00,left,26,England U20,
+Rhys Norrington-Davies,/rhys-norrington-davies/profil/spieler/543164,€3.00m,Sheffield United,ENG,"Apr 22, 1999 (24)",Riyadh,Wales,"1,81 m",Left-Back,,,13 / 1,left,24,,Wales
+Jayden Bogle,/jayden-bogle/profil/spieler/465717,€3.80m,Sheffield United,ENG,"Jul 27, 2000 (23)",Reading,England,"1,78 m",Right-Back,CAA Stellar,,Mar-00,right,23,England U20,
+Femi Seriki,/femi-seriki/profil/spieler/638649,€175k,Sheffield United,ENG,"Apr 28, 2002 (21)",,England,"1,80 m",Right-Back,,,,right,21,,
+Gustavo Hamer,/gustavo-hamer/profil/spieler/322985,€8.00m,Sheffield United,ENG,"Jun 24, 1997 (26)",Itajai,Netherlands,"1,69 m",Defensive Midfield,CAA Stellar,,Mar-00,right,26,Netherlands U20,
+Vini Souza,/vini-souza/profil/spieler/663581,€6.00m,Sheffield United,ENG,"Jun 17, 1999 (24)",Rio de Janeiro,Brazil,"1,87 m",Defensive Midfield,,,,right,24,,
+James McAtee,/james-mcatee/profil/spieler/583199,€12.00m,Sheffield United,ENG,"Oct 18, 2002 (20)",Salford,England,"1,80 m",Central Midfield,,England U21,Mar-00,left,20,,
+Tom Davies,/tom-davies/profil/spieler/314210,€9.00m,Sheffield United,ENG,"Jun 30, 1998 (25)",Liverpool,England,"1,80 m",Central Midfield,,,23 / 2,right,25,England U21,
+Anis Slimane,/anis-slimane/profil/spieler/546712,€2.50m,Sheffield United,ENG,"Mar 16, 2001 (22)",Kopenhagen,Tunisia,"1,88 m",Central Midfield,,,29 / 4,na,22,,Tunisia
+Oliver Norwood,/oliver-norwood/profil/spieler/73547,€2.00m,Sheffield United,ENG,"Apr 12, 1991 (32)",Burnley,Northern Ireland,"1,75 m",Central Midfield,Unique Sports Group,,57 / 0,right,32,N. Ireland,
+John Fleck,/john-fleck/profil/spieler/54383,€1.00m,Sheffield United,ENG,"Aug 24, 1991 (32)",Glasgow,Scotland,"1,69 m",Central Midfield,,,May-00,left,32,Scotland,
+Ismaila Coulibaly,/ismaila-coulibaly/profil/spieler/490224,€1.00m,Sheffield United,ENG,"Dec 25, 2000 (22)",,Mali,"1,83 m",Central Midfield,,Mali,Jan-00,right,22,,
+Ben Osborn,/ben-osborn/profil/spieler/218087,€1.00m,Sheffield United,ENG,"Aug 5, 1994 (29)",Derby,England,"1,76 m",Central Midfield,Unique Sports Group,,Jan-00,left,29,England U20,
+George Baldock,/george-baldock/profil/spieler/146690,€3.50m,Sheffield United,ENG,"Mar 9, 1993 (30)",Buckingham,Greece,"1,78 m",Right Midfield,,Greece,Sep-00,right,30,,
+Cameron Archer,/cameron-archer/profil/spieler/533662,€12.00m,Sheffield United,ENG,"Dec 9, 2001 (21)",Walsall,England,"1,75 m",Centre-Forward,Unique Sports Group,,6-Nov,right,21,,England U21
+Oli McBurnie,/oli-mcburnie/profil/spieler/298477,€5.00m,Sheffield United,ENG,"Jun 4, 1996 (27)",Leeds,Scotland,"1,88 m",Centre-Forward,CAA Stellar,,17 / 0,right,27,Scotland,
+Rhian Brewster,/rhian-brewster/profil/spieler/406560,€4.00m,Sheffield United,ENG,"Apr 1, 2000 (23)",London,England,"1,80 m",Centre-Forward,ROOF,,18 / 3,right,23,,England U21
+Bénie Traoré,/benie-traore/profil/spieler/852024,€3.50m,Sheffield United,ENG,"Nov 30, 2002 (20)",,Cote d'Ivoire,"1,72 m",Centre-Forward,Classico,,Jan-00,right,20,,Ivory Coast U23
+Daniel Jebbison,/daniel-jebbison/profil/spieler/746740,€1.00m,Sheffield United,ENG,"Jul 11, 2003 (20)","Oakville, Ontario",Canada,"1,90 m",Centre-Forward,,,1-May,right,20,,England U20
+William Osula,/william-osula/profil/spieler/609556,€250k,Sheffield United,ENG,"Aug 4, 2003 (20)",Aarhus,Denmark,"1,86 m",Centre-Forward,CAA Stellar,Denmark U21,0 / 0,right,20,,
+Thomas Kaminski,/thomas-kaminski/profil/spieler/77757,€2.20m,Luton Town,ENG,"Oct 23, 1992 (30)",Dendermonde,Belgium,"1,90 m",Goalkeeper,SEG,Belgium,0 / 0,,30,,
+Tim Krul,/tim-krul/profil/spieler/33027,€600k,Luton Town,ENG,"Apr 3, 1988 (35)",Den Haag,Netherlands,"1,93 m",Goalkeeper,,,15 / 0,left,35,Netherlands,
+James Shea,/james-shea/profil/spieler/91340,€200k,Luton Town,ENG,"Jun 16, 1991 (32)",London,England,,Goalkeeper,,,,,32,,
+Tom Lockyer,/tom-lockyer/profil/spieler/207742,€3.00m,Luton Town,ENG,"Dec 3, 1994 (28)",Cardiff,Wales,"1,85 m",Centre-Back,,,14 / 0,right,28,,Wales
+Teden Mengi,/teden-mengi/profil/spieler/548470,€2.00m,Luton Town,ENG,"Apr 30, 2002 (21)",Manchester,England,"1,86 m",Centre-Back,,,Jan-00,right,21,England U20,
+Mads Andersen,/mads-andersen/profil/spieler/407021,€2.00m,Luton Town,ENG,"Dec 27, 1997 (25)",Albertslund,Denmark,"1,94 m",Centre-Back,,,Feb-00,right,25,Denmark U19,
+Reece Burke,/reece-burke/profil/spieler/264220,€1.80m,Luton Town,ENG,"Sep 2, 1996 (27)",London,England,"1,89 m",Centre-Back,CAA Stellar,,Mar-00,right,27,England U20,
+Gabriel Osho,/gabriel-osho/profil/spieler/364409,€600k,Luton Town,ENG,"Aug 14, 1998 (25)",Reading,England,"1,85 m",Centre-Back,,,,right,25,,
+Ryan Giles,/ryan-giles/profil/spieler/504581,€9.00m,Luton Town,ENG,"Jan 26, 2000 (23)",Telford,England,"1,79 m",Left-Back,Unique Sports Group,,Apr-00,left,23,England U20,
+Amari'i Bell,/amarii-bell/profil/spieler/278166,€2.00m,Luton Town,ENG,"May 5, 1994 (29)",Burton upon Trent,Jamaica,"1,80 m",Left-Back,,Jamaica,15 / 1,left,29,,
+Dan Potts,/dan-potts/profil/spieler/207037,€1.00m,Luton Town,ENG,"Apr 13, 1994 (29)",London,England,"1,73 m",Left-Back,CAA Stellar,,Feb-00,left,29,England U20,
+Issa Kaboré,/issa-kabore/profil/spieler/649452,€7.00m,Luton Town,ENG,"May 12, 2001 (22)",Bobo-Dioulasso,Burkina Faso,"1,80 m",Right-Back,,Burkina Faso,32 / 2,right,22,,
+Marvelous Nakamba,/marvelous-nakamba/profil/spieler/324882,€4.00m,Luton Town,ENG,"Jan 19, 1994 (29)",Hwange,Zimbabwe,"1,77 m",Defensive Midfield,CAA Stellar,,26 / 0,left,29,Zimbabwe,
+Pelly Ruddock Mpanzu,/pelly-ruddock-mpanzu/profil/spieler/244338,€1.00m,Luton Town,ENG,"Mar 22, 1994 (29)",London,DR Congo,"1,75 m",Defensive Midfield,,DR Congo,Feb-00,right,29,,
+Albert Sambi Lokonga,/albert-sambi-lokonga/profil/spieler/381967,€15.00m,Luton Town,ENG,"Oct 22, 1999 (23)",Verviers,Belgium,"1,83 m",Central Midfield,,,Jan-00,right,23,Belgium,
+Ross Barkley,/ross-barkley/profil/spieler/131978,€6.00m,Luton Town,ENG,"Dec 5, 1993 (29)",Liverpool,England,"1,89 m",Central Midfield,,,33 / 6,right,29,England,
+Jordan Clark,/jordan-clark/profil/spieler/184129,€900k,Luton Town,ENG,"Sep 22, 1993 (29)",Hoyland,England,"1,83 m",Central Midfield,,,,right,29,,
+Luke Berry,/luke-berry/profil/spieler/125685,€400k,Luton Town,ENG,"Jul 12, 1992 (31)",Bassingbourn,England,"1,77 m",Central Midfield,,,,right,31,,
+Alfie Doughty,/alfie-doughty/profil/spieler/608175,€2.20m,Luton Town,ENG,"Dec 21, 1999 (23)",London,England,"1,83 m",Left Midfield,Refuel Performance ...,,,left,23,,
+Tahith Chong,/tahith-chong/profil/spieler/344830,€3.20m,Luton Town,ENG,"Dec 4, 1999 (23)",Willemstad,Netherlands,"1,85 m",Attacking Midfield,ROGON,,Jun-00,left,23,Netherlands U21,
+Chiedozie Ogbene,/chiedozie-ogbene/profil/spieler/392591,€2.00m,Luton Town,ENG,"May 1, 1997 (26)",Lagos,Ireland,"1,81 m",Right Winger,,Ireland,15 / 4,right,26,,
+Carlton Morris,/carlton-morris/profil/spieler/246963,€6.00m,Luton Town,ENG,"Dec 16, 1995 (27)",Cambridge,England,"1,85 m",Centre-Forward,CAA Stellar,,2-Feb,right,27,England U19,
+Elijah Adebayo,/elijah-adebayo/profil/spieler/319900,€6.00m,Luton Town,ENG,"Jan 7, 1998 (25)",London,England,"1,93 m",Centre-Forward,CAA Stellar,,,,25,,
+Jacob Brown,/jacob-brown/profil/spieler/469958,€6.00m,Luton Town,ENG,"Apr 10, 1998 (25)",Halifax,Scotland,"1,78 m",Centre-Forward,,,Jun-00,right,25,,Scotland
+Cauley Woodrow,/cauley-woodrow/profil/spieler/169801,€1.20m,Luton Town,ENG,"Dec 2, 1994 (28)",Hemel Hempstead,England,"1,84 m",Centre-Forward,CAA Stellar,,3-Sep,right,28,England U21,
